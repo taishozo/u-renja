@@ -64,7 +64,7 @@
             >
           </p>
           <p>
-            <a href="https://nakamura196.github.io/sat/"
+            <a href="https://taishozo.github.io/db/"
               >『大正新脩大蔵経』底本・校本DB</a
             >
           </p>
