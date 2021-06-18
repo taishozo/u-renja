@@ -181,7 +181,7 @@
 <script lang="ts">
 import { Vue, Component, Watch } from 'nuxt-property-decorator'
 import SearchForm from '~/components/search/SearchForm.vue'
-import SearchFilter from '~/components/search/filter.vue'
+import SearchFilter from '~/components/search/Filter.vue'
 import SearchResult from '~/components/search/SearchResult2.vue'
 import FacetSearchOptions from '~/components/search/FacetSearchOptions.vue'
 
