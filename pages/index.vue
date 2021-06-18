@@ -41,14 +41,20 @@
                 <li>
                   <a
                     target="_blank"
-                    href="https://www.kanzaki.com/works/2016/pub/image-annotator?u=https%3A%2F%2Fd1av1vcgsldque.cloudfront.net%2Fiiif%2Fcollection%2F%25E9%2585%2589%25E8%2593%25AE%25E7%25A4%25BE%25E7%2594%25BB%25E5%2583%258F.json"
+                    :href="
+                      'https://www.kanzaki.com/works/2016/pub/image-annotator?u=' +
+                      uRenja
+                    "
                     >酉蓮社本</a
                   >
                 </li>
                 <li>
                   <a
                     target="_blank"
-                    href="https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/sat_iiif/iiif/kandomokuroku/manifest.json"
+                    :href="
+                      'https://www.kanzaki.com/works/2016/pub/image-annotator?u=' +
+                      kando
+                    "
                     >『大正新脩大蔵経勘同目録』</a
                   >
                 </li>
@@ -204,6 +210,9 @@ export default class Page extends Vue {
   baseUrl: string = process.env.BASE_URL || ''
 
   image: string = this.$store.state.thumbnail ? this.$store.state.thumbnail : ''
+
+  uRenja: any = this.baseUrl + '/iiif/collection/top.json'
+  kando: any = process.env.db + '/iiif/kandomokuroku/manifest.json'
 
   get title(): string {
     return this.$store.state.title

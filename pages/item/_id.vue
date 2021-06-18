@@ -102,16 +102,5 @@ export default class Search extends Vue {
   get pocketUrl() {
     return 'http://getpocket.com/edit?url=' + this.url
   }
-
-  getUrl(arr: any[]) {
-    let params: string = ''
-    for (let i = 0; i < arr.length; i++) {
-      params += '&fc-通番=' + arr[i]['ex:通番']
-    }
-    return (
-      'https://taishozo.github.io/u-renja/search/?u=https://nakamura196.github.io/u-renja/iiif/collection/top.json' +
-      params
-    )
-  }
 }
 </script>

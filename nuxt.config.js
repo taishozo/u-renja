@@ -57,37 +57,41 @@ const shortName = process.env.SHORT_NAME
 const manifestIcon = 'img/icons/icon-512.png'
 // const splashscreens = cdnPath + 'img/splashscreens/'
 
+const env = {
+  API_BASE_URL,
+  BASE_URL,
+  // CDN_URL,
+  projectNameJa,
+  projectNameEn,
+
+  projectFooterJa,
+  projectFooterEn,
+
+  projectDescriptionJa,
+  projectDescriptionEn,
+  projectKeywords,
+  ELASTIC_SEARCH_HOST,
+  ELASTIC_SEARCH_MAIN_INDEX,
+  IIIF_VIEWER_SHOW_FLAG,
+  CURATION_VIEW_SHOW_FLAG,
+  FACETS_FLAGS,
+  FACETS_LABELS,
+  SORT_LABELS,
+  SEARCH_LABELS,
+  GOOGLE_ANALYTICS_ID,
+  SHORT_NAME,
+  SIMILAR_IMAGES_FLAG,
+}
+
+env.db = 'https://taishozo.github.io/db'
+
 module.exports = {
   server: {
     port: 8008, // デフォルト: 3000
     host: '0.0.0.0', // デフォルト: localhost
   },
   ...routerBase,
-  env: {
-    API_BASE_URL,
-    BASE_URL,
-    // CDN_URL,
-    projectNameJa,
-    projectNameEn,
-
-    projectFooterJa,
-    projectFooterEn,
-
-    projectDescriptionJa,
-    projectDescriptionEn,
-    projectKeywords,
-    ELASTIC_SEARCH_HOST,
-    ELASTIC_SEARCH_MAIN_INDEX,
-    IIIF_VIEWER_SHOW_FLAG,
-    CURATION_VIEW_SHOW_FLAG,
-    FACETS_FLAGS,
-    FACETS_LABELS,
-    SORT_LABELS,
-    SEARCH_LABELS,
-    GOOGLE_ANALYTICS_ID,
-    SHORT_NAME,
-    SIMILAR_IMAGES_FLAG,
-  },
+  env,
   // serverMiddleware: ['~~/api/'],
   workbox: {
     runtimeCaching: [
@@ -147,7 +151,7 @@ module.exports = {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: `${ogpImages}home.jpg`,
+        content: `${ogpImages}home.png`,
       },
       /*
       {
