@@ -246,7 +246,7 @@ module.exports = {
     // Doc: https://github.com/nuxt-community/dotenv-module
     '@nuxtjs/dotenv',
     'nuxt-i18n',
-    '@nuxtjs/sitemap',
+    // '@nuxtjs/sitemap',
     [
       '@nuxtjs/google-analytics',
       {
