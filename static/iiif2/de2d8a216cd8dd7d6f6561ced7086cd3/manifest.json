@@ -1,0 +1,726 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東洋文庫 / Toyo Bunko",
+    "label": "金師子章雲間類解1卷",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "金師子章雲間類解1卷"
+        },
+        {
+            "label": "Description",
+            "value": "通番: 1610"
+        },
+        {
+            "label": "Identifier",
+            "value": "de2d8a216cd8dd7d6f6561ced7086cd3"
+        }
+    ],
+    "related": {
+        "@id": "https://app.toyobunko-lab.jp/s/main/document/de2d8a216cd8dd7d6f6561ced7086cd3",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://app.toyobunko-lab.jp/api/items/695",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 4061,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p1",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image036.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4061,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image036.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4933
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/63b92cc1e44f7bafc17a8c2673eca03673e54b7f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4933
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 4060,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p2",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image037.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4060,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image037.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4936
+                            }
+                        }
+                    ],
+                    "label": "2",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/d976caac7ce8aeab9dfcb94c87bdefa10c0389c0.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4936
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 4056,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p3",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image038.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4056,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image038.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4941
+                            }
+                        }
+                    ],
+                    "label": "3",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/feb5178a397bac62c8e506ba169c59d09c16e15d.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4941
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 4069,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p4",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image039.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4069,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image039.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4936
+                            }
+                        }
+                    ],
+                    "label": "4",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/10b907f0e19436493e44f4331307d50aadcbb668.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4936
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 4072,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p5",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image040.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4072,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image040.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4950
+                            }
+                        }
+                    ],
+                    "label": "5",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/c2cca4e6580cf5139191d991504e89a9201af64e.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4950
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 4077,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p6",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image041.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4077,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image041.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4957
+                            }
+                        }
+                    ],
+                    "label": "6",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/81f5290be9f9a88c88549cef49cb3f364998688b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4957
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 4072,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p7",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image042.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4072,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image042.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4954
+                            }
+                        }
+                    ],
+                    "label": "7",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/b458661f621535113826aafbc4247539534fa2fa.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4954
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 4077,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p8",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image043.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4077,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image043.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4952
+                            }
+                        }
+                    ],
+                    "label": "8",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/78c7f873947c3797000628ce84670c25551aaf4b.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4952
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 4071,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p9",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image044.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4071,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image044.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4959
+                            }
+                        }
+                    ],
+                    "label": "9",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/bf59a78ec24db89ff46fe4e0864016204f199cec.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4959
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 4074,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p10",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image045.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4074,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image045.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4956
+                            }
+                        }
+                    ],
+                    "label": "10",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/e2e2da850c1b62c2ced2f526a894e10d7b88fc1f.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4956
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 4070,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p11",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image046.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4070,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image046.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4955
+                            }
+                        }
+                    ],
+                    "label": "11",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/0dfb9663cca7c29db7b77d9fd4d8f9f7c45a33fd.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4955
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 4175,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p12",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image047.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4175,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image047.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5053
+                            }
+                        }
+                    ],
+                    "label": "12",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/de128a17cff04fb590325582c8972136bbd485d8.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5053
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 4069,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p13",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image048.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4069,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image048.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 4975
+                            }
+                        }
+                    ],
+                    "label": "13",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/be29909deddb6d68d0e14039d418c2c18f0332ad.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 4975
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 4174,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p14",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image049.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4174,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image049.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5043
+                            }
+                        }
+                    ],
+                    "label": "14",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/b09642e2e8d41275cf1dfdcda430b0e426a52c14.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5043
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 4172,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p15",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image050.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4172,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image050.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5049
+                            }
+                        }
+                    ],
+                    "label": "15",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/1051881a375a895c7b23bb9b4f0ad77059ee6592.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5049
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 4146,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p16",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image051.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4146,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image051.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5065
+                            }
+                        }
+                    ],
+                    "label": "16",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/65a7118991335caf36bc9306c7a352723e8ac862.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5065
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 4165,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p17",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image052.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4165,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image052.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5070
+                            }
+                        }
+                    ],
+                    "label": "17",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/ef777dc565adb3530b1779c19d346b94d3319720.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5070
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 4168,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p18",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image053.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4168,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image053.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5070
+                            }
+                        }
+                    ],
+                    "label": "18",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/3769f3354c53cec4faa0f39be023af4368b1baed.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5070
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 4167,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p19",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image054.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4167,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image054.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5071
+                            }
+                        }
+                    ],
+                    "label": "19",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/0fe720e32203d7904d879c6328377061b93fcbae.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5071
+                },
+                {
+                    "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 4161,
+                    "images": [
+                        {
+                            "@id": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://app.toyobunko-lab.jp/iiif/2/de2d8a216cd8dd7d6f6561ced7086cd3/canvas/p20",
+                            "resource": {
+                                "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image055.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 4161,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://img.toyobunko-lab.jp/iiif/kaken/18K00073/u-renja1609-1611/image055.tif",
+                                    "profile": "http://iiif.io/api/image/2/level1.json"
+                                },
+                                "width": 5054
+                            }
+                        }
+                    ],
+                    "label": "20",
+                    "thumbnail": {
+                        "@id": "https://app.toyobunko-lab.jp/files/medium/7c5511b2f7ec6928642cb9b1b4b145d42fba2048.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "height": null,
+                        "width": null
+                    },
+                    "width": 5054
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/files/medium/63b92cc1e44f7bafc17a8c2673eca03673e54b7f.jpg",
+        "@type": "dctypes:Image",
+        "format": "image/jpeg",
+        "height": null,
+        "width": null
+    }
+}

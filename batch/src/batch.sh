@@ -1,0 +1,2 @@
+python 030_create_manifest.py
+python 040_create_advanced.py

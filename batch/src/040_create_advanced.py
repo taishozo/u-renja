@@ -10,14 +10,12 @@ from PIL import Image
 import yaml
 import requests
 
-prefix = "https://nakamura196.github.io/u-renja"
-# prefix = "https://sat-iiif.s3.amazonaws.com"
-# prefix = "https://d1av1vcgsldque.cloudfront.net"
+prefix = "https://taishozo.github.io/u-renja"
 opath = "../../static/iiif/collection/advanced.json"
-path = "data/酉蓮社本目録20200819.xlsx"
+path = "data/酉蓮社本目録20210226.xlsx"
 
 
-df_item = pd.read_excel(path, sheet_name="詳細", header=None, index_col=None)
+df_item = pd.read_excel(path, sheet_name="詳細", header=None, index_col=None, engine="openpyxl")
 
 r_count = len(df_item.index)
 c_count = len(df_item.columns)
@@ -68,7 +66,7 @@ for j in range(1, r_count):
         "@context": "http://iiif.io/api/presentation/2/context.json",
         "@type": "sc:Manifest",
         "@id": prefix + "/iiif/"+id+"/manifest.json",
-        "license": "http://example.org",
+        # "license": "http://example.org",
         "attribution": "酉蓮社 / Urenja",
         "label": id,
         "metadata": metadata

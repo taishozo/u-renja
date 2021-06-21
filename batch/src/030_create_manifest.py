@@ -10,14 +10,39 @@ from PIL import Image
 import yaml
 import requests
 
-prefix = "https://nakamura196.github.io/u-renja"
+prefix = "https://taishozo.github.io/u-renja"
 # prefix = "https://sat-iiif.s3.amazonaws.com"
 # prefix = "https://d1av1vcgsldque.cloudfront.net"
 opath = "../../static/iiif/collection/top.json"
-path = "data/酉蓮社本目録20200819.xlsx"
+path = "data/酉蓮社本目録20210226.xlsx"
+
+############
+
+with open("../../static/iiif2/collection/top.json") as f:
+    df2 = json.load(f)
+
+manifests = df2["manifests"]
+
+images = {}
+
+for m in manifests:
+    metadata = m["metadata"]
+
+    for obj in metadata:
+        if "通番: " in obj["value"]:
+            num = obj["value"].split("通番: ")[1]
+
+            num = str(int(num))
+
+            if num not in images:
+                images[num] = []
+
+            images[num].append(m["@id"])
+
+#############
 
 
-df_item = pd.read_excel(path, sheet_name="書名", header=None, index_col=None)
+df_item = pd.read_excel(path, sheet_name="書名", header=None, index_col=None, engine="openpyxl")
 
 r_count = len(df_item.index)
 c_count = len(df_item.columns)
@@ -33,7 +58,14 @@ for j in range(1, r_count):
 
     print(str(j)+"/"+str(r_count))
 
+    id = df_item.iloc[j, 7]
+
+    if pd.isnull(id):
+        continue
+
     metadata = []
+
+    num = -1
 
     for i in map:
         label = map[i]
@@ -48,6 +80,8 @@ for j in range(1, r_count):
 
             if label == "通番":
                 value = str(value).zfill(4)
+
+                num = str(int(value))
             
             metadata.append({
                 "label": label,
@@ -76,11 +110,21 @@ for j in range(1, r_count):
                 "value" : "画像なし"
             })
 
+    id = str(id).zfill(6)
+
+    # print(num)
+
+    if num in images:
+        metadata.append({
+            "label": "Manifest",
+            "value": images[num]
+        })
+
     manifest = {
         # "@context": "http://iiif.io/api/presentation/2/context.json",
         "@type": "sc:Manifest",
-        "@id": "http://example.org/"+str(df_item.iloc[j, 7]),
-        "license": "aaa",
+        "@id": prefix + "/iiif/"+id+"/manifest.json",
+        # "license": "aaa",
         # "attribution": df_item.iloc[j, attribution_index],
         "label": df_item.iloc[j, 7],
         "metadata": metadata

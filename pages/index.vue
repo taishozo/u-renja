@@ -211,7 +211,7 @@ export default class Page extends Vue {
 
   image: string = this.$store.state.thumbnail ? this.$store.state.thumbnail : ''
 
-  uRenja: any = this.baseUrl + '/iiif/collection/top.json'
+  uRenja: any = this.baseUrl + '/iiif2/collection/top.json'
   kando: any = process.env.db + '/iiif/kandomokuroku/manifest.json'
 
   get title(): string {

@@ -128,7 +128,7 @@
 
 <script lang="ts">
 import { Vue, Watch, Component } from 'nuxt-property-decorator'
-import axios from 'axios'
+// import axios from 'axios'
 import ResultOption from '~/components/display/ResultOption.vue'
 
 @Component({
@@ -140,7 +140,7 @@ export default class TableSearchResult extends Vue {
   flg1: boolean = false
   flg2: boolean = false
 
-  iiifMap: any = {}
+  // iiifMap: any = {}
 
   get results() {
     return this.$store.state.result.hits.hits
@@ -156,7 +156,9 @@ export default class TableSearchResult extends Vue {
     this.main()
   }
 
-  async mounted() {
+  // async
+  mounted() {
+    /*
     const self = this
     await axios
       .get(
@@ -173,6 +175,7 @@ export default class TableSearchResult extends Vue {
         }
         self.iiifMap = map
       })
+    */
 
     const facetLabels: any = this.$store.state.facetLabels
     const fields: any = [
@@ -306,17 +309,15 @@ export default class TableSearchResult extends Vue {
 
   icons(obj: any) {
     const results = []
-    for (let i = 1; i < 5; i++) {
-      if (!obj.raw._source['画像フォルダ名(' + i + ')']) {
-        continue
+    if (obj.raw._source.Manifest) {
+      const manifests = obj.raw._source.Manifest
+      for (const m of manifests) {
+        const text =
+          '<a href="http://www.kanzaki.com/works/2016/pub/image-annotator?u=' +
+          m +
+          '" target="_blank"><img width="30px" src="https://pbs.twimg.com/profile_images/596366309601845248/2uaPY5NH.png"/></a>'
+        results.push(text)
       }
-      const text =
-        '<a href="http://www.kanzaki.com/works/2016/pub/image-annotator?u=' +
-        this.iiifMap[
-          this.$utils.formatArrayValue(obj.raw._source['画像フォルダ名(1)'])
-        ] +
-        '" target="_blank"><img width="30px" src="https://pbs.twimg.com/profile_images/596366309601845248/2uaPY5NH.png"/></a>'
-      results.push(text)
     }
     return results.join('  ')
   }
