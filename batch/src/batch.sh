@@ -1,2 +1,3 @@
+python 050_create_collection.py
 python 030_create_manifest.py
 python 040_create_advanced.py

@@ -1,12 +1,12 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://taishozo.github.io/iiif2/collection/top.json",
+    "@id": "https://taishozo.github.io/u-renja/iiif2/collection/top.json",
     "@type": "sc:Collection",
     "attribution": "東洋文庫 / Toyo Bunko",
     "label": "酉蓮社本",
     "manifests": [
         {
-            "@id": "https://taishozo.github.io/iiif2/4e9108e558608cc94e3379b74bd48fa0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/4e9108e558608cc94e3379b74bd48fa0/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説四十二章經1卷",
             "metadata": [
@@ -32,7 +32,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/0c2c92cdc0ab0c7cb34f33d21c0809c6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0c2c92cdc0ab0c7cb34f33d21c0809c6/manifest.json",
             "@type": "sc:Manifest",
             "label": "聖觀自在菩薩一百八名經1卷",
             "metadata": [
@@ -58,7 +58,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/2c1e0baf4bb606f59cfa21ff08de0c96/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2c1e0baf4bb606f59cfa21ff08de0c96/manifest.json",
             "@type": "sc:Manifest",
             "label": "出家授近圓羯磨儀範1卷",
             "metadata": [
@@ -84,7 +84,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/b3254138e440a6be252666fc30b12752/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/b3254138e440a6be252666fc30b12752/manifest.json",
             "@type": "sc:Manifest",
             "label": "根本説一切有部苾芻習學畧法1卷",
             "metadata": [
@@ -110,7 +110,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/67b4f72a2b8ba962c6829c0d51f0e859/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/67b4f72a2b8ba962c6829c0d51f0e859/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛頂一切如來眞實攝大乘現證大教王經2卷",
             "metadata": [
@@ -136,7 +136,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/7d360584e11a93dba61de12b15699b67/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/7d360584e11a93dba61de12b15699b67/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經入法界品四十二字觀1卷",
             "metadata": [
@@ -162,7 +162,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/e09c8479a1295df56c9f79f884bc8247/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e09c8479a1295df56c9f79f884bc8247/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷",
             "metadata": [
@@ -188,7 +188,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ee7780363b4d732856b80397cfca2796/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ee7780363b4d732856b80397cfca2796/manifest.json",
             "@type": "sc:Manifest",
             "label": "顯密圓通成佛心要集2卷坿供物利生儀1卷",
             "metadata": [
@@ -214,7 +214,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/27bd273e85858ecd553e7a624e47b94b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/27bd273e85858ecd553e7a624e47b94b/manifest.json",
             "@type": "sc:Manifest",
             "label": "密呪圓因往生集1卷",
             "metadata": [
@@ -240,7 +240,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/2fdf16299a11224017390d25d201ef82/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2fdf16299a11224017390d25d201ef82/manifest.json",
             "@type": "sc:Manifest",
             "label": "説罪要行法1卷",
             "metadata": [
@@ -266,7 +266,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/98624cfa73fd90352ccfbc74a3ff47dd/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/98624cfa73fd90352ccfbc74a3ff47dd/manifest.json",
             "@type": "sc:Manifest",
             "label": "受用三水要行法1卷",
             "metadata": [
@@ -292,7 +292,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a5a3e5b567465f12cb6246c36f42a8fa/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a5a3e5b567465f12cb6246c36f42a8fa/manifest.json",
             "@type": "sc:Manifest",
             "label": "護命放生軌儀法1卷",
             "metadata": [
@@ -318,7 +318,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/d0420811d791f049f1ebbe3511e3e0b2/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d0420811d791f049f1ebbe3511e3e0b2/manifest.json",
             "@type": "sc:Manifest",
             "label": "慈悲道場懺法10卷",
             "metadata": [
@@ -344,7 +344,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/da8730ba9e308fa1c179297dfd3debc9/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/da8730ba9e308fa1c179297dfd3debc9/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華三昧懺儀1卷",
             "metadata": [
@@ -370,7 +370,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/808f5bc64eda654304a0926a24eb7120/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/808f5bc64eda654304a0926a24eb7120/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華三昧行事運想補助儀1卷",
             "metadata": [
@@ -396,7 +396,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/033deef65888b6a50eea7c45b56b6e15/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/033deef65888b6a50eea7c45b56b6e15/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明懺法補助儀1卷",
             "metadata": [
@@ -422,7 +422,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f59582f34a37804e54b13d49e47c5236/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f59582f34a37804e54b13d49e47c5236/manifest.json",
             "@type": "sc:Manifest",
             "label": "略法華三昧補助儀1卷",
             "metadata": [
@@ -448,7 +448,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/9da13137a7fbc5704545d0b5e01efd28/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9da13137a7fbc5704545d0b5e01efd28/manifest.json",
             "@type": "sc:Manifest",
             "label": "往生淨土懺願儀1卷",
             "metadata": [
@@ -474,7 +474,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/93b53ec17c0373f66456c870ea027075/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/93b53ec17c0373f66456c870ea027075/manifest.json",
             "@type": "sc:Manifest",
             "label": "往生淨土決疑行願二門1卷",
             "metadata": [
@@ -500,7 +500,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/49dcb026366a7eb303d9e37c4c4ffcbf/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/49dcb026366a7eb303d9e37c4c4ffcbf/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷",
             "metadata": [
@@ -526,7 +526,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f0c3842ee2fd8a9df84b5ab9aa66cac4/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f0c3842ee2fd8a9df84b5ab9aa66cac4/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明最勝懺儀1卷坿",
             "metadata": [
@@ -552,7 +552,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/382a853126866ecddb02c2f51fb4313a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/382a853126866ecddb02c2f51fb4313a/manifest.json",
             "@type": "sc:Manifest",
             "label": "千手眼大悲心呪行法1卷",
             "metadata": [
@@ -578,7 +578,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/bed0876744c5456e56b88a337baacfea/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bed0876744c5456e56b88a337baacfea/manifest.json",
             "@type": "sc:Manifest",
             "label": "禮法華經儀式1卷",
             "metadata": [
@@ -604,7 +604,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/c8570947b67031c46d4b518226bb04e6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c8570947b67031c46d4b518226bb04e6/manifest.json",
             "@type": "sc:Manifest",
             "label": "禮法華經儀式1卷",
             "metadata": [
@@ -630,7 +630,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/494527d2310f2f29d11ddaccb6219f71/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/494527d2310f2f29d11ddaccb6219f71/manifest.json",
             "@type": "sc:Manifest",
             "label": "熾盛光道場念誦儀1卷",
             "metadata": [
@@ -656,7 +656,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/0d49a15f743873b31c90308fcf1da3a1/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0d49a15f743873b31c90308fcf1da3a1/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋迦如來涅槃禮讚文1卷",
             "metadata": [
@@ -682,7 +682,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1256441999969871954b5a43a6dc974d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1256441999969871954b5a43a6dc974d/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台智者大師齋忌禮讚文1卷",
             "metadata": [
@@ -708,7 +708,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/6ef413a5def609bc6bb579ef1c718f97/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6ef413a5def609bc6bb579ef1c718f97/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀自在菩薩如意輪呪課法1卷",
             "metadata": [
@@ -734,7 +734,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/c32a027c18dad5181298b3f769dca22d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c32a027c18dad5181298b3f769dca22d/manifest.json",
             "@type": "sc:Manifest",
             "label": "慈悲水懺灋3卷",
             "metadata": [
@@ -760,7 +760,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/8625d7f5279d6dfed3116fbf6c404ff0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8625d7f5279d6dfed3116fbf6c404ff0/manifest.json",
             "@type": "sc:Manifest",
             "label": "六祖大師法寶壇經1卷",
             "metadata": [
@@ -786,7 +786,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/9f60c3f06f3a0de8afcdb578a92b6510/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9f60c3f06f3a0de8afcdb578a92b6510/manifest.json",
             "@type": "sc:Manifest",
             "label": "明覺禪師語録6卷",
             "metadata": [
@@ -812,7 +812,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/14ee2d6922ffb358cc1db9e84622dda8/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/14ee2d6922ffb358cc1db9e84622dda8/manifest.json",
             "@type": "sc:Manifest",
             "label": "傳法正宗論2卷",
             "metadata": [
@@ -838,7 +838,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/9270295195dfa023c95249cab1dea75f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9270295195dfa023c95249cab1dea75f/manifest.json",
             "@type": "sc:Manifest",
             "label": "圓悟佛果禪師語録20卷",
             "metadata": [
@@ -864,7 +864,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/97735fa1684a5bfe422fd843328fd734/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/97735fa1684a5bfe422fd843328fd734/manifest.json",
             "@type": "sc:Manifest",
             "label": "大慧普覺禪師宗門武庫1卷",
             "metadata": [
@@ -890,7 +890,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ef5ec2c6e762a1aeec9b3cabc2a11f3b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ef5ec2c6e762a1aeec9b3cabc2a11f3b/manifest.json",
             "@type": "sc:Manifest",
             "label": "大慧普覺禪師語録30卷",
             "metadata": [
@@ -916,7 +916,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/8381ce18968c0ba785cc4120c48dcbc0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8381ce18968c0ba785cc4120c48dcbc0/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經玄義10卷",
             "metadata": [
@@ -942,7 +942,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/801c91dca1521a5f4aee5f5ceb4e91df/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/801c91dca1521a5f4aee5f5ceb4e91df/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經玄義10卷縁起序1卷坿科文2卷",
             "metadata": [
@@ -968,7 +968,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/8e3bdae49eebb4e466dda276dc00cb65/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8e3bdae49eebb4e466dda276dc00cb65/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經文句10卷",
             "metadata": [
@@ -994,7 +994,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/62d493a868debc78f1c2c1036cef3ab5/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/62d493a868debc78f1c2c1036cef3ab5/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華文句記10卷",
             "metadata": [
@@ -1020,7 +1020,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/926ae798ec74e88096f669506e174a6e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/926ae798ec74e88096f669506e174a6e/manifest.json",
             "@type": "sc:Manifest",
             "label": "摩訶止觀10卷",
             "metadata": [
@@ -1046,7 +1046,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f7c711e77c5f3247460c313b0448fd88/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f7c711e77c5f3247460c313b0448fd88/manifest.json",
             "@type": "sc:Manifest",
             "label": "止觀輔行傳弘決10卷",
             "metadata": [
@@ -1072,7 +1072,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/98e2c011e382ae462590802a43f49887/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/98e2c011e382ae462590802a43f49887/manifest.json",
             "@type": "sc:Manifest",
             "label": "修習止觀坐禪法要1卷",
             "metadata": [
@@ -1098,7 +1098,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/adc47cde0622e73edf64330bbca27c38/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/adc47cde0622e73edf64330bbca27c38/manifest.json",
             "@type": "sc:Manifest",
             "label": "止觀義例2卷",
             "metadata": [
@@ -1124,7 +1124,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/0939c1b63f12cf2fc93b8dbf3b2d3e4f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0939c1b63f12cf2fc93b8dbf3b2d3e4f/manifest.json",
             "@type": "sc:Manifest",
             "label": "大乘止觀法門4卷",
             "metadata": [
@@ -1150,7 +1150,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/81189ffb088065900aca3c4588e397a2/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/81189ffb088065900aca3c4588e397a2/manifest.json",
             "@type": "sc:Manifest",
             "label": "諸法無諍三昧法門2卷",
             "metadata": [
@@ -1176,7 +1176,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/b0d558a194567ae716f037601caa3ef0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/b0d558a194567ae716f037601caa3ef0/manifest.json",
             "@type": "sc:Manifest",
             "label": "大般涅槃經疏33卷",
             "metadata": [
@@ -1202,7 +1202,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ce23045c402e56be1d353810d38d1323/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ce23045c402e56be1d353810d38d1323/manifest.json",
             "@type": "sc:Manifest",
             "label": "大般涅槃經玄義2卷",
             "metadata": [
@@ -1228,7 +1228,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/2179c86181dc095b83335f94971cb101/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2179c86181dc095b83335f94971cb101/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華經安樂行義1卷",
             "metadata": [
@@ -1254,7 +1254,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a16c31da84dedb8a24cebcc5ec2c9374/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a16c31da84dedb8a24cebcc5ec2c9374/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經玄義拾遺記2卷玄義科1卷",
             "metadata": [
@@ -1280,7 +1280,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a7d9a11374f2b309a72ed30ccc08bcae/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a7d9a11374f2b309a72ed30ccc08bcae/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若經疏1卷",
             "metadata": [
@@ -1306,7 +1306,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/309e364fd1f7d87fd7a7cabd7b5db54f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/309e364fd1f7d87fd7a7cabd7b5db54f/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台四教儀1卷坿科文1卷時教圖1卷",
             "metadata": [
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1644bd1f12cd305dd3a81c354b85d169/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1644bd1f12cd305dd3a81c354b85d169/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經文句文句記8卷",
             "metadata": [
@@ -1358,7 +1358,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/314249a8af8b9a2015295a3bda060e5c/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/314249a8af8b9a2015295a3bda060e5c/manifest.json",
             "@type": "sc:Manifest",
             "label": "菩薩戒義疏2卷",
             "metadata": [
@@ -1384,7 +1384,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a2e2974f0be27959a399ebec8767dd30/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a2e2974f0be27959a399ebec8767dd30/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音玄義2卷",
             "metadata": [
@@ -1410,7 +1410,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/9b4d9259e87c5d94026ad4e52cc434cd/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9b4d9259e87c5d94026ad4e52cc434cd/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音玄義記4卷",
             "metadata": [
@@ -1436,7 +1436,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/e196817287f92fb1d47532779f1d3e1e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e196817287f92fb1d47532779f1d3e1e/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音義疏2卷",
             "metadata": [
@@ -1462,7 +1462,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/336ce5e3b32cfe17aeffa64cda17d4f0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/336ce5e3b32cfe17aeffa64cda17d4f0/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音義疏記4卷",
             "metadata": [
@@ -1488,7 +1488,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/86242692e1a2c1036d462e6b8c8539ef/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/86242692e1a2c1036d462e6b8c8539ef/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説觀無量壽佛經疏1卷",
             "metadata": [
@@ -1514,7 +1514,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/bbc4e75429691721248a267563e311d6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bbc4e75429691721248a267563e311d6/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀無量壽佛經疏妙宗鈔6卷",
             "metadata": [
@@ -1540,7 +1540,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/275119601338b596b7d143643bb6a015/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/275119601338b596b7d143643bb6a015/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀音經疏1卷",
             "metadata": [
@@ -1566,7 +1566,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/b2eba3a9c23b543f19b097d4c54d211a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/b2eba3a9c23b543f19b097d4c54d211a/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀音經疏闡義鈔4卷",
             "metadata": [
@@ -1592,7 +1592,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/fb8729926df637f1a5154d9ce86790a0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/fb8729926df637f1a5154d9ce86790a0/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋摩訶般若波羅蜜經覺意三昧1卷",
             "metadata": [
@@ -1618,7 +1618,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a5fa529817ca67d73af11d5a5f2e8e05/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a5fa529817ca67d73af11d5a5f2e8e05/manifest.json",
             "@type": "sc:Manifest",
             "label": "四念處4卷",
             "metadata": [
@@ -1644,7 +1644,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/9f5bebcb3c04096a3d8f27dbf35ce9b8/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9f5bebcb3c04096a3d8f27dbf35ce9b8/manifest.json",
             "@type": "sc:Manifest",
             "label": "仁王護國般若經疏5卷",
             "metadata": [
@@ -1670,7 +1670,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1c09094447916df8c6896ace92c5fef6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1c09094447916df8c6896ace92c5fef6/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説仁王護國般若波羅蜜經疏神寶記4卷",
             "metadata": [
@@ -1696,7 +1696,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/496a6c185c87394c22864c287f2d24f2/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/496a6c185c87394c22864c287f2d24f2/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台八教大意1卷",
             "metadata": [
@@ -1722,7 +1722,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ee72aa71b24ca0cc3646c0b21504345c/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ee72aa71b24ca0cc3646c0b21504345c/manifest.json",
             "@type": "sc:Manifest",
             "label": "四教義6卷",
             "metadata": [
@@ -1748,7 +1748,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1a2734e89bc52b65fe5ac18d52e9186d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1a2734e89bc52b65fe5ac18d52e9186d/manifest.json",
             "@type": "sc:Manifest",
             "label": "國淸百録4卷",
             "metadata": [
@@ -1774,7 +1774,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/4832d011fffba903c428826b0a744a26/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/4832d011fffba903c428826b0a744a26/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋禪波羅蜜次第法門10卷",
             "metadata": [
@@ -1800,7 +1800,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/d2265690b47cd7455d324cf17ac1540d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d2265690b47cd7455d324cf17ac1540d/manifest.json",
             "@type": "sc:Manifest",
             "label": "法界次第初門3卷",
             "metadata": [
@@ -1826,7 +1826,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/053a1393e81adefad6e1e4db764d8274/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/053a1393e81adefad6e1e4db764d8274/manifest.json",
             "@type": "sc:Manifest",
             "label": "方等三昧行法1卷",
             "metadata": [
@@ -1852,7 +1852,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/6441ffe63a7fa4df8448bf7a65f2dc6e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6441ffe63a7fa4df8448bf7a65f2dc6e/manifest.json",
             "@type": "sc:Manifest",
             "label": "淨土十疑論1卷",
             "metadata": [
@@ -1878,7 +1878,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/2ae38d473c473f48160c612ae002e5e0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2ae38d473c473f48160c612ae002e5e0/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀心論疏5卷",
             "metadata": [
@@ -1904,7 +1904,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/111c3a52701aa69b199420760fe41831/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/111c3a52701aa69b199420760fe41831/manifest.json",
             "@type": "sc:Manifest",
             "label": "禪宗永嘉集1卷坿永嘉證道歌1卷",
             "metadata": [
@@ -1930,7 +1930,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/7dee27ec4fa7419f9498ebcfb8ea87a6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/7dee27ec4fa7419f9498ebcfb8ea87a6/manifest.json",
             "@type": "sc:Manifest",
             "label": "十不二門指要鈔2卷",
             "metadata": [
@@ -1956,7 +1956,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1441532e1341864833c9d59d719d0c3b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1441532e1341864833c9d59d719d0c3b/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛錍1卷坿科文",
             "metadata": [
@@ -1982,7 +1982,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/e25b8b871e55afaa258cac70c04763d9/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e25b8b871e55afaa258cac70c04763d9/manifest.json",
             "@type": "sc:Manifest",
             "label": "法智遺編觀心二百問1卷",
             "metadata": [
@@ -2008,7 +2008,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a07618444dfb4b44febd8ab2b43765ae/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a07618444dfb4b44febd8ab2b43765ae/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台傳佛心印記1卷",
             "metadata": [
@@ -2034,7 +2034,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/788204010d89c9da9c0fe717f30fdbe0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/788204010d89c9da9c0fe717f30fdbe0/manifest.json",
             "@type": "sc:Manifest",
             "label": "淨土境觀要門1卷坿一心三觀1卷",
             "metadata": [
@@ -2060,7 +2060,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/aae8775d5918f5bce4b32b4f8144b399/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/aae8775d5918f5bce4b32b4f8144b399/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經疏60卷",
             "metadata": [
@@ -2086,7 +2086,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/8baaaae14733bb845b813223384d4d6a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8baaaae14733bb845b813223384d4d6a/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經隨疏演義鈔90卷",
             "metadata": [
@@ -2112,7 +2112,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/7dbd9d3f3d2b1dc35ef05fce47cf0314/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/7dbd9d3f3d2b1dc35ef05fce47cf0314/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴一乘教義分齊章4卷",
             "metadata": [
@@ -2138,7 +2138,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/fb868528ba70df4cd248fd8fbfe48a8b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/fb868528ba70df4cd248fd8fbfe48a8b/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴經明法品内立三寶章2卷",
             "metadata": [
@@ -2164,7 +2164,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1d18d6a61910b479c1c9c5f648012f1a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1d18d6a61910b479c1c9c5f648012f1a/manifest.json",
             "@type": "sc:Manifest",
             "label": "修華嚴奧旨妄盡還源觀1卷",
             "metadata": [
@@ -2190,7 +2190,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/acf0b29a214e2d7dd78b804a7d907e86/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/acf0b29a214e2d7dd78b804a7d907e86/manifest.json",
             "@type": "sc:Manifest",
             "label": "原人論1卷",
             "metadata": [
@@ -2216,7 +2216,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/44c34669071efc402bc7e50d54ec5fef/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/44c34669071efc402bc7e50d54ec5fef/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴經旨歸1卷",
             "metadata": [
@@ -2242,7 +2242,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/99dc38cf2a08ee90f474df54c29cfa15/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/99dc38cf2a08ee90f474df54c29cfa15/manifest.json",
             "@type": "sc:Manifest",
             "label": "注華嚴法界觀門1卷",
             "metadata": [
@@ -2268,7 +2268,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/d0363c16ca568654b7148d6703e8f337/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d0363c16ca568654b7148d6703e8f337/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛遺教經論疏節要1卷",
             "metadata": [
@@ -2294,7 +2294,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/d86c8d39e95626e9b607344c24dba54e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d86c8d39e95626e9b607344c24dba54e/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴法界玄鏡2卷",
             "metadata": [
@@ -2320,7 +2320,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/c29ee2aba8fcc3c2cd1b9dcd8333cfb1/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c29ee2aba8fcc3c2cd1b9dcd8333cfb1/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若波羅蜜多心經略疏1卷",
             "metadata": [
@@ -2346,7 +2346,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/03998cf525d81b3d7c59f91c088b433c/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/03998cf525d81b3d7c59f91c088b433c/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若心經略疏連珠記2卷",
             "metadata": [
@@ -2372,7 +2372,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/75712adf9bc5f817098521335a7c0d7d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/75712adf9bc5f817098521335a7c0d7d/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説盂蘭盆經2卷",
             "metadata": [
@@ -2398,7 +2398,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/de2d8a216cd8dd7d6f6561ced7086cd3/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/de2d8a216cd8dd7d6f6561ced7086cd3/manifest.json",
             "@type": "sc:Manifest",
             "label": "金師子章雲間類解1卷",
             "metadata": [
@@ -2424,7 +2424,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/721ba623b7ad0b3c11bc7495e4a1b878/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/721ba623b7ad0b3c11bc7495e4a1b878/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説阿彌陀經疏1卷",
             "metadata": [
@@ -2450,7 +2450,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/a310611dc623f04a85a202ebce0d5b79/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a310611dc623f04a85a202ebce0d5b79/manifest.json",
             "@type": "sc:Manifest",
             "label": "楞伽阿跋多羅寶經註解4卷",
             "metadata": [
@@ -2476,7 +2476,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ccd0a5bd0fce92d4611a3d4e04254472/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ccd0a5bd0fce92d4611a3d4e04254472/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若波羅蜜多心經註解1卷",
             "metadata": [
@@ -2502,7 +2502,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f2899b8ed2ba6b037fbfefd3eaa926d4/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f2899b8ed2ba6b037fbfefd3eaa926d4/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若波羅蜜經註解1卷",
             "metadata": [
@@ -2528,7 +2528,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ac0145d36d456b568b40ce3b4e34f14f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ac0145d36d456b568b40ce3b4e34f14f/manifest.json",
             "@type": "sc:Manifest",
             "label": "起信論疏筆削記20卷",
             "metadata": [
@@ -2554,7 +2554,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/d532fe680234e3e30f287d197a9a0dc3/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d532fe680234e3e30f287d197a9a0dc3/manifest.json",
             "@type": "sc:Manifest",
             "label": "肇論新疏3卷",
             "metadata": [
@@ -2580,7 +2580,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/5a0540e4ea78e3cea32751c22c06dc52/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5a0540e4ea78e3cea32751c22c06dc52/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣圓覺修多羅了義經略疏註2卷",
             "metadata": [
@@ -2606,7 +2606,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/e6500f74265221c6f1face85f5c275a1/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e6500f74265221c6f1face85f5c275a1/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若經疏論纂要2卷",
             "metadata": [
@@ -2632,7 +2632,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1a3a8b33c7a7a96f4b0214165e1f607f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1a3a8b33c7a7a96f4b0214165e1f607f/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛經纂要刊定記7卷",
             "metadata": [
@@ -2658,7 +2658,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/89a135d2a94ed2b30dd788245d4c8095/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/89a135d2a94ed2b30dd788245d4c8095/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛祖歴代通載22卷目録1卷",
             "metadata": [
@@ -2684,7 +2684,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f8764417388ec8343c624a8231bb2830/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f8764417388ec8343c624a8231bb2830/manifest.json",
             "@type": "sc:Manifest",
             "label": "勅脩百丈淸規8卷",
             "metadata": [
@@ -2710,7 +2710,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/557d2121f79bb5ef8caba930a05d0b2a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/557d2121f79bb5ef8caba930a05d0b2a/manifest.json",
             "@type": "sc:Manifest",
             "label": "禪源諸詮集都序2卷",
             "metadata": [
@@ -2736,7 +2736,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/b1e7520b923991704d8383e4202de04a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/b1e7520b923991704d8383e4202de04a/manifest.json",
             "@type": "sc:Manifest",
             "label": "八識規矩補註2卷",
             "metadata": [
@@ -2762,7 +2762,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/1eae31fd79367791a9211056d5f81cea/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1eae31fd79367791a9211056d5f81cea/manifest.json",
             "@type": "sc:Manifest",
             "label": "大乘百法明門論2卷坿科1卷",
             "metadata": [
@@ -2788,7 +2788,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/34d5b03f52ec549497d3619a81f586f9/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/34d5b03f52ec549497d3619a81f586f9/manifest.json",
             "@type": "sc:Manifest",
             "label": "廬山蓮宗寶鑑10卷",
             "metadata": [
@@ -2814,7 +2814,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/e1f30c99c0f4d4bf4a676745c8bca7ec/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e1f30c99c0f4d4bf4a676745c8bca7ec/manifest.json",
             "@type": "sc:Manifest",
             "label": "永明智覺禪師唯心訣1卷",
             "metadata": [
@@ -2840,7 +2840,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f17a8d0a5dad2f3e9d01ade3a0b0aa0b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f17a8d0a5dad2f3e9d01ade3a0b0aa0b/manifest.json",
             "@type": "sc:Manifest",
             "label": "定慧相資歌1卷",
             "metadata": [
@@ -2866,7 +2866,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/2bda0b16c7845821526b20718a462000/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2bda0b16c7845821526b20718a462000/manifest.json",
             "@type": "sc:Manifest",
             "label": "警世1卷",
             "metadata": [
@@ -2892,7 +2892,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/c627a02cb1af384fdfd4920eb7b0c96b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c627a02cb1af384fdfd4920eb7b0c96b/manifest.json",
             "@type": "sc:Manifest",
             "label": "宗鏡録序1卷",
             "metadata": [
@@ -2918,7 +2918,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/8eb786a6f73efa981e5c4da79d7765cc/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8eb786a6f73efa981e5c4da79d7765cc/manifest.json",
             "@type": "sc:Manifest",
             "label": "禪宗決疑集1卷",
             "metadata": [
@@ -2944,7 +2944,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/727fc48a7c085e71cbb79f2477f49a9f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/727fc48a7c085e71cbb79f2477f49a9f/manifest.json",
             "@type": "sc:Manifest",
             "label": "黄檗山斷際禪師傳心法要1卷黄檗山斷際禪師宛陵録1卷",
             "metadata": [
@@ -2970,7 +2970,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/f5ec54113a6f3a2c9587c4b2662e98b6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f5ec54113a6f3a2c9587c4b2662e98b6/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴七字經題法界觀三十門頌2卷",
             "metadata": [
@@ -2996,7 +2996,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/5c07ddd47dc0dffd88dbacb3040ed836/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5c07ddd47dc0dffd88dbacb3040ed836/manifest.json",
             "@type": "sc:Manifest",
             "label": "續傳燈録36卷",
             "metadata": [
@@ -3022,7 +3022,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/46276bbe0daf7a952ec7d1120d5dfa30/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/46276bbe0daf7a952ec7d1120d5dfa30/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷4-5)",
             "metadata": [
@@ -3048,7 +3048,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/ccaf2b9980460fe0794ebf8023267a86/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ccaf2b9980460fe0794ebf8023267a86/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷15-18)",
             "metadata": [
@@ -3074,7 +3074,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/82039cf0122950aff21d13007e24776f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/82039cf0122950aff21d13007e24776f/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷19)",
             "metadata": [
@@ -3100,7 +3100,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/6b6dacee618168387018afb745022e95/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6b6dacee618168387018afb745022e95/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷20-22)",
             "metadata": [
@@ -3126,7 +3126,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/iiif2/78bb3e59a0b898b37690c7c81c963983/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/78bb3e59a0b898b37690c7c81c963983/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛祖統紀54卷",
             "metadata": [

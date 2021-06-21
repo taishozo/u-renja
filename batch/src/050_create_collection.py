@@ -12,7 +12,7 @@ import requests
 
 url = "https://app.toyobunko-lab.jp/iiif/2/collection/18K00073"
 
-prefix = "https://taishozo.github.io"
+prefix = "https://taishozo.github.io/u-renja"
 
 df = requests.get(url).json()
 
