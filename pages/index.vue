@@ -35,6 +35,7 @@
                 </li>
               </ul>
             </div>
+            <!--
             <div class="mt-4">
               IIIF画像
               <ul>
@@ -60,6 +61,15 @@
                 </li>
               </ul>
             </div>
+            <div class="mt-4">
+              データ
+              <ul>
+                <li>
+                  <a target="_blank" :href="metadata">Excel</a>
+                </li>
+              </ul>
+            </div>
+            -->
           </v-sheet>
           <p>
             <a :href="baseUrl + '/はじめに・凡例.pdf'">はじめに・凡例</a>
@@ -72,6 +82,11 @@
           <p>
             <a href="https://taishozo.github.io/db/"
               >『大正新脩大蔵経』底本・校本DB</a
+            >
+          </p>
+          <p>
+            <nuxt-link :to="localePath({ name: 'dataset' })"
+              >データセット</nuxt-link
             >
           </p>
           <v-tooltip top>
@@ -212,6 +227,7 @@ export default class Page extends Vue {
   image: string = this.$store.state.thumbnail ? this.$store.state.thumbnail : ''
 
   uRenja: any = this.baseUrl + '/iiif2/collection/top.json'
+  metadata: any = this.baseUrl + '/metadata/data.xlsx'
   kando: any = process.env.db + '/iiif/kandomokuroku/manifest.json'
 
   get title(): string {
