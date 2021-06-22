@@ -11,11 +11,19 @@
         },
         {
             "label": "Description",
-            "value": "通番: 1143"
+            "value": [
+                "通番: 1143",
+                "from image no.: 1",
+                "to image no.: 28"
+            ]
         },
         {
             "label": "Identifier",
             "value": "2c1e0baf4bb606f59cfa21ff08de0c96"
+        },
+        {
+            "label": "identifier",
+            "value": "u-renja1143a_0001_0028"
         }
     ],
     "related": {

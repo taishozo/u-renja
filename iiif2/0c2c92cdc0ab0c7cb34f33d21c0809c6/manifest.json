@@ -11,11 +11,19 @@
         },
         {
             "label": "Description",
-            "value": "通番: 817"
+            "value": [
+                "通番: 817",
+                "from image no.: 1",
+                "to image no.: 9"
+            ]
         },
         {
             "label": "Identifier",
             "value": "0c2c92cdc0ab0c7cb34f33d21c0809c6"
+        },
+        {
+            "label": "identifier",
+            "value": "u-renja0817_0001_0009"
         }
     ],
     "related": {

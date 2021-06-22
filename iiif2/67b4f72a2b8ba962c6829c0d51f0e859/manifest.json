@@ -11,11 +11,19 @@
         },
         {
             "label": "Description",
-            "value": "通番: 1361"
+            "value": [
+                "通番: 1361",
+                "from image no.: 1",
+                "to image no.: 47"
+            ]
         },
         {
             "label": "Identifier",
             "value": "67b4f72a2b8ba962c6829c0d51f0e859"
+        },
+        {
+            "label": "identifier",
+            "value": "u-renja1361_0001_0047"
         }
     ],
     "related": {
