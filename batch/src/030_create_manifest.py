@@ -79,7 +79,7 @@ for j in range(1, r_count):
                 label = "譯著者_facet"
 
             if label == "通番":
-                value = str(value).zfill(4)
+                value = str(value)# .zfill(4)
 
                 num = str(int(value))
             

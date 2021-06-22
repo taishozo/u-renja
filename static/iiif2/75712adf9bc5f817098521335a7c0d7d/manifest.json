@@ -11,11 +11,19 @@
         },
         {
             "label": "Description",
-            "value": "通番: 1609"
+            "value": [
+                "通番: 1609",
+                "from image no.: 1",
+                "to image no.: 36"
+            ]
         },
         {
             "label": "Identifier",
             "value": "75712adf9bc5f817098521335a7c0d7d"
+        },
+        {
+            "label": "identifier",
+            "value": "u-renja1609-1611_0001_0036"
         }
     ],
     "related": {

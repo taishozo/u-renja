@@ -11,11 +11,19 @@
         },
         {
             "label": "Description",
-            "value": "通番: 1594"
+            "value": [
+                "通番: 1594",
+                "from image no.: 123",
+                "to image no.: 133"
+            ]
         },
         {
             "label": "Identifier",
             "value": "a07618444dfb4b44febd8ab2b43765ae"
+        },
+        {
+            "label": "identifier",
+            "value": "u-renja1591-1595_0123_0133"
         }
     ],
     "related": {
