@@ -6,7 +6,7 @@
     "label": "酉蓮社本",
     "manifests": [
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/4e9108e558608cc94e3379b74bd48fa0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/cd04078bf078dd93d935be60160a36e0/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説四十二章經1卷",
             "metadata": [
@@ -24,7 +24,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "4e9108e558608cc94e3379b74bd48fa0"
+                    "value": "cd04078bf078dd93d935be60160a36e0"
                 },
                 {
                     "label": "identifier",
@@ -32,7 +32,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/1636080e561f1ef44a4bc53423725c08e844e01a.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/2e9eb37abe080691a4cf0aff5437ca3c814efd71.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -40,7 +40,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/0c2c92cdc0ab0c7cb34f33d21c0809c6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/50766096cd0b93e1f94dfe811e32ab68/manifest.json",
             "@type": "sc:Manifest",
             "label": "聖觀自在菩薩一百八名經1卷",
             "metadata": [
@@ -58,7 +58,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "0c2c92cdc0ab0c7cb34f33d21c0809c6"
+                    "value": "50766096cd0b93e1f94dfe811e32ab68"
                 },
                 {
                     "label": "identifier",
@@ -66,7 +66,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d55f001dad759667726ec501af914df14338616c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f0e87e305c5c3cedd897ee98760cf53781baddc3.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -74,7 +74,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/2c1e0baf4bb606f59cfa21ff08de0c96/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/4c5435310d4d5760d969904cf94e0d9b/manifest.json",
             "@type": "sc:Manifest",
             "label": "出家授近圓羯磨儀範1卷",
             "metadata": [
@@ -92,7 +92,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "2c1e0baf4bb606f59cfa21ff08de0c96"
+                    "value": "4c5435310d4d5760d969904cf94e0d9b"
                 },
                 {
                     "label": "identifier",
@@ -100,7 +100,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/7281329648392a03146332b85a363a5e2cad1122.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/2ec860d601d0433cc45022e27deee4af31a44c10.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -108,7 +108,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/b3254138e440a6be252666fc30b12752/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0db3f6fe6edaca236f91de30198c8b8e/manifest.json",
             "@type": "sc:Manifest",
             "label": "根本説一切有部苾芻習學畧法1卷",
             "metadata": [
@@ -126,7 +126,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "b3254138e440a6be252666fc30b12752"
+                    "value": "0db3f6fe6edaca236f91de30198c8b8e"
                 },
                 {
                     "label": "identifier",
@@ -134,7 +134,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c82b9e47dc80185145778eea577ae4bdce4a49f9.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c9c7d6f46c86ccb464ca3994581265d9e42b47c3.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -142,7 +142,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/67b4f72a2b8ba962c6829c0d51f0e859/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bb175048adea7066e3a4d0efaacfb022/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛頂一切如來眞實攝大乘現證大教王經2卷",
             "metadata": [
@@ -160,7 +160,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "67b4f72a2b8ba962c6829c0d51f0e859"
+                    "value": "bb175048adea7066e3a4d0efaacfb022"
                 },
                 {
                     "label": "identifier",
@@ -168,7 +168,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/32ae263761c4601ccc39360707045b7e728b4f1b.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/025c22737b12aaa4b02ff9c4f6bec1451c121993.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -176,7 +176,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/7d360584e11a93dba61de12b15699b67/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/dc75778cd674b666bd6d94df921123ca/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經入法界品四十二字觀1卷",
             "metadata": [
@@ -194,7 +194,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "7d360584e11a93dba61de12b15699b67"
+                    "value": "dc75778cd674b666bd6d94df921123ca"
                 },
                 {
                     "label": "identifier",
@@ -202,7 +202,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/147dab01ed434b7f5837208ed28419edfd6e6e13.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/459e80ecb9410a2ace0b5b0a67a99b714259aefc.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -210,7 +210,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/e09c8479a1295df56c9f79f884bc8247/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/eb86f883bd04ba0f797a36c3585c662e/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷",
             "metadata": [
@@ -228,7 +228,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "e09c8479a1295df56c9f79f884bc8247"
+                    "value": "eb86f883bd04ba0f797a36c3585c662e"
                 },
                 {
                     "label": "identifier",
@@ -236,7 +236,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/940d1688e8e4c98d6df6be1131ec4d5135898624.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/910bc6b4271c61089bf2970e8d4d3b45bb5b616a.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -244,7 +244,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ee7780363b4d732856b80397cfca2796/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bd266ff88209d6e2c5f7492109723de9/manifest.json",
             "@type": "sc:Manifest",
             "label": "顯密圓通成佛心要集2卷坿供物利生儀1卷",
             "metadata": [
@@ -262,7 +262,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ee7780363b4d732856b80397cfca2796"
+                    "value": "bd266ff88209d6e2c5f7492109723de9"
                 },
                 {
                     "label": "identifier",
@@ -270,7 +270,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/4142c84685d42cb85860a34f42cf74fbc5ddcbc4.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0bacb65d8d070a2d3625f94ed37cd4ed8e726061.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -278,7 +278,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/27bd273e85858ecd553e7a624e47b94b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/4187ca1ba24f5535f48308851825a138/manifest.json",
             "@type": "sc:Manifest",
             "label": "密呪圓因往生集1卷",
             "metadata": [
@@ -296,7 +296,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "27bd273e85858ecd553e7a624e47b94b"
+                    "value": "4187ca1ba24f5535f48308851825a138"
                 },
                 {
                     "label": "identifier",
@@ -304,7 +304,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c262ddb9d39ffe526eb3c00a51978b3111a48663.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0a67add92ca7480251ed9a3bba9b8281cef03946.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -312,7 +312,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/2fdf16299a11224017390d25d201ef82/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2e0eda2795ec1bf8e8b3d789e3768e6d/manifest.json",
             "@type": "sc:Manifest",
             "label": "説罪要行法1卷",
             "metadata": [
@@ -330,7 +330,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "2fdf16299a11224017390d25d201ef82"
+                    "value": "2e0eda2795ec1bf8e8b3d789e3768e6d"
                 },
                 {
                     "label": "identifier",
@@ -338,7 +338,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/bf5e9a23cc432188586e167670cb833672c2467b.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c644c7abc41f4301a58d57ecd42f930c8a4dcee1.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -346,7 +346,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/98624cfa73fd90352ccfbc74a3ff47dd/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9ae73c0d4c9621940c16e492c87cba4a/manifest.json",
             "@type": "sc:Manifest",
             "label": "受用三水要行法1卷",
             "metadata": [
@@ -364,7 +364,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "98624cfa73fd90352ccfbc74a3ff47dd"
+                    "value": "9ae73c0d4c9621940c16e492c87cba4a"
                 },
                 {
                     "label": "identifier",
@@ -372,7 +372,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/b3a0bd08df10e1724345b2ff17eb39edd1cbcc61.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/d3c7d4b574045640372a4e9c2fa8c087824ff54e.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -380,7 +380,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a5a3e5b567465f12cb6246c36f42a8fa/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/edc01f3a87168f6840cf6497dbefb575/manifest.json",
             "@type": "sc:Manifest",
             "label": "護命放生軌儀法1卷",
             "metadata": [
@@ -398,7 +398,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a5a3e5b567465f12cb6246c36f42a8fa"
+                    "value": "edc01f3a87168f6840cf6497dbefb575"
                 },
                 {
                     "label": "identifier",
@@ -406,7 +406,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/730e720f030afce6c42565d418396bb6ae45d998.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/8bba4eb4cf75c0fdd6dff417775df107e8351b6e.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -414,7 +414,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/d0420811d791f049f1ebbe3511e3e0b2/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/866ea3fd3129a8d207541cf0ad4dbbac/manifest.json",
             "@type": "sc:Manifest",
             "label": "慈悲道場懺法10卷",
             "metadata": [
@@ -432,7 +432,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "d0420811d791f049f1ebbe3511e3e0b2"
+                    "value": "866ea3fd3129a8d207541cf0ad4dbbac"
                 },
                 {
                     "label": "identifier",
@@ -440,7 +440,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/4c5b45dd46ff66f471752ef09b0c2ac5f2bfb33d.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/a03a0a31aa88897e196d391265f1ec10c5e842ef.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -448,7 +448,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/da8730ba9e308fa1c179297dfd3debc9/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8580fa957c6fb72890b83e649300726e/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華三昧懺儀1卷",
             "metadata": [
@@ -466,7 +466,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "da8730ba9e308fa1c179297dfd3debc9"
+                    "value": "8580fa957c6fb72890b83e649300726e"
                 },
                 {
                     "label": "identifier",
@@ -474,7 +474,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/3653a5b02ec6d1b281c780fb233e6b2cd462b6b2.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/079280e9fdf09d53be6db1f94204fd267e995d92.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -482,7 +482,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/808f5bc64eda654304a0926a24eb7120/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/161ea38126c36b338d2455dbc05a78fc/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華三昧行事運想補助儀1卷",
             "metadata": [
@@ -500,7 +500,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "808f5bc64eda654304a0926a24eb7120"
+                    "value": "161ea38126c36b338d2455dbc05a78fc"
                 },
                 {
                     "label": "identifier",
@@ -508,7 +508,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/be3241f885be3f26cf27cbeb826d829f9ec21b57.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/7a302ec06f774623c0f1856626efc026dd27e571.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -516,7 +516,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/033deef65888b6a50eea7c45b56b6e15/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1e81404364e8b94b3479a471f1f9e416/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明懺法補助儀1卷",
             "metadata": [
@@ -534,7 +534,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "033deef65888b6a50eea7c45b56b6e15"
+                    "value": "1e81404364e8b94b3479a471f1f9e416"
                 },
                 {
                     "label": "identifier",
@@ -542,7 +542,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/1a3e541a66d10c60f090bc9c6d4de40f633b2c69.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/05f02d43dab48769878ec2fc140467b40674df59.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -550,7 +550,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f59582f34a37804e54b13d49e47c5236/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/68687c3e527dd02d0e472b2eeadaa8ab/manifest.json",
             "@type": "sc:Manifest",
             "label": "略法華三昧補助儀1卷",
             "metadata": [
@@ -568,7 +568,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f59582f34a37804e54b13d49e47c5236"
+                    "value": "68687c3e527dd02d0e472b2eeadaa8ab"
                 },
                 {
                     "label": "identifier",
@@ -576,7 +576,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/41917ec5b4f8cbcea741d787f5fd8a4bdd4bd0ec.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/3bb7f532d245c33b9edaa9c84c901e351adc7149.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -584,7 +584,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/9da13137a7fbc5704545d0b5e01efd28/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0933dba2debc8af4b1e2e0e8e553291e/manifest.json",
             "@type": "sc:Manifest",
             "label": "往生淨土懺願儀1卷",
             "metadata": [
@@ -602,7 +602,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "9da13137a7fbc5704545d0b5e01efd28"
+                    "value": "0933dba2debc8af4b1e2e0e8e553291e"
                 },
                 {
                     "label": "identifier",
@@ -610,7 +610,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/74e0e1076601464c72079f2bd3a6a5c8f6b3373f.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/00612cfbca9f20f0caa632264353f8e8ec98d7fe.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -618,7 +618,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/93b53ec17c0373f66456c870ea027075/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8a591453098758f28e828af3787ec585/manifest.json",
             "@type": "sc:Manifest",
             "label": "往生淨土決疑行願二門1卷",
             "metadata": [
@@ -636,7 +636,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "93b53ec17c0373f66456c870ea027075"
+                    "value": "8a591453098758f28e828af3787ec585"
                 },
                 {
                     "label": "identifier",
@@ -644,7 +644,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/59e17b8b0d1bd839258cb8386992b1fe9979d986.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/d81ad80dcd57ed9eb0da925089087f943310f32d.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -652,7 +652,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/49dcb026366a7eb303d9e37c4c4ffcbf/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2eb1920af4ae57dbe3d0cc1a32f790cd/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷",
             "metadata": [
@@ -670,7 +670,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "49dcb026366a7eb303d9e37c4c4ffcbf"
+                    "value": "2eb1920af4ae57dbe3d0cc1a32f790cd"
                 },
                 {
                     "label": "identifier",
@@ -678,7 +678,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/4fb823d5bd5582aad104bfd71664879b14a5786c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/aea2be614b5601aef51f8d6da9ed00d597a07ace.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -686,7 +686,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f0c3842ee2fd8a9df84b5ab9aa66cac4/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d34b27a740bc86d3492162075a4c3542/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明最勝懺儀1卷坿",
             "metadata": [
@@ -704,7 +704,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f0c3842ee2fd8a9df84b5ab9aa66cac4"
+                    "value": "d34b27a740bc86d3492162075a4c3542"
                 },
                 {
                     "label": "identifier",
@@ -712,7 +712,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/7e504f9e95b651f3e172e51df8f52fb472adb9c4.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/9e4850f6796ba3415c9174f4f7147df246088c3f.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -720,7 +720,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/382a853126866ecddb02c2f51fb4313a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2ec3c268c2151b176d920ef7ecff40fc/manifest.json",
             "@type": "sc:Manifest",
             "label": "千手眼大悲心呪行法1卷",
             "metadata": [
@@ -738,7 +738,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "382a853126866ecddb02c2f51fb4313a"
+                    "value": "2ec3c268c2151b176d920ef7ecff40fc"
                 },
                 {
                     "label": "identifier",
@@ -746,7 +746,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a827505ed787182e955f1b540a22d072ae102085.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/5314c0e6d4bc5264306675b5a85f6e7d7b79eef0.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -754,7 +754,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/bed0876744c5456e56b88a337baacfea/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/52a62901682225f03eca68c84d4bb6fc/manifest.json",
             "@type": "sc:Manifest",
             "label": "禮法華經儀式1卷",
             "metadata": [
@@ -772,7 +772,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "bed0876744c5456e56b88a337baacfea"
+                    "value": "52a62901682225f03eca68c84d4bb6fc"
                 },
                 {
                     "label": "identifier",
@@ -780,7 +780,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/e54fce6bf9e5b61b62c7d5dbc43c184f0e9c7f5c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c3a2e5bfef56e4c844a797a62de42f1258c8b643.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -788,7 +788,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/c8570947b67031c46d4b518226bb04e6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9b8d8101b389b5c536b71f33ad39227a/manifest.json",
             "@type": "sc:Manifest",
             "label": "禮法華經儀式1卷",
             "metadata": [
@@ -806,7 +806,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "c8570947b67031c46d4b518226bb04e6"
+                    "value": "9b8d8101b389b5c536b71f33ad39227a"
                 },
                 {
                     "label": "identifier",
@@ -814,7 +814,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/b42bb8913133d2b2911c42b356f75d0444e21d69.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/83fd12853f6e262de61fe1bf274da58ae72aee88.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -822,7 +822,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/494527d2310f2f29d11ddaccb6219f71/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0c9f8485475943ff387dc521a2585417/manifest.json",
             "@type": "sc:Manifest",
             "label": "熾盛光道場念誦儀1卷",
             "metadata": [
@@ -840,7 +840,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "494527d2310f2f29d11ddaccb6219f71"
+                    "value": "0c9f8485475943ff387dc521a2585417"
                 },
                 {
                     "label": "identifier",
@@ -848,7 +848,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/13d0db053b14a1ec618a092275e49bd73ecdd373.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/fcc22b656faf758de89e034c5afc7f8d0fa6c7a7.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -856,7 +856,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/0d49a15f743873b31c90308fcf1da3a1/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c0549c665a1bfbc2356d38cc2b199682/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋迦如來涅槃禮讚文1卷",
             "metadata": [
@@ -874,7 +874,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "0d49a15f743873b31c90308fcf1da3a1"
+                    "value": "c0549c665a1bfbc2356d38cc2b199682"
                 },
                 {
                     "label": "identifier",
@@ -882,7 +882,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/2a8abf33ae161d2cf3363764423ac9ec485c3a4c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/e20e4656ad8b371a5e50e81e80e70c9b02b59666.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -890,7 +890,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1256441999969871954b5a43a6dc974d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8a1fc1fdc300d38a57da124b92893053/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台智者大師齋忌禮讚文1卷",
             "metadata": [
@@ -908,7 +908,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1256441999969871954b5a43a6dc974d"
+                    "value": "8a1fc1fdc300d38a57da124b92893053"
                 },
                 {
                     "label": "identifier",
@@ -916,7 +916,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/0f089c818c5791571b65501cef72ba8f2904f479.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/8cbed43f29234543d4a0ecb154716b8402f77cb6.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -924,7 +924,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/6ef413a5def609bc6bb579ef1c718f97/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/79c418c21f2866ed9938cb325bc45802/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀自在菩薩如意輪呪課法1卷",
             "metadata": [
@@ -942,7 +942,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "6ef413a5def609bc6bb579ef1c718f97"
+                    "value": "79c418c21f2866ed9938cb325bc45802"
                 },
                 {
                     "label": "identifier",
@@ -950,7 +950,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/19d8fe4081cb54e796da824efae9402102ae9e82.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/7b5a1ad7b104e962ee80efbb7aadbe9f8206f659.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -958,7 +958,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/c32a027c18dad5181298b3f769dca22d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/28afbe6a9ea63a090aaee0144a63ec78/manifest.json",
             "@type": "sc:Manifest",
             "label": "慈悲水懺灋3卷",
             "metadata": [
@@ -976,7 +976,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "c32a027c18dad5181298b3f769dca22d"
+                    "value": "28afbe6a9ea63a090aaee0144a63ec78"
                 },
                 {
                     "label": "identifier",
@@ -984,7 +984,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/e2ad59d9bd3a94ef4000aa840d18c69cfbc4cc76.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f6f23cd6e34466008c04fd2ab1f51d6b9405a8d3.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -992,7 +992,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/8625d7f5279d6dfed3116fbf6c404ff0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ee126fad059fe93e5626a6c9e1666b91/manifest.json",
             "@type": "sc:Manifest",
             "label": "六祖大師法寶壇經1卷",
             "metadata": [
@@ -1010,7 +1010,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "8625d7f5279d6dfed3116fbf6c404ff0"
+                    "value": "ee126fad059fe93e5626a6c9e1666b91"
                 },
                 {
                     "label": "identifier",
@@ -1018,7 +1018,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/61c7e6433941d738d39d42cfb33f8740d9048d08.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/d8f5a6cbec8537fa549c52524c45a822b139f433.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1026,7 +1026,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/9f60c3f06f3a0de8afcdb578a92b6510/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/051641bd700420de103ea2474f264910/manifest.json",
             "@type": "sc:Manifest",
             "label": "明覺禪師語録6卷",
             "metadata": [
@@ -1044,7 +1044,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "9f60c3f06f3a0de8afcdb578a92b6510"
+                    "value": "051641bd700420de103ea2474f264910"
                 },
                 {
                     "label": "identifier",
@@ -1052,7 +1052,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d000d61c9a77b56d45ebc4541418a4c2eb315706.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/4b3e5f0948e2c838003a6369fa782eb4da9c1c0d.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1060,7 +1060,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/14ee2d6922ffb358cc1db9e84622dda8/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bda1cc6628f13f030320d8a2baa59904/manifest.json",
             "@type": "sc:Manifest",
             "label": "傳法正宗論2卷",
             "metadata": [
@@ -1078,7 +1078,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "14ee2d6922ffb358cc1db9e84622dda8"
+                    "value": "bda1cc6628f13f030320d8a2baa59904"
                 },
                 {
                     "label": "identifier",
@@ -1086,7 +1086,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/f471cf9793482cc1b6e77fd90bc815d2b3074c9b.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/7fd613075c88972c928e637b69e305427e8d6dca.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1094,7 +1094,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/9270295195dfa023c95249cab1dea75f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1e486908aff588b21b5119010affaeb7/manifest.json",
             "@type": "sc:Manifest",
             "label": "圓悟佛果禪師語録20卷",
             "metadata": [
@@ -1112,7 +1112,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "9270295195dfa023c95249cab1dea75f"
+                    "value": "1e486908aff588b21b5119010affaeb7"
                 },
                 {
                     "label": "identifier",
@@ -1120,7 +1120,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c9a60ec942d3850c3a802488cf80f8fab98c089e.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/fa7e5b8d8f4bccbaf52b06f2278665480ea44e9c.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1128,7 +1128,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/97735fa1684a5bfe422fd843328fd734/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d73feba07a951a776509c5f3e46dc3b3/manifest.json",
             "@type": "sc:Manifest",
             "label": "大慧普覺禪師宗門武庫1卷",
             "metadata": [
@@ -1146,7 +1146,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "97735fa1684a5bfe422fd843328fd734"
+                    "value": "d73feba07a951a776509c5f3e46dc3b3"
                 },
                 {
                     "label": "identifier",
@@ -1154,7 +1154,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c8ce919298cd395476498aa0ef44f82fb7e42318.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/8c32bc78038a56e8c89e3ed9c9098171e9ceb9e0.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1162,7 +1162,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ef5ec2c6e762a1aeec9b3cabc2a11f3b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/40df446ab011c414c276df3a603197aa/manifest.json",
             "@type": "sc:Manifest",
             "label": "大慧普覺禪師語録30卷",
             "metadata": [
@@ -1180,7 +1180,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ef5ec2c6e762a1aeec9b3cabc2a11f3b"
+                    "value": "40df446ab011c414c276df3a603197aa"
                 },
                 {
                     "label": "identifier",
@@ -1188,7 +1188,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/4db98733a16f43852c060ef7b440da670b250a8f.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f2d3073faf14dd2774d118b95e94769df7027062.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1196,7 +1196,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/8381ce18968c0ba785cc4120c48dcbc0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/59e5d14ba381b5ac5f43fb39c6fd09b0/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經玄義10卷",
             "metadata": [
@@ -1214,7 +1214,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "8381ce18968c0ba785cc4120c48dcbc0"
+                    "value": "59e5d14ba381b5ac5f43fb39c6fd09b0"
                 },
                 {
                     "label": "identifier",
@@ -1222,7 +1222,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/84645eb811449d35fda6c5f44e5a8c99e422432c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/3123a0a90b729f7a3fc108ebf9f92404da300dc4.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1230,7 +1230,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/801c91dca1521a5f4aee5f5ceb4e91df/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/d8728b87a6608def78973b0d98fbcf81/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經玄義10卷縁起序1卷坿科文2卷",
             "metadata": [
@@ -1248,7 +1248,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "801c91dca1521a5f4aee5f5ceb4e91df"
+                    "value": "d8728b87a6608def78973b0d98fbcf81"
                 },
                 {
                     "label": "identifier",
@@ -1256,7 +1256,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c8d0ffd154612fdfe7e2bb5ca34ff5fa5c3d6538.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0c5c8b43ed2622a6e273ce3973c280f82a7b1ea6.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1264,7 +1264,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/8e3bdae49eebb4e466dda276dc00cb65/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5974c317ed3b255c7a3dcc6e1f2429fe/manifest.json",
             "@type": "sc:Manifest",
             "label": "妙法蓮華經文句10卷",
             "metadata": [
@@ -1282,7 +1282,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "8e3bdae49eebb4e466dda276dc00cb65"
+                    "value": "5974c317ed3b255c7a3dcc6e1f2429fe"
                 },
                 {
                     "label": "identifier",
@@ -1290,7 +1290,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c53635817c2a47a868bafc8502eddeef19c2bd7d.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/81695a275e7bd67de34291c28de7dca23cfa2215.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1298,7 +1298,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/62d493a868debc78f1c2c1036cef3ab5/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/684d3e556e36ded92f46f2b55d71ac5b/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華文句記10卷",
             "metadata": [
@@ -1316,7 +1316,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "62d493a868debc78f1c2c1036cef3ab5"
+                    "value": "684d3e556e36ded92f46f2b55d71ac5b"
                 },
                 {
                     "label": "identifier",
@@ -1324,7 +1324,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/3c9768355646c424b4265a6efe39678bec7f7a67.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c905042dcadad182109ff3cb0a1ce5ceaa0da5fe.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1332,7 +1332,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/926ae798ec74e88096f669506e174a6e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/7ea0196a4e34517d75626d027cd722c9/manifest.json",
             "@type": "sc:Manifest",
             "label": "摩訶止觀10卷",
             "metadata": [
@@ -1350,7 +1350,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "926ae798ec74e88096f669506e174a6e"
+                    "value": "7ea0196a4e34517d75626d027cd722c9"
                 },
                 {
                     "label": "identifier",
@@ -1358,7 +1358,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/0b58d0f3aa1da129f17abfe6302d2bb77796fb1d.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/7510145e9868f5e72c36e75915e41fc393a41c02.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1366,7 +1366,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f7c711e77c5f3247460c313b0448fd88/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/36ca414602d5d3f22c42fa5dcdd17585/manifest.json",
             "@type": "sc:Manifest",
             "label": "止觀輔行傳弘決10卷",
             "metadata": [
@@ -1384,7 +1384,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f7c711e77c5f3247460c313b0448fd88"
+                    "value": "36ca414602d5d3f22c42fa5dcdd17585"
                 },
                 {
                     "label": "identifier",
@@ -1392,7 +1392,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/0958eab2721f539090e3037840c7affe2fcb3136.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/fa99179fbf2bd4a08b42ab876d6e8243f35b6f32.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1400,7 +1400,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/98e2c011e382ae462590802a43f49887/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/7061a45cd0d08fd2d27675eed00ca554/manifest.json",
             "@type": "sc:Manifest",
             "label": "修習止觀坐禪法要1卷",
             "metadata": [
@@ -1418,7 +1418,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "98e2c011e382ae462590802a43f49887"
+                    "value": "7061a45cd0d08fd2d27675eed00ca554"
                 },
                 {
                     "label": "identifier",
@@ -1426,7 +1426,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/8104769970c8bd1fad0762d461c56fa7ff7ca134.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/cdd9fa90f1e1204a4deb5bd5434ef882ac633622.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1434,7 +1434,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/adc47cde0622e73edf64330bbca27c38/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/44269b81c106cd3951a3552702bbc901/manifest.json",
             "@type": "sc:Manifest",
             "label": "止觀義例2卷",
             "metadata": [
@@ -1452,7 +1452,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "adc47cde0622e73edf64330bbca27c38"
+                    "value": "44269b81c106cd3951a3552702bbc901"
                 },
                 {
                     "label": "identifier",
@@ -1460,7 +1460,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/bb1173d73bc734b2e26aa89f81cfe101d87cb2d6.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/a21ed6e702187bbcd9f5695ce5b2e4433089c694.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1468,7 +1468,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/0939c1b63f12cf2fc93b8dbf3b2d3e4f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5ffbffdf10d3afd0a2522cea73a83721/manifest.json",
             "@type": "sc:Manifest",
             "label": "大乘止觀法門4卷",
             "metadata": [
@@ -1486,7 +1486,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "0939c1b63f12cf2fc93b8dbf3b2d3e4f"
+                    "value": "5ffbffdf10d3afd0a2522cea73a83721"
                 },
                 {
                     "label": "identifier",
@@ -1494,7 +1494,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/b358cb92340edab6eb1630d6cc08cd2c9dd2d07f.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/216637cc3554d1cd7b732679bd958550698ff24c.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1502,7 +1502,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/81189ffb088065900aca3c4588e397a2/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9b335ff225fef37723ee988f100e6773/manifest.json",
             "@type": "sc:Manifest",
             "label": "諸法無諍三昧法門2卷",
             "metadata": [
@@ -1520,7 +1520,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "81189ffb088065900aca3c4588e397a2"
+                    "value": "9b335ff225fef37723ee988f100e6773"
                 },
                 {
                     "label": "identifier",
@@ -1528,7 +1528,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c0c9518941406172ca276e7a5ba137417976d822.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b62a0b73596ff2b100eb65f5618ca644f2f1f6b9.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1536,7 +1536,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/b0d558a194567ae716f037601caa3ef0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/dd08568a56b9003e4ade4508ef0ba3c4/manifest.json",
             "@type": "sc:Manifest",
             "label": "大般涅槃經疏33卷",
             "metadata": [
@@ -1554,7 +1554,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "b0d558a194567ae716f037601caa3ef0"
+                    "value": "dd08568a56b9003e4ade4508ef0ba3c4"
                 },
                 {
                     "label": "identifier",
@@ -1562,7 +1562,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/652a158fd91b4cf4fba0ab3fed17a42f4dd82917.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/1bba5922e3aa7ed74a02a9cdd43bcb74f133df3e.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1570,7 +1570,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ce23045c402e56be1d353810d38d1323/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/270f23055aefd00a1cc77bc460a22494/manifest.json",
             "@type": "sc:Manifest",
             "label": "大般涅槃經玄義2卷",
             "metadata": [
@@ -1588,7 +1588,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ce23045c402e56be1d353810d38d1323"
+                    "value": "270f23055aefd00a1cc77bc460a22494"
                 },
                 {
                     "label": "identifier",
@@ -1596,7 +1596,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/48fc869b1a296e929de837f64cc09a61653bc6bd.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/3cdf9e7a503a12f53bf62405a259b45a0f5a0b5e.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1604,7 +1604,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/2179c86181dc095b83335f94971cb101/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ee23196d1a02469238a3d905e55a991b/manifest.json",
             "@type": "sc:Manifest",
             "label": "法華經安樂行義1卷",
             "metadata": [
@@ -1622,7 +1622,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "2179c86181dc095b83335f94971cb101"
+                    "value": "ee23196d1a02469238a3d905e55a991b"
                 },
                 {
                     "label": "identifier",
@@ -1630,7 +1630,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/2400567340b1020a49feef6745bbf7815505a260.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/53d645c5d851e811bdee85029229a17ef41bf1f3.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1638,7 +1638,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a16c31da84dedb8a24cebcc5ec2c9374/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bf630ff6de48ca0baafe8af55179a46c/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經玄義拾遺記2卷玄義科1卷",
             "metadata": [
@@ -1656,7 +1656,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a16c31da84dedb8a24cebcc5ec2c9374"
+                    "value": "bf630ff6de48ca0baafe8af55179a46c"
                 },
                 {
                     "label": "identifier",
@@ -1664,7 +1664,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/fdd11e243140c560914c45b20a758243e9e9051a.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/478974ea9bac958b0e678237d54ec12e293602bb.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1672,7 +1672,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a7d9a11374f2b309a72ed30ccc08bcae/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/34ed4511b16667378d919e75e2bb5edf/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若經疏1卷",
             "metadata": [
@@ -1690,7 +1690,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a7d9a11374f2b309a72ed30ccc08bcae"
+                    "value": "34ed4511b16667378d919e75e2bb5edf"
                 },
                 {
                     "label": "identifier",
@@ -1698,7 +1698,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/731422197ee0ba4c9551227ff989e3e0a7e44cf3.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/9bddd1b4341f2d03a54f62ed114e7f2484d9ef38.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1706,7 +1706,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/309e364fd1f7d87fd7a7cabd7b5db54f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ec7149cebf1a91ff2f170c040d76dbc5/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台四教儀1卷坿科文1卷時教圖1卷",
             "metadata": [
@@ -1724,7 +1724,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "309e364fd1f7d87fd7a7cabd7b5db54f"
+                    "value": "ec7149cebf1a91ff2f170c040d76dbc5"
                 },
                 {
                     "label": "identifier",
@@ -1732,7 +1732,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/5ec05aa6dc472c9903f9662c4207394b2336cf02.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b90913cd82c7a173cbce71eefea31a519b66dfc3.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1740,7 +1740,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1644bd1f12cd305dd3a81c354b85d169/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c1bab5ec5d2232276f177a9b4318592b/manifest.json",
             "@type": "sc:Manifest",
             "label": "金光明經文句文句記8卷",
             "metadata": [
@@ -1758,7 +1758,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1644bd1f12cd305dd3a81c354b85d169"
+                    "value": "c1bab5ec5d2232276f177a9b4318592b"
                 },
                 {
                     "label": "identifier",
@@ -1766,7 +1766,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/8003df05c7b4110985e0a442f065278d9ced5d36.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/68f8728028c92856abea78ad80606c4f9d0f4838.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1774,7 +1774,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/314249a8af8b9a2015295a3bda060e5c/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5dfce585509f93991227b40812bdf789/manifest.json",
             "@type": "sc:Manifest",
             "label": "菩薩戒義疏2卷",
             "metadata": [
@@ -1792,7 +1792,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "314249a8af8b9a2015295a3bda060e5c"
+                    "value": "5dfce585509f93991227b40812bdf789"
                 },
                 {
                     "label": "identifier",
@@ -1800,7 +1800,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/fed7b1b9584af08e29bf6cf91147545553106671.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/28ec8f173aa6eeb0f07d41cd9f9623e6d0a7560c.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1808,7 +1808,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a2e2974f0be27959a399ebec8767dd30/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e7bc56b7705e4f6f382ef3d746b1760c/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音玄義2卷",
             "metadata": [
@@ -1826,7 +1826,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a2e2974f0be27959a399ebec8767dd30"
+                    "value": "e7bc56b7705e4f6f382ef3d746b1760c"
                 },
                 {
                     "label": "identifier",
@@ -1834,7 +1834,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/7c17cdf4b235e733dae6f3f451b35a9d583d5b3d.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/9e0e6fda43a3f4af5eccfcc1f905c67212121d3d.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1842,7 +1842,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/9b4d9259e87c5d94026ad4e52cc434cd/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f9be2515b375961995cede74af736168/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音玄義記4卷",
             "metadata": [
@@ -1860,7 +1860,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "9b4d9259e87c5d94026ad4e52cc434cd"
+                    "value": "f9be2515b375961995cede74af736168"
                 },
                 {
                     "label": "identifier",
@@ -1868,7 +1868,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/f9002930c445b098b9199485c05272988b518694.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/82e6ebe53d84798bf0ebc40be9a399e7026fbe8e.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1876,7 +1876,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/e196817287f92fb1d47532779f1d3e1e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/80c4910820741661e4fc15fafd20990e/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音義疏2卷",
             "metadata": [
@@ -1894,7 +1894,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "e196817287f92fb1d47532779f1d3e1e"
+                    "value": "80c4910820741661e4fc15fafd20990e"
                 },
                 {
                     "label": "identifier",
@@ -1902,7 +1902,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a70ecec398290150d4df3a7dcbdd6c30039642c7.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c4f200a953636f70309be82105335f24fbbd8663.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1910,7 +1910,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/336ce5e3b32cfe17aeffa64cda17d4f0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0382c13f14265dc4df6f8965e7803bf1/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀音義疏記4卷",
             "metadata": [
@@ -1928,7 +1928,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "336ce5e3b32cfe17aeffa64cda17d4f0"
+                    "value": "0382c13f14265dc4df6f8965e7803bf1"
                 },
                 {
                     "label": "identifier",
@@ -1936,7 +1936,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a4449b5b11f8e735ebc53c7233525b4a9e184550.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/a063b9b9f7d64714919b2594695dcffbc1797e07.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1944,7 +1944,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/86242692e1a2c1036d462e6b8c8539ef/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6bf759be17ae070b6f1519694e3d6d28/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説觀無量壽佛經疏1卷",
             "metadata": [
@@ -1962,7 +1962,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "86242692e1a2c1036d462e6b8c8539ef"
+                    "value": "6bf759be17ae070b6f1519694e3d6d28"
                 },
                 {
                     "label": "identifier",
@@ -1970,7 +1970,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/cd144c6979e95b7fc0df53c6c14802f57488a8a6.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/05764a91cc9f2f3b0550f8ccad0dadf3a2aef4ac.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -1978,7 +1978,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/bbc4e75429691721248a267563e311d6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/b89bbafc5b73a4c4236ce9316059f532/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀無量壽佛經疏妙宗鈔6卷",
             "metadata": [
@@ -1996,7 +1996,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "bbc4e75429691721248a267563e311d6"
+                    "value": "b89bbafc5b73a4c4236ce9316059f532"
                 },
                 {
                     "label": "identifier",
@@ -2004,7 +2004,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/ad224e18ff290fc8a8949a65dcbef42036644c6d.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b70572d990b7e237d12721fa00290a2f61c26470.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2012,7 +2012,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/275119601338b596b7d143643bb6a015/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/853a1449ad94693607706ca71bbb7cec/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀音經疏1卷",
             "metadata": [
@@ -2030,7 +2030,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "275119601338b596b7d143643bb6a015"
+                    "value": "853a1449ad94693607706ca71bbb7cec"
                 },
                 {
                     "label": "identifier",
@@ -2038,7 +2038,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/db956e7c48d26b5aa8f0fba3ad0be08be4af6587.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b7bafb2c06cb8fc6c5d3eefca7202eb58ba1a8a5.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2046,7 +2046,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/b2eba3a9c23b543f19b097d4c54d211a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/162ef71643a5113283c22489b5870407/manifest.json",
             "@type": "sc:Manifest",
             "label": "請觀音經疏闡義鈔4卷",
             "metadata": [
@@ -2064,7 +2064,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "b2eba3a9c23b543f19b097d4c54d211a"
+                    "value": "162ef71643a5113283c22489b5870407"
                 },
                 {
                     "label": "identifier",
@@ -2072,7 +2072,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/9aa12b699573adb33c2e9b2313f62d22fe1fc036.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/1ffb5f94d542ecc1c2efe61af17d5563b701121d.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2080,7 +2080,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/fb8729926df637f1a5154d9ce86790a0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6852caff8e519f4936bb5060b7278600/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋摩訶般若波羅蜜經覺意三昧1卷",
             "metadata": [
@@ -2098,7 +2098,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "fb8729926df637f1a5154d9ce86790a0"
+                    "value": "6852caff8e519f4936bb5060b7278600"
                 },
                 {
                     "label": "identifier",
@@ -2106,7 +2106,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/474141ede1667a36679b0cc3e587b332f28e03ee.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0728b1b0b4c43da04cd1084ef8e17d6675e7b006.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2114,7 +2114,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a5fa529817ca67d73af11d5a5f2e8e05/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f074aada538ba90ff3642659ce5ffd98/manifest.json",
             "@type": "sc:Manifest",
             "label": "四念處4卷",
             "metadata": [
@@ -2132,7 +2132,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a5fa529817ca67d73af11d5a5f2e8e05"
+                    "value": "f074aada538ba90ff3642659ce5ffd98"
                 },
                 {
                     "label": "identifier",
@@ -2140,7 +2140,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/9158f17ba88a54f191e521fcbe2b8e9447612462.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/4588439969232cc26e864d1a8d589e2c38a3b616.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2148,7 +2148,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/9f5bebcb3c04096a3d8f27dbf35ce9b8/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6c6f59365d5f7063461be350dd007a23/manifest.json",
             "@type": "sc:Manifest",
             "label": "仁王護國般若經疏5卷",
             "metadata": [
@@ -2166,7 +2166,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "9f5bebcb3c04096a3d8f27dbf35ce9b8"
+                    "value": "6c6f59365d5f7063461be350dd007a23"
                 },
                 {
                     "label": "identifier",
@@ -2174,7 +2174,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/46354fa12bc9bf00378775d71f148696f436c4a9.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/1b008e96da7634d2021c499ea80b24e43dee3a8d.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2182,7 +2182,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1c09094447916df8c6896ace92c5fef6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/da9dce14d0fa0104f65cab9993c0fd1d/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説仁王護國般若波羅蜜經疏神寶記4卷",
             "metadata": [
@@ -2200,7 +2200,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1c09094447916df8c6896ace92c5fef6"
+                    "value": "da9dce14d0fa0104f65cab9993c0fd1d"
                 },
                 {
                     "label": "identifier",
@@ -2208,7 +2208,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/ffdf4ab5019edb99183ba9f6b76ad3db9284e7e8.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/fdf0e46d558dca863b1fab8abf2b052c164513b0.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2216,7 +2216,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/496a6c185c87394c22864c287f2d24f2/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/302cee8100039d245d245f32ba72e1c9/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台八教大意1卷",
             "metadata": [
@@ -2234,7 +2234,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "496a6c185c87394c22864c287f2d24f2"
+                    "value": "302cee8100039d245d245f32ba72e1c9"
                 },
                 {
                     "label": "identifier",
@@ -2242,7 +2242,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/8ca360b3f04739d5b30b67401f640c08943cc436.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c6e8f877b5cb96d816cf2f9e4c0ddf71f0dc4f2a.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2250,7 +2250,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ee72aa71b24ca0cc3646c0b21504345c/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/30268fa3f77a84583eb83afe0faa0df7/manifest.json",
             "@type": "sc:Manifest",
             "label": "四教義6卷",
             "metadata": [
@@ -2268,7 +2268,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ee72aa71b24ca0cc3646c0b21504345c"
+                    "value": "30268fa3f77a84583eb83afe0faa0df7"
                 },
                 {
                     "label": "identifier",
@@ -2276,7 +2276,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/40aeec2e76edf1ff3062a54b9d9c12a675ace7e8.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0766099fe519c26ec76b694e29dce8dd46411415.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2284,7 +2284,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1a2734e89bc52b65fe5ac18d52e9186d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/56aca2420bd7910bddbf5abdb9ad5055/manifest.json",
             "@type": "sc:Manifest",
             "label": "國淸百録4卷",
             "metadata": [
@@ -2302,7 +2302,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1a2734e89bc52b65fe5ac18d52e9186d"
+                    "value": "56aca2420bd7910bddbf5abdb9ad5055"
                 },
                 {
                     "label": "identifier",
@@ -2310,7 +2310,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/8ef5f51d3a8e3e0a71219aa459b39352f9bf1894.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b2e55def782409c1ba93a0cb41cb6890bda6cc48.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2318,7 +2318,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/4832d011fffba903c428826b0a744a26/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/25f50b06eae59e256edb126079929325/manifest.json",
             "@type": "sc:Manifest",
             "label": "釋禪波羅蜜次第法門10卷",
             "metadata": [
@@ -2336,7 +2336,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "4832d011fffba903c428826b0a744a26"
+                    "value": "25f50b06eae59e256edb126079929325"
                 },
                 {
                     "label": "identifier",
@@ -2344,7 +2344,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d5fba04a499d61a0cd72b540ea10b35323d89ddc.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/93312ac8b76929784208c027d9f4e94f123d5202.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2352,7 +2352,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/d2265690b47cd7455d324cf17ac1540d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c8c637a361b69ea5c3b0224b44c856bd/manifest.json",
             "@type": "sc:Manifest",
             "label": "法界次第初門3卷",
             "metadata": [
@@ -2370,7 +2370,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "d2265690b47cd7455d324cf17ac1540d"
+                    "value": "c8c637a361b69ea5c3b0224b44c856bd"
                 },
                 {
                     "label": "identifier",
@@ -2378,7 +2378,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/55618c27e2d0c530265a630b90aca5c6c329722a.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/2bb81601866d3649bbb24d15df235d2e00f70ad0.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2386,7 +2386,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/053a1393e81adefad6e1e4db764d8274/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/717fd438c119202ec1e2ea52d436d2f3/manifest.json",
             "@type": "sc:Manifest",
             "label": "方等三昧行法1卷",
             "metadata": [
@@ -2404,7 +2404,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "053a1393e81adefad6e1e4db764d8274"
+                    "value": "717fd438c119202ec1e2ea52d436d2f3"
                 },
                 {
                     "label": "identifier",
@@ -2412,7 +2412,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/cbda1d3afa486d67f82df0e84da155587807b238.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/e17e14eb21b5c17203964b6d83a91ae6df312a40.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2420,7 +2420,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/6441ffe63a7fa4df8448bf7a65f2dc6e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/fd2a757952c780dd2f6fb5506f37c773/manifest.json",
             "@type": "sc:Manifest",
             "label": "淨土十疑論1卷",
             "metadata": [
@@ -2438,7 +2438,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "6441ffe63a7fa4df8448bf7a65f2dc6e"
+                    "value": "fd2a757952c780dd2f6fb5506f37c773"
                 },
                 {
                     "label": "identifier",
@@ -2446,7 +2446,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d73435f5ca07687a46e33aedec3cb3be0d3509c9.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/9c8e8f4b7179bbe10b5ef25fff9c28b357da3dbd.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2454,7 +2454,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/2ae38d473c473f48160c612ae002e5e0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/49512fd8bfca3c69e53606b0b2aec1d8/manifest.json",
             "@type": "sc:Manifest",
             "label": "觀心論疏5卷",
             "metadata": [
@@ -2472,7 +2472,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "2ae38d473c473f48160c612ae002e5e0"
+                    "value": "49512fd8bfca3c69e53606b0b2aec1d8"
                 },
                 {
                     "label": "identifier",
@@ -2480,7 +2480,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a4241cf0ba2dce874c19094ff870f5217cf517b9.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/1f291f3e0b543bd7b2517ca299214b3d1d3b8c8f.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2488,33 +2488,33 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/111c3a52701aa69b199420760fe41831/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5188f81390839ec61d4572eac0a6e0db/manifest.json",
             "@type": "sc:Manifest",
-            "label": "禪宗永嘉集1卷坿永嘉證道歌1卷",
+            "label": "無相大師行状1卷",
             "metadata": [
                 {
                     "label": "Title",
-                    "value": "禪宗永嘉集1卷坿永嘉證道歌1卷"
+                    "value": "無相大師行状1卷"
                 },
                 {
                     "label": "Description",
                     "value": [
                         "通番: 1590",
                         "from image no.: 1",
-                        "to image no.: 58"
+                        "to image no.: 4"
                     ]
                 },
                 {
                     "label": "Identifier",
-                    "value": "111c3a52701aa69b199420760fe41831"
+                    "value": "5188f81390839ec61d4572eac0a6e0db"
                 },
                 {
                     "label": "identifier",
-                    "value": "u-renja1590_0001_0058"
+                    "value": "u-renja1590_0001_0004"
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/741ea5f7643d25b53247cd79e6244722c1606006.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/db728817884083ffafb3564e1e4ec25cf1ed3528.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2522,7 +2522,75 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/7dee27ec4fa7419f9498ebcfb8ea87a6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6560736978d294c7accf48ac3f7b4840/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "禪宗永嘉集1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "禪宗永嘉集1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1590",
+                        "from image no.: 4",
+                        "to image no.: 49"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "6560736978d294c7accf48ac3f7b4840"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1590_0004_0049"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/6cf08eb728cc56df204b55a85e307946b47979fa.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2e8d09dcc28bf3eb46d9a1c5c0d3ba36/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "永嘉證道歌1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "永嘉證道歌1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1590",
+                        "from image no.: 49",
+                        "to image no.: 58"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "2e8d09dcc28bf3eb46d9a1c5c0d3ba36"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1590_0049_0058"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f8d8707fcbb0e028d36bd504de6d2e17693c8575.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2805aea90ace288b6628ca5e096353d7/manifest.json",
             "@type": "sc:Manifest",
             "label": "十不二門指要鈔2卷",
             "metadata": [
@@ -2540,7 +2608,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "7dee27ec4fa7419f9498ebcfb8ea87a6"
+                    "value": "2805aea90ace288b6628ca5e096353d7"
                 },
                 {
                     "label": "identifier",
@@ -2548,7 +2616,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d40a70f6600fa12a599c1df2b998c5d1138c277c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/134e8a57a2df82f665a88c80b0e33c9bd664581a.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2556,7 +2624,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1441532e1341864833c9d59d719d0c3b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/fbf4483f52287af0bd20a2b027f272da/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛錍1卷坿科文",
             "metadata": [
@@ -2574,7 +2642,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1441532e1341864833c9d59d719d0c3b"
+                    "value": "fbf4483f52287af0bd20a2b027f272da"
                 },
                 {
                     "label": "identifier",
@@ -2582,7 +2650,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/e2698554f9d12246e5e84588cfafeafe7768893b.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/58b67db1b1c3e53b18ca0942f5d7b8a1c0637802.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2590,7 +2658,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/e25b8b871e55afaa258cac70c04763d9/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ea6384ffb0a03b4330a9c3a517cd2089/manifest.json",
             "@type": "sc:Manifest",
             "label": "法智遺編觀心二百問1卷",
             "metadata": [
@@ -2608,7 +2676,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "e25b8b871e55afaa258cac70c04763d9"
+                    "value": "ea6384ffb0a03b4330a9c3a517cd2089"
                 },
                 {
                     "label": "identifier",
@@ -2616,7 +2684,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/f1a75e71c212aab4741ad3816816587041307824.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/3a62ed5cb909c0f01170566ad11032d9fd0ae4bb.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2624,7 +2692,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a07618444dfb4b44febd8ab2b43765ae/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ea051e7ec2bd963700a9bd2b6cacb4be/manifest.json",
             "@type": "sc:Manifest",
             "label": "天台傳佛心印記1卷",
             "metadata": [
@@ -2642,7 +2710,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a07618444dfb4b44febd8ab2b43765ae"
+                    "value": "ea051e7ec2bd963700a9bd2b6cacb4be"
                 },
                 {
                     "label": "identifier",
@@ -2650,7 +2718,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/5ab6612f85121d4c279b3534a65c6dc66c4c7fc1.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/4c28a8fbf79a594a4fa0e06a3e2ff29426b8ef2c.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2658,7 +2726,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/788204010d89c9da9c0fe717f30fdbe0/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/78ae67285d6068b3f7c01045274c2f93/manifest.json",
             "@type": "sc:Manifest",
             "label": "淨土境觀要門1卷坿一心三觀1卷",
             "metadata": [
@@ -2676,7 +2744,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "788204010d89c9da9c0fe717f30fdbe0"
+                    "value": "78ae67285d6068b3f7c01045274c2f93"
                 },
                 {
                     "label": "identifier",
@@ -2684,7 +2752,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/08834db7f623ad3d0814614dabede0e538caca74.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/011e04664b913144a612fcd52afabfc0c1473765.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2692,7 +2760,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/aae8775d5918f5bce4b32b4f8144b399/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/fbed7fcb5c154e2e4af3caebd734baea/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經疏60卷",
             "metadata": [
@@ -2710,7 +2778,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "aae8775d5918f5bce4b32b4f8144b399"
+                    "value": "fbed7fcb5c154e2e4af3caebd734baea"
                 },
                 {
                     "label": "identifier",
@@ -2718,7 +2786,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/3086680062ee2371461b1c586bbfbc677fa816ee.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/a6dc4521543b25fb09e3ffc892a6d18a79d386f4.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2726,7 +2794,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/8baaaae14733bb845b813223384d4d6a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ff946bb14ee70fdf3303cb3f87d9b096/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣佛華嚴經隨疏演義鈔90卷",
             "metadata": [
@@ -2744,7 +2812,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "8baaaae14733bb845b813223384d4d6a"
+                    "value": "ff946bb14ee70fdf3303cb3f87d9b096"
                 },
                 {
                     "label": "identifier",
@@ -2752,7 +2820,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/0262a20387e23df52bac441d3a4be0f167e8d1c9.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/55fab93c3261fb6e8ffc8af41b600b9a5f93afae.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2760,7 +2828,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/7dbd9d3f3d2b1dc35ef05fce47cf0314/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/da59212b9060096472bf00a60ade80b1/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴一乘教義分齊章4卷",
             "metadata": [
@@ -2778,7 +2846,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "7dbd9d3f3d2b1dc35ef05fce47cf0314"
+                    "value": "da59212b9060096472bf00a60ade80b1"
                 },
                 {
                     "label": "identifier",
@@ -2786,7 +2854,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/5a7cdec1230bf9f51af33e04657cc40ac4d479ec.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/498ea3e5ee776f5dd8376995dac886ddf722c1d2.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2794,7 +2862,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/fb868528ba70df4cd248fd8fbfe48a8b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/90815a058c16d3b4cc0784689959303d/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴經明法品内立三寶章2卷",
             "metadata": [
@@ -2812,7 +2880,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "fb868528ba70df4cd248fd8fbfe48a8b"
+                    "value": "90815a058c16d3b4cc0784689959303d"
                 },
                 {
                     "label": "identifier",
@@ -2820,7 +2888,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/36e1dcc7b0e874d7d65914540d7eb636c4b19547.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/6f67167318d1e0532c32baa8567f58f01155def8.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2828,7 +2896,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1d18d6a61910b479c1c9c5f648012f1a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1f5bb52e9ae13b4af69a97fb6cce7c58/manifest.json",
             "@type": "sc:Manifest",
             "label": "修華嚴奧旨妄盡還源觀1卷",
             "metadata": [
@@ -2846,7 +2914,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1d18d6a61910b479c1c9c5f648012f1a"
+                    "value": "1f5bb52e9ae13b4af69a97fb6cce7c58"
                 },
                 {
                     "label": "identifier",
@@ -2854,7 +2922,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/ae61730b8402641f456d493a53c789dc30e0c75e.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/99c4ee112aafde0372e3ba1c59aa0bde6badbedf.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2862,7 +2930,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/acf0b29a214e2d7dd78b804a7d907e86/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/fc9248dd3aee25fff2aef2e6e674ce86/manifest.json",
             "@type": "sc:Manifest",
             "label": "原人論1卷",
             "metadata": [
@@ -2880,7 +2948,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "acf0b29a214e2d7dd78b804a7d907e86"
+                    "value": "fc9248dd3aee25fff2aef2e6e674ce86"
                 },
                 {
                     "label": "identifier",
@@ -2888,7 +2956,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a97f0128761bfbd0d28fc57b91cb5b94c2551f9d.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/051cac85876ad2a8acadfc1060d4d763e1a4f2e2.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2896,7 +2964,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/44c34669071efc402bc7e50d54ec5fef/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c30d0dae81f1afc6fcd55cf8705cf455/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴經旨歸1卷",
             "metadata": [
@@ -2914,7 +2982,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "44c34669071efc402bc7e50d54ec5fef"
+                    "value": "c30d0dae81f1afc6fcd55cf8705cf455"
                 },
                 {
                     "label": "identifier",
@@ -2922,7 +2990,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/c66c321e74bcdf5577c32e2a4bb2dc5001cf900f.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/884144ee5c80c8b18db641eac3988a0446096937.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2930,7 +2998,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/99dc38cf2a08ee90f474df54c29cfa15/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9060c6058aadea9e71bd0ecd72ffd52f/manifest.json",
             "@type": "sc:Manifest",
             "label": "注華嚴法界觀門1卷",
             "metadata": [
@@ -2948,7 +3016,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "99dc38cf2a08ee90f474df54c29cfa15"
+                    "value": "9060c6058aadea9e71bd0ecd72ffd52f"
                 },
                 {
                     "label": "identifier",
@@ -2956,7 +3024,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/aa7df9e1cfeadfb7075fb9dcd4d0132acf435cef.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/ad1159220feb7b5e5419dbe8658ae7571c6d580a.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2964,7 +3032,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/d0363c16ca568654b7148d6703e8f337/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/8cec4c92ef9823e16f3c1f88e6547fb3/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛遺教經論疏節要1卷",
             "metadata": [
@@ -2982,7 +3050,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "d0363c16ca568654b7148d6703e8f337"
+                    "value": "8cec4c92ef9823e16f3c1f88e6547fb3"
                 },
                 {
                     "label": "identifier",
@@ -2990,7 +3058,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/f811bdbe8d1b6989cfaa6f8cd27821abca6f4337.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c7bf0e2268e4a94f375b4c0dfed46686616879a7.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -2998,7 +3066,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/d86c8d39e95626e9b607344c24dba54e/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/abb9a890e5c84f9ec434a6f22e433e67/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴法界玄鏡2卷",
             "metadata": [
@@ -3016,7 +3084,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "d86c8d39e95626e9b607344c24dba54e"
+                    "value": "abb9a890e5c84f9ec434a6f22e433e67"
                 },
                 {
                     "label": "identifier",
@@ -3024,7 +3092,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/590b82240e1fe264816cb3cc4a5ce29a7ba3c79c.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/d8b9705448c6b77d88229090db055a47013946bf.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3032,7 +3100,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/c29ee2aba8fcc3c2cd1b9dcd8333cfb1/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0849f8f86c08d8d59d5999ce3be2a07c/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若波羅蜜多心經略疏1卷",
             "metadata": [
@@ -3050,7 +3118,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "c29ee2aba8fcc3c2cd1b9dcd8333cfb1"
+                    "value": "0849f8f86c08d8d59d5999ce3be2a07c"
                 },
                 {
                     "label": "identifier",
@@ -3058,7 +3126,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/3a649928fda47904dcf3a77538d78f0b833524df.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/876a68423ad57ec28e373df54d064fd5824788a4.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3066,7 +3134,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/03998cf525d81b3d7c59f91c088b433c/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/24fe9f015470e01761d7ac67909406df/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若心經略疏連珠記2卷",
             "metadata": [
@@ -3084,7 +3152,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "03998cf525d81b3d7c59f91c088b433c"
+                    "value": "24fe9f015470e01761d7ac67909406df"
                 },
                 {
                     "label": "identifier",
@@ -3092,7 +3160,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a780f592e3ddbb924c0cc3ace2b0ccb691713910.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/9340c845032b3d52022b9e7255739b07d68a1006.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3100,7 +3168,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/75712adf9bc5f817098521335a7c0d7d/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/3e6037d861fa3c6c23ff056395eb4a38/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説盂蘭盆經2卷",
             "metadata": [
@@ -3118,7 +3186,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "75712adf9bc5f817098521335a7c0d7d"
+                    "value": "3e6037d861fa3c6c23ff056395eb4a38"
                 },
                 {
                     "label": "identifier",
@@ -3126,7 +3194,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/4d5016343b8067ca5e56413a2466389b30ed4736.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/7c43c0b31e7db0d6e7508789c3b80592678fc2f7.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3134,7 +3202,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/de2d8a216cd8dd7d6f6561ced7086cd3/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9f5212b52211dff7e3b02bfe69c6f3cb/manifest.json",
             "@type": "sc:Manifest",
             "label": "金師子章雲間類解1卷",
             "metadata": [
@@ -3152,7 +3220,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "de2d8a216cd8dd7d6f6561ced7086cd3"
+                    "value": "9f5212b52211dff7e3b02bfe69c6f3cb"
                 },
                 {
                     "label": "identifier",
@@ -3160,7 +3228,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/63b92cc1e44f7bafc17a8c2673eca03673e54b7f.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/930cac6875bceb58a5cc04f976b23e226941f0bc.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3168,7 +3236,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/721ba623b7ad0b3c11bc7495e4a1b878/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2ca39f61ed6afbb596f742e3d66250d2/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛説阿彌陀經疏1卷",
             "metadata": [
@@ -3186,7 +3254,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "721ba623b7ad0b3c11bc7495e4a1b878"
+                    "value": "2ca39f61ed6afbb596f742e3d66250d2"
                 },
                 {
                     "label": "identifier",
@@ -3194,7 +3262,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/b60bab2de9c6f7aff05ed5b76abb0eb63c5fa39a.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/a90b411b0c6a91a297778e596c5c938550344637.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3202,7 +3270,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/a310611dc623f04a85a202ebce0d5b79/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c8f764ff2818e3c531604797570f33b3/manifest.json",
             "@type": "sc:Manifest",
             "label": "楞伽阿跋多羅寶經註解4卷",
             "metadata": [
@@ -3220,7 +3288,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "a310611dc623f04a85a202ebce0d5b79"
+                    "value": "c8f764ff2818e3c531604797570f33b3"
                 },
                 {
                     "label": "identifier",
@@ -3228,7 +3296,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/32ad48af6640a15c74fa590c6181807fde8da2fc.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/5640e9ece32891c83961e2567a332ea650452f6c.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3236,7 +3304,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ccd0a5bd0fce92d4611a3d4e04254472/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/3dafed5dc111efa58df51702e18c2bde/manifest.json",
             "@type": "sc:Manifest",
             "label": "般若波羅蜜多心經註解1卷",
             "metadata": [
@@ -3254,7 +3322,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ccd0a5bd0fce92d4611a3d4e04254472"
+                    "value": "3dafed5dc111efa58df51702e18c2bde"
                 },
                 {
                     "label": "identifier",
@@ -3262,7 +3330,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/573d02797590a2894037a3e51f4cfb9c9bc6671b.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0ec44dff0c63d2d96d49bd8b9de27fc8d832e3f3.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3270,7 +3338,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f2899b8ed2ba6b037fbfefd3eaa926d4/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/04ede552de0f4947b50592853a22842c/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若波羅蜜經註解1卷",
             "metadata": [
@@ -3288,7 +3356,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f2899b8ed2ba6b037fbfefd3eaa926d4"
+                    "value": "04ede552de0f4947b50592853a22842c"
                 },
                 {
                     "label": "identifier",
@@ -3296,7 +3364,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d3f2e629d67357d66de2b2cf78b3d37a0fb1e632.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/c738d0b5ad2416c901f0e356cc7355c026894c0d.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3304,7 +3372,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ac0145d36d456b568b40ce3b4e34f14f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/5c5873cfbdcc294394d4b8827b4a2c7d/manifest.json",
             "@type": "sc:Manifest",
             "label": "起信論疏筆削記20卷",
             "metadata": [
@@ -3322,7 +3390,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ac0145d36d456b568b40ce3b4e34f14f"
+                    "value": "5c5873cfbdcc294394d4b8827b4a2c7d"
                 },
                 {
                     "label": "identifier",
@@ -3330,7 +3398,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/e55d66bdf0dedb6783c9a93c5a4f43615ddeea80.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b94f4325f6c53bbfe743c2a314dcb77ddb554d45.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3338,7 +3406,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/d532fe680234e3e30f287d197a9a0dc3/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1e2143ca24cdd44ea34f2d409bc85dcb/manifest.json",
             "@type": "sc:Manifest",
             "label": "肇論新疏3卷",
             "metadata": [
@@ -3356,7 +3424,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "d532fe680234e3e30f287d197a9a0dc3"
+                    "value": "1e2143ca24cdd44ea34f2d409bc85dcb"
                 },
                 {
                     "label": "identifier",
@@ -3364,7 +3432,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/2a547f18f75a5fef5a411fda51f718bdb63e5fcf.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f8a9cb645a9e849c9ce4f14b09d1003f7827547a.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3372,7 +3440,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/5a0540e4ea78e3cea32751c22c06dc52/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/e3c6ea854599d0f9bdcf9379dcbb081a/manifest.json",
             "@type": "sc:Manifest",
             "label": "大方廣圓覺修多羅了義經略疏註2卷",
             "metadata": [
@@ -3390,7 +3458,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "5a0540e4ea78e3cea32751c22c06dc52"
+                    "value": "e3c6ea854599d0f9bdcf9379dcbb081a"
                 },
                 {
                     "label": "identifier",
@@ -3398,7 +3466,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/43670642e09e3f5dbdca496d5f6f6f93be5eb2ee.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/1391e841f3ece625744ab3ce454f55e250533a91.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3406,7 +3474,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/e6500f74265221c6f1face85f5c275a1/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1514b8fda6dee951e2c076e11bf168a3/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛般若經疏論纂要2卷",
             "metadata": [
@@ -3424,7 +3492,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "e6500f74265221c6f1face85f5c275a1"
+                    "value": "1514b8fda6dee951e2c076e11bf168a3"
                 },
                 {
                     "label": "identifier",
@@ -3432,7 +3500,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/f1aef3d34a8e815982afad7a21e22c28008f1687.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/0aaa7a081669f7def989900f72748cd6563509ff.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3440,7 +3508,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1a3a8b33c7a7a96f4b0214165e1f607f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/97d9bceff189191bb2fa150caebb613d/manifest.json",
             "@type": "sc:Manifest",
             "label": "金剛經纂要刊定記7卷",
             "metadata": [
@@ -3458,7 +3526,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1a3a8b33c7a7a96f4b0214165e1f607f"
+                    "value": "97d9bceff189191bb2fa150caebb613d"
                 },
                 {
                     "label": "identifier",
@@ -3466,7 +3534,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/a68c042d98497d2987101a8fb29c3d9ed1cd38e4.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/667753b4b82b6fe6e1d55d054c9f6c1ac404d685.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3474,7 +3542,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/89a135d2a94ed2b30dd788245d4c8095/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/477e6508fdca4c25acdc0be2615c3d2c/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛祖歴代通載22卷目録1卷",
             "metadata": [
@@ -3492,7 +3560,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "89a135d2a94ed2b30dd788245d4c8095"
+                    "value": "477e6508fdca4c25acdc0be2615c3d2c"
                 },
                 {
                     "label": "identifier",
@@ -3500,7 +3568,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d4bc799d9a4ceef9a8fd28503ac2958d1bf7ce55.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/94f13c9625a84e1acbef215aabc643b419dc5db0.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3508,7 +3576,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f8764417388ec8343c624a8231bb2830/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/dbbd2e040a42c2e76fb2d485908a5b55/manifest.json",
             "@type": "sc:Manifest",
             "label": "勅脩百丈淸規8卷",
             "metadata": [
@@ -3526,7 +3594,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f8764417388ec8343c624a8231bb2830"
+                    "value": "dbbd2e040a42c2e76fb2d485908a5b55"
                 },
                 {
                     "label": "identifier",
@@ -3534,7 +3602,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/4a84aab0de2689ed58015a7566f180cd7366ddaa.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/b48b28f7c4cbc13b064e11e0af6966581565f624.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3542,7 +3610,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/557d2121f79bb5ef8caba930a05d0b2a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/966eee8b088c15ab27b03c8fff7116ce/manifest.json",
             "@type": "sc:Manifest",
             "label": "禪源諸詮集都序2卷",
             "metadata": [
@@ -3560,7 +3628,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "557d2121f79bb5ef8caba930a05d0b2a"
+                    "value": "966eee8b088c15ab27b03c8fff7116ce"
                 },
                 {
                     "label": "identifier",
@@ -3568,7 +3636,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/d5faec6d4aaa90572031b10fa8694bcd2b3a780e.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/482dcb3b6f16aedb48c8f31ce63e5d34bfd38bc1.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3576,7 +3644,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/b1e7520b923991704d8383e4202de04a/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2fc24172ba689400646b60edde585b8d/manifest.json",
             "@type": "sc:Manifest",
             "label": "八識規矩補註2卷",
             "metadata": [
@@ -3594,7 +3662,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "b1e7520b923991704d8383e4202de04a"
+                    "value": "2fc24172ba689400646b60edde585b8d"
                 },
                 {
                     "label": "identifier",
@@ -3602,7 +3670,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/0440bc8d07d9f6ef10d745acc2fb992fbfa368fe.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/5e7d30c3f87e27121e7e0601682aadf81c800bbb.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3610,7 +3678,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/1eae31fd79367791a9211056d5f81cea/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/bc508c640a6702a2bf27c02453ae8b6d/manifest.json",
             "@type": "sc:Manifest",
             "label": "大乘百法明門論2卷坿科1卷",
             "metadata": [
@@ -3628,7 +3696,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "1eae31fd79367791a9211056d5f81cea"
+                    "value": "bc508c640a6702a2bf27c02453ae8b6d"
                 },
                 {
                     "label": "identifier",
@@ -3636,7 +3704,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/70b46aeeb06a48bb28ec35836b53f8b7820275af.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/00b9cbd153c1657495f06799e6d10b2dc533e788.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3644,7 +3712,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/34d5b03f52ec549497d3619a81f586f9/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/ff2c6ec83284bd32c53351c5d6eba617/manifest.json",
             "@type": "sc:Manifest",
             "label": "廬山蓮宗寶鑑10卷",
             "metadata": [
@@ -3662,7 +3730,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "34d5b03f52ec549497d3619a81f586f9"
+                    "value": "ff2c6ec83284bd32c53351c5d6eba617"
                 },
                 {
                     "label": "identifier",
@@ -3670,7 +3738,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/ea6af3164d1c3709c024810223d69b037c9b2e2f.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/88fd0bb33ff35859b3a56418d3bfcd02b58c72f2.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3678,7 +3746,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/e1f30c99c0f4d4bf4a676745c8bca7ec/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/1c13ac369691cffa545abf67d991a2f2/manifest.json",
             "@type": "sc:Manifest",
             "label": "永明智覺禪師唯心訣1卷",
             "metadata": [
@@ -3696,7 +3764,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "e1f30c99c0f4d4bf4a676745c8bca7ec"
+                    "value": "1c13ac369691cffa545abf67d991a2f2"
                 },
                 {
                     "label": "identifier",
@@ -3704,7 +3772,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/1b917ee0c06deffd1e7064d8502757bbb6d522a1.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/173ec8d264a18ad3ded931cc549e97fbe491d693.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3712,7 +3780,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f17a8d0a5dad2f3e9d01ade3a0b0aa0b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/6bd5ea07e5141a211ff648a9a21686e6/manifest.json",
             "@type": "sc:Manifest",
             "label": "定慧相資歌1卷",
             "metadata": [
@@ -3730,7 +3798,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f17a8d0a5dad2f3e9d01ade3a0b0aa0b"
+                    "value": "6bd5ea07e5141a211ff648a9a21686e6"
                 },
                 {
                     "label": "identifier",
@@ -3738,7 +3806,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/9aed98dee2ac4de5bfc81c159652ad846e422e6b.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/6b36b9a339899759d7f56af5881fbd3fc5fc50aa.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3746,7 +3814,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/2bda0b16c7845821526b20718a462000/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a91ff816b7aac769059e6f828c645f95/manifest.json",
             "@type": "sc:Manifest",
             "label": "警世1卷",
             "metadata": [
@@ -3764,7 +3832,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "2bda0b16c7845821526b20718a462000"
+                    "value": "a91ff816b7aac769059e6f828c645f95"
                 },
                 {
                     "label": "identifier",
@@ -3772,7 +3840,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/87dd7c03f5af23dcac4375c25150b6026ae90b58.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/56ddb8ca62be3afd31d51b59ac8660496ff15600.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3780,7 +3848,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/c627a02cb1af384fdfd4920eb7b0c96b/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/2ab03da7a9749110fd2415625f1c4601/manifest.json",
             "@type": "sc:Manifest",
             "label": "宗鏡録序1卷",
             "metadata": [
@@ -3798,7 +3866,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "c627a02cb1af384fdfd4920eb7b0c96b"
+                    "value": "2ab03da7a9749110fd2415625f1c4601"
                 },
                 {
                     "label": "identifier",
@@ -3806,7 +3874,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/dc586316a589c4c2798a36afbfda3a42b47045be.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/2db607495ccf0f9366818c24c43d59dea46cdc34.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3814,7 +3882,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/8eb786a6f73efa981e5c4da79d7765cc/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/f849ef1bfce7818164b2fcf9ba63b038/manifest.json",
             "@type": "sc:Manifest",
             "label": "禪宗決疑集1卷",
             "metadata": [
@@ -3832,7 +3900,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "8eb786a6f73efa981e5c4da79d7765cc"
+                    "value": "f849ef1bfce7818164b2fcf9ba63b038"
                 },
                 {
                     "label": "identifier",
@@ -3840,7 +3908,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/5dab2122778bc670b99c49389b2c57015644d62a.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/bcf5c157405b2d840041e1416956230243ca2584.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3848,33 +3916,33 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/727fc48a7c085e71cbb79f2477f49a9f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/86ff53dd86251352843b514eb29b4608/manifest.json",
             "@type": "sc:Manifest",
-            "label": "黄檗山斷際禪師傳心法要1卷黄檗山斷際禪師宛陵録1卷",
+            "label": "黄檗山斷際禪師傳心法要1卷",
             "metadata": [
                 {
                     "label": "Title",
-                    "value": "黄檗山斷際禪師傳心法要1卷黄檗山斷際禪師宛陵録1卷"
+                    "value": "黄檗山斷際禪師傳心法要1卷"
                 },
                 {
                     "label": "Description",
                     "value": [
                         "通番: 1668",
                         "from image no.: 52",
-                        "to image no.: 97"
+                        "to image no.: 78"
                     ]
                 },
                 {
                     "label": "Identifier",
-                    "value": "727fc48a7c085e71cbb79f2477f49a9f"
+                    "value": "86ff53dd86251352843b514eb29b4608"
                 },
                 {
                     "label": "identifier",
-                    "value": "u-renja1663-1668_0052_0097"
+                    "value": "u-renja1663-1668_0052_0078"
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/e46d6b42a79830ea3b54f6e82f58ee9e71eda014.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/3d26da850912d560d2ecbeae2c13a4907884465c.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3882,7 +3950,41 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/f5ec54113a6f3a2c9587c4b2662e98b6/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/9b2d53db9b1b64a66fca9f1207656658/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "黄檗山斷際禪師宛陵録1卷",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "黄檗山斷際禪師宛陵録1卷"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "通番: 1668",
+                        "from image no.: 78",
+                        "to image no.: 97"
+                    ]
+                },
+                {
+                    "label": "Identifier",
+                    "value": "9b2d53db9b1b64a66fca9f1207656658"
+                },
+                {
+                    "label": "identifier",
+                    "value": "u-renja1663-1668_0078_0097"
+                }
+            ],
+            "thumbnail": {
+                "@id": "https://app.toyobunko-lab.jp/files/medium/9b52a1327810372f6ba8aaae5dd6b605807748ac.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": null,
+                "width": null
+            }
+        },
+        {
+            "@id": "https://taishozo.github.io/u-renja/iiif2/c8ce1dad9891afa00a59e60a2a273acf/manifest.json",
             "@type": "sc:Manifest",
             "label": "華嚴七字經題法界觀三十門頌2卷",
             "metadata": [
@@ -3900,7 +4002,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "f5ec54113a6f3a2c9587c4b2662e98b6"
+                    "value": "c8ce1dad9891afa00a59e60a2a273acf"
                 },
                 {
                     "label": "identifier",
@@ -3908,7 +4010,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/1f6536de1ea9017dc3947e61699b0394dcd64ad6.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/f632c5cebd2b47b5497c47d6744e017032b0af2e.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3916,7 +4018,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/5c07ddd47dc0dffd88dbacb3040ed836/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/a3a55efcb22e2a2c3b438feab7a790cd/manifest.json",
             "@type": "sc:Manifest",
             "label": "續傳燈録36卷",
             "metadata": [
@@ -3934,7 +4036,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "5c07ddd47dc0dffd88dbacb3040ed836"
+                    "value": "a3a55efcb22e2a2c3b438feab7a790cd"
                 },
                 {
                     "label": "identifier",
@@ -3942,7 +4044,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/3c2ef26c312c0c3d93e2bd15d249cccfb9eb40a2.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/4449009b14a6da7dc8d14e0d62f755c30f5dde2a.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3950,7 +4052,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/46276bbe0daf7a952ec7d1120d5dfa30/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/70b38407c8576d341b41f570e216d444/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷4-5)",
             "metadata": [
@@ -3968,7 +4070,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "46276bbe0daf7a952ec7d1120d5dfa30"
+                    "value": "70b38407c8576d341b41f570e216d444"
                 },
                 {
                     "label": "identifier",
@@ -3976,7 +4078,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/18b9a7ca209bad620d51dafddcac0bca5bca345e.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/5bcc3272d69489bb2a167107ce33c552ec2792e6.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -3984,7 +4086,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/ccaf2b9980460fe0794ebf8023267a86/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/0533b5eb65e23c5602e26076b2ffda90/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷15-18)",
             "metadata": [
@@ -4002,7 +4104,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "ccaf2b9980460fe0794ebf8023267a86"
+                    "value": "0533b5eb65e23c5602e26076b2ffda90"
                 },
                 {
                     "label": "identifier",
@@ -4010,7 +4112,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/7635ebe1db1c1fe7a2e3bc8e4bb4eee2ad58ab09.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/6500d54a7b0f8ac64605911824a630f05246d092.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -4018,7 +4120,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/82039cf0122950aff21d13007e24776f/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/4d1e1e326401993307284872e34843e5/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷19)",
             "metadata": [
@@ -4036,7 +4138,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "82039cf0122950aff21d13007e24776f"
+                    "value": "4d1e1e326401993307284872e34843e5"
                 },
                 {
                     "label": "identifier",
@@ -4044,7 +4146,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/0978a3bb15399a39412a3df3ab98f0514abc4db1.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/d3ae95f5d3bbfa9a10ed297730b6324e302417fa.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -4052,7 +4154,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/6b6dacee618168387018afb745022e95/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/7ebf96111e4c22363ef9dc9b591ac1cd/manifest.json",
             "@type": "sc:Manifest",
             "label": "古尊宿語録48卷　(卷20-22)",
             "metadata": [
@@ -4070,7 +4172,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "6b6dacee618168387018afb745022e95"
+                    "value": "7ebf96111e4c22363ef9dc9b591ac1cd"
                 },
                 {
                     "label": "identifier",
@@ -4078,7 +4180,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/8f4d49343cf7613afa80a9fc185ef3ca616269ca.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/07cd55e0bb19561a5068311c4a50fca06825fd01.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
@@ -4086,7 +4188,7 @@
             }
         },
         {
-            "@id": "https://taishozo.github.io/u-renja/iiif2/78bb3e59a0b898b37690c7c81c963983/manifest.json",
+            "@id": "https://taishozo.github.io/u-renja/iiif2/b2ede148fae7e6c98bdd315a1a6b3260/manifest.json",
             "@type": "sc:Manifest",
             "label": "佛祖統紀54卷",
             "metadata": [
@@ -4104,7 +4206,7 @@
                 },
                 {
                     "label": "Identifier",
-                    "value": "78bb3e59a0b898b37690c7c81c963983"
+                    "value": "b2ede148fae7e6c98bdd315a1a6b3260"
                 },
                 {
                     "label": "identifier",
@@ -4112,7 +4214,7 @@
                 }
             ],
             "thumbnail": {
-                "@id": "https://app.toyobunko-lab.jp/files/medium/dee68908e2e4c67c7d6d8ec65d5b84f72cb84a2e.jpg",
+                "@id": "https://app.toyobunko-lab.jp/files/medium/71f0531e4bc8e3f8bbb817825efcfe313ad184f0.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": null,
