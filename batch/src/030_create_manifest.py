@@ -9,12 +9,17 @@ import os
 from PIL import Image
 import yaml
 import requests
+import os
 
 prefix = "https://taishozo.github.io/u-renja"
 # prefix = "https://sat-iiif.s3.amazonaws.com"
 # prefix = "https://d1av1vcgsldque.cloudfront.net"
 opath = "../../static/iiif/collection/top.json"
-path = "data/酉蓮社本目録20210226.xlsx"
+
+with open("config.json") as f:
+    config = json.load(f)
+
+path = config["path"]
 
 ############
 
@@ -140,6 +145,8 @@ collection = {
     "manifests" : manifests,
     "label" : "酉蓮社本目録"
 }
+
+os.makedirs(os.path.dirname(opath), exist_ok=True)
 
 f2 = open(opath, 'w')
 json.dump(collection, f2, ensure_ascii=False, indent=4,

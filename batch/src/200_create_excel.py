@@ -11,7 +11,11 @@ import yaml
 import requests
 
 prefix = "https://taishozo.github.io/u-renja"
-path = "data/酉蓮社本目録20210226.xlsx"
+
+with open("config.json") as f:
+    config = json.load(f)
+
+path = config["path"]
 
 ############
 

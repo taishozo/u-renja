@@ -49,11 +49,13 @@ export default class Page extends Vue {
       value:
         'https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://taishozo.github.io/db/iiif/kandomokuroku/manifest.json',
     },
+    /*
     {
       label: 'メタデータ一覧（Excel）',
       value:
         'https://view.officeapps.live.com/op/view.aspx?src=https://taishozo.github.io/u-renja/metadata/data.xlsx',
     },
+    */
   ]
 }
 </script>

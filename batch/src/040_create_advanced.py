@@ -12,7 +12,12 @@ import requests
 
 prefix = "https://taishozo.github.io/u-renja"
 opath = "../../static/iiif/collection/advanced.json"
-path = "data/酉蓮社本目録20210226.xlsx"
+
+
+with open("config.json") as f:
+    config = json.load(f)
+
+path = config["path"]
 
 
 df_item = pd.read_excel(path, sheet_name="詳細", header=None, index_col=None, engine="openpyxl")
