@@ -141,7 +141,7 @@
           </v-col>
         </v-row>
 
-        <ViewSwitch></ViewSwitch>
+        <ViewSwitch :aggs="aggs"></ViewSwitch>
 
         <div v-show="isPagination" class="text-center mt-10">
           <v-pagination
