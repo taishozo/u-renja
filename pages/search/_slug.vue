@@ -141,6 +141,11 @@
           </v-col>
         </v-row>
 
+        <div class="text-right">
+          bbb
+          <View></View>
+        </div>
+
         <div v-show="isPagination" class="text-center mt-10">
           <v-pagination
             v-model="page"
@@ -375,6 +380,7 @@ import SearchAdvanced from '~/components/search/Advanced.vue'
 import SearchLayoutGraph from '~/components/search/layout/Graph.vue'
 import CustomSearchLayoutTable from '~/components/custom/search/layout/Table.vue'
 import CustomSearchLayoutAdvanced from '~/components/custom/search/layout/Advanced.vue'
+import View from '~/components/custom/search/View.vue'
 
 export default {
   components: {
@@ -383,6 +389,7 @@ export default {
     SearchLayoutGraph,
     CustomSearchLayoutTable,
     CustomSearchLayoutAdvanced,
+    View,
   },
   data() {
     return {
