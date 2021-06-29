@@ -345,5 +345,11 @@
     "_label" : "label",
     "manifest" : "Manifest",
     "entity" : "事物",
-    "random" : "ランダム"
+    "random" : "ランダム"  ,
+    "name" : "名前",
+    "cancel": "キャンセル",
+    "refine": "絞り込み",
+    "show all": "すべて表示",
+    "results" : "件",
+    "dataset" : "データセット"
   }

@@ -325,5 +325,11 @@
   "_label" : "label",
   "manifest" : "Manifest",
   "entity" : "Entity",
-  "random" : "Random"
+  "random" : "Random",
+  "name" : "Name",
+    "cancel": "Cancel",
+    "refine": "Refine",
+    "show all": "Show All",
+    "results" : "results",
+    "dataset": "Dataset"
   }

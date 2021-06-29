@@ -1,9 +1,30 @@
 <template>
   <div>
-    <v-app-bar id="head" flat app>
+    <v-navigation-drawer v-model="drawer" :temporary="true" app>
+      <v-list>
+        <v-list-item
+          v-for="(item, key) in menu"
+          :key="key"
+          :to="item.to"
+          :href="item.href"
+          link
+        >
+          <v-list-item-action v-if="item.icon">
+            <v-icon>{{ item.icon }}</v-icon>
+          </v-list-item-action>
+          <v-list-item-content>
+            <span>{{ $t(item.label) }}</span>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list>
+    </v-navigation-drawer>
+
+    <v-app-bar>
+      <v-app-bar-nav-icon v-if="isMobile" @click.stop="drawer = !drawer" />
+
       <v-toolbar-title>
         <nuxt-link
-          :to="localePath({ name: 'index', query: { u: $route.query.u } })"
+          :to="localePath({ name: 'index' })"
           style="color: inherit; text-decoration: inherit;"
         >
           酉蓮社(旧増上寺報恩蔵)蔵嘉興版大蔵経目録データベース
@@ -12,33 +33,26 @@
 
       <v-spacer></v-spacer>
 
-      <v-text-field
-        v-model="keywordStr"
-        single-line
-        background-color="grey lighten-2"
-        class="px-4"
-        filled
-        rounded
-        dense
-        hide-details
-        :label="$t('add_a_search_term')"
-        append-icon="mdi-magnify"
-        clearable
-        clear-icon="mdi-close-circle"
-        @click:append="search()"
-        @keydown.enter="trigger"
-      ></v-text-field>
-
-      <v-spacer></v-spacer>
+      <template v-if="!isMobile">
+        <v-btn
+          v-for="(item, key) in menu"
+          :key="key"
+          class="ma-1"
+          text
+          depressed
+          :to="item.to"
+          :href="item.href"
+          exact
+        >
+          <v-icon v-if="item.icon" class="mr-1">{{ item.icon }}</v-icon>
+          {{ $t(item.label) }}
+        </v-btn>
+      </template>
 
       <v-menu offset-y>
         <template v-slot:activator="{ on }">
           <v-btn depressed btn v-on="on">
             <v-icon class="mr-2">mdi-translate</v-icon>
-            <template v-if="!isMobile()">
-              {{ $i18n.locale == 'ja' ? '日本語' : 'English' }}
-              <v-icon class="ml-2">mdi-menu-down</v-icon>
-            </template>
           </v-btn>
         </template>
 
@@ -56,188 +70,49 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component, Watch } from 'nuxt-property-decorator'
+import { Vue, Component } from 'nuxt-property-decorator'
 
 @Component
 export default class Header extends Vue {
-  trigger(event: any) {
-    // 日本語入力中のEnterキー操作は無効にする
-    if (event.keyCode !== 13) return
-
-    this.search()
-  }
-
-  width: number = window.innerWidth
-  height: number = window.innerHeight
-
-  get title(): string {
-    return this.$store.state.title
-  }
-
-  handleResize() {
-    // resizeのたびにこいつが発火するので、ここでやりたいことをやる
-    this.width = window.innerWidth
-    this.height = window.innerHeight
-  }
-
-  mounted() {
-    window.addEventListener('resize', this.handleResize)
-  }
-
-  beforeDestroy() {
-    window.removeEventListener('resize', this.handleResize)
-  }
+  baseUrl: string = process.env.BASE_URL || ''
 
   drawer: boolean = false
-  fixed: boolean = false
 
-  keywordStr: string = ''
-  keywords: string[] = []
-
-  dialog: boolean = false
-
-  advanced: any = {}
-
-  get dataType(): string {
-    if (this.$store.state.json) {
-      return this.$store.state.json['@type']
-    } else {
-      return ''
-    }
-  }
-
-  creators: any = [
+  menu: any[] = [
     {
-      value: '',
-      text: 'All',
+      label: 'about_',
+      to: this.localePath({ name: 'about' }),
     },
     {
-      value: 'Giovanni Battista Piranesi',
-      text: 'Giovanni Battista Piranesi',
+      label: '書名検索',
+      to: this.localePath({ name: 'search-slug' }),
     },
     {
-      value: 'Francesco Piranesi',
-      text: 'Francesco Piranesi',
+      label: '詳細目録',
+      to: this.localePath({
+        name: 'search-slug',
+        params: { slug: 'advanced' },
+      }),
     },
-  ] // 'All', 'Giovanni Battista Piranesi', 'Francesco Piranesi'
+    {
+      label: 'category',
+      to: this.localePath({ name: 'category' }),
+    },
 
-  // 保留。queryStoreを使いたい。
-  @Watch('$route', { deep: true, immediate: true })
-  watchRoute(val: any) {
-    let keywords: any = val.query.keyword
-    if (keywords) {
-      keywords = this.$utils.convert2arr(keywords)
-      this.keywordStr = this.$utils.formatArrayValue(keywords, ' ')
-    } else {
-      this.keywordStr = ''
-    }
     /*
-    const keywords: any = val.query.keyword
-    if (keywords) {
-      this.keywords = this.$utils.convert2arr(keywords)
-      this.keywordStr = this.$utils.formatArrayValue(this.keywords, ' ')
-    } else {
-      this.keywordStr = ''
-    }
+    {
+      label: 'はじめに・凡例',
+      href: this.baseUrl + '/はじめに・凡例.pdf',
+    },
     */
-  }
+    {
+      label: 'dataset',
+      to: this.localePath({ name: 'dataset' }),
+    },
+  ]
 
-  search() {
-    let keywordStr = this.keywordStr
-
-    if (!keywordStr) {
-      keywordStr = ''
-    }
-
-    let keywords
-    if (keywordStr.startsWith('"') && keywordStr.endsWith('"')) {
-      keywords = [
-        {
-          label: 'keyword',
-          value: keywordStr,
-        },
-      ]
-    } else {
-      keywords = this.$utils.splitKeyword(keywordStr)
-    }
-
-    // push 処理
-    const query: any = JSON.parse(JSON.stringify(this.$route.query))
-
-    // キーワードは初期化してみる
-    delete query.keyword
-
-    for (let i = 0; i < keywords.length; i++) {
-      const obj: any = keywords[i]
-      const label = obj.label
-      const value = obj.value
-
-      if (!query[label]) {
-        query[label] = []
-      } else if (!Array.isArray(query[label])) {
-        query[label] = [query[label]]
-      }
-
-      if (!query[label].includes(value)) {
-        query[label].push(value)
-      }
-    }
-    // query.keyword = keywords
-    query.from = 0
-
-    this.$router.push(
-      this.localePath({
-        name: 'search',
-        query,
-      }),
-      () => {},
-      () => {}
-    )
-  }
-
-  /*
-  advancedSearch() {
-    const advanced = this.advanced
-    const query: any = Object.assign({}, this.$route.query)
-    for (const term in advanced) {
-      const value: string = advanced[term].trim()
-      if (value === '') {
-        if (query[term]) {
-          delete query[term]
-        }
-      } else {
-        query[term] = value
-      }
-    }
-
-    const keywordStr = this.keywordStr
-
-    if (keywordStr) {
-      const keywords = this.$utils.splitKeyword(keywordStr)
-      query.keyword = keywords
-    }
-
-    query.from = 0
-
-    this.$router.push(
-      this.localePath({
-        name: 'search',
-        query,
-      }),
-      () => {},
-      () => {}
-    )
-
-    this.dialog = false
-  }
-  */
-
-  isMobile() {
-    if (
-      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
-        navigator.userAgent
-      )
-    ) {
+  get isMobile() {
+    if (['xs', 'sm'].includes(this.$vuetify.breakpoint.name)) {
       return true
     } else {
       return false

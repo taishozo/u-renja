@@ -11,6 +11,32 @@ function convert2arr(value: any): string[] {
 }
 // /plugins/logger.ts
 export class SearchUtils {
+  splitKeyword(keyword: string): string[] {
+    // 全角を半角に変換
+    // 空の配列を削除
+    // eslint-disable-next-line
+    const keywords: string[] = keyword.replace(/　/g, ' ').split(' ').filter(item => item !== "")
+
+    const keywords2: any[] = []
+    for (let i = 0; i < keywords.length; i++) {
+      const keyword: string = keywords[i]
+      const splitTmp = keyword.split(':')
+      if (splitTmp.length === 2) {
+        keywords2.push({
+          label: 'q-' + splitTmp[0].trim(),
+          value: splitTmp[1].trim(),
+        })
+      } else {
+        keywords2.push({
+          label: 'keyword',
+          value: keyword,
+        })
+      }
+    }
+
+    return keywords2
+  }
+
   createQuery(routeQuery: any, config: any): any {
     const fcs = Object.keys(config.facetLabels) // JSON.parse(process.env.FACETS_LABELS)
 

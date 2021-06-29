@@ -85,6 +85,216 @@ const env = {
 
 env.db = 'https://taishozo.github.io/db'
 
+///
+
+env.bc = true
+
+env.config = {
+  default: {
+    label: '書名目録',
+    index: 'data/index.json',
+    to: {
+      name: 'search-slug',
+    },
+    aggs: {
+      '分類(1)': {
+        // sort: 'name:asc',
+        label: '分類(1)',
+        value: {},
+        key: '分類(1)',
+        more: false,
+      },
+      '分類(2)': {
+        // sort: 'name:asc',
+        label: '分類(2)',
+        value: {},
+        key: '分類(2)',
+        more: false,
+      },
+      '分類(3)': {
+        // sort: 'name:asc',
+        label: '分類(3)',
+        value: {},
+        key: '分類(3)',
+        more: false,
+      },
+      函册: {
+        // sort: 'name:asc',
+        label: '函册次',
+        value: {},
+        key: '函册',
+        more: false,
+      },
+      經番: {
+        // sort: 'name:asc',
+        label: '經番',
+        value: {},
+        key: '經番',
+        more: false,
+      },
+      譯著者_facet: {
+        // sort: 'name:asc',
+        label: '譯著者',
+        value: {},
+        key: '譯著者_facet',
+        more: false,
+      },
+      版式: {
+        // sort: 'name:asc',
+        label: '版式',
+        value: {},
+        key: '版式',
+        more: false,
+      },
+      大正藏採録種別: {
+        // sort: 'name:asc',
+        label: '大正藏採録種別',
+        value: {},
+        key: '大正藏採録種別',
+        more: false,
+      },
+      画像有無: {
+        // sort: 'name:asc',
+        label: '画像有無',
+        value: {},
+        key: '画像有無',
+        more: false,
+      },
+    },
+    sort: [{ label: '適合度', value: '_score' }],
+    defaultSort: '_score:desc',
+    layout: [
+      {
+        label: 'table',
+        value: 'table',
+        icon: 'mdi-table',
+        component: 'custom-search-layout-table',
+      },
+      {
+        label: 'graph',
+        value: 'graph',
+        icon: 'mdi-chart-bar',
+        component: 'search-layout-graph',
+      },
+    ],
+    defaultLayout: 'table',
+    advanced: [],
+  },
+  advanced: {
+    label: '詳細目録',
+    index: 'data/advanced.json',
+    to: {
+      name: 'search-slug',
+      params: { slug: 'advanced' },
+    },
+    aggs: {
+      連: {
+        // sort: 'name:asc',
+        label: '所在一覧-連',
+        value: {},
+        key: '連',
+        more: false,
+      },
+      箱: {
+        // sort: 'name:asc',
+        label: '所在一覧-箱',
+        value: {},
+        key: '箱',
+        more: false,
+      },
+      '函(通番)': {
+        // sort: 'name:asc',
+        label: '所在一覧-函',
+        value: {},
+        key: '函(通番)',
+        more: false,
+      },
+      '分類(1)': {
+        // sort: 'name:asc',
+        label: '分類(1)',
+        value: {},
+        key: '分類(1)',
+        more: false,
+      },
+      '分類(2)': {
+        // sort: 'name:asc',
+        label: '分類(2)',
+        value: {},
+        key: '分類(2)',
+        more: false,
+      },
+      '分類(3)': {
+        // sort: 'name:asc',
+        label: '分類(3)',
+        value: {},
+        key: '分類(3)',
+        more: false,
+      },
+      函册次: {
+        // sort: 'name:asc',
+        label: '函册次',
+        value: {},
+        key: '函册次',
+        more: false,
+      },
+      經番: {
+        // sort: 'name:asc',
+        label: '經番',
+        value: {},
+        key: '經番',
+        more: false,
+      },
+      通番: {
+        // sort: 'name:asc',
+        label: '通番',
+        value: {},
+        key: '通番',
+        more: false,
+      },
+      '刊記(西暦年)': {
+        // sort: 'name:asc',
+        label: '刊記(西暦年)',
+        value: {},
+        key: '刊記(西暦年)',
+        more: false,
+      },
+      圖像: {
+        // sort: 'name:asc',
+        label: '圖像',
+        value: {},
+        key: '圖像',
+        more: false,
+      },
+    },
+    sort: [{ label: '適合度', value: '_score' }],
+    defaultSort: '_score:desc',
+    layout: [
+      {
+        label: 'table',
+        value: 'table',
+        icon: 'mdi-table',
+        component: 'custom-search-layout-advanced',
+      },
+      {
+        label: 'graph',
+        value: 'graph',
+        icon: 'mdi-chart-bar',
+        component: 'search-layout-graph',
+      },
+    ],
+    defaultLayout: 'table',
+    advanced: [],
+  },
+}
+
+env.hide = []
+
+env.list = []
+
+env.advanced = []
+
+///
+
 module.exports = {
   server: {
     port: 8008, // デフォルト: 3000
@@ -225,7 +435,11 @@ module.exports = {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ['@/plugins/utils.ts', '@/plugins/searchUtils.ts'],
+  plugins: [
+    '@/plugins/utils.ts',
+    '@/plugins/searchUtils.ts',
+    '@/plugins/indexUtils.ts',
+  ],
   /*
    ** Nuxt.js dev-modules
    */

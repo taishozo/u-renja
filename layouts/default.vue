@@ -6,6 +6,8 @@
       <nuxt />
     </v-content>
 
+    <Footer />
+
     <v-btn
       v-show="fab"
       v-scroll="onScroll"
@@ -63,5 +65,14 @@ export default class LayoutDefault extends Vue {
 }
 body {
   word-break: break-word;
+}
+th {
+  padding: 4px;
+}
+td {
+  padding: 4px;
+}
+a {
+  text-decoration: none;
 }
 </style>

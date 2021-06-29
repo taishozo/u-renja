@@ -1,7 +1,8 @@
 <template>
   <div>
+    <BMenu :items="bh"></BMenu>
     <v-container class="my-5">
-      <h2 class="my-5">データセット</h2>
+      <h2 class="mb-5">データセット</h2>
 
       <v-simple-table>
         <template v-slot:default>
@@ -31,11 +32,36 @@
 
 <script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
+import BMenu from '~/components/BMenu.vue'
 
-@Component
+@Component({
+  components: {
+    BMenu,
+  },
+})
 export default class Page extends Vue {
+  get title(): any {
+    return this.$t('dataset')
+  }
+
   head() {
-    return {}
+    return {
+      title: this.title,
+    }
+  }
+
+  get bh(): any[] {
+    return [
+      {
+        text: this.$t('top'),
+        disabled: false,
+        to: this.localePath({ name: 'index' }),
+        exact: true,
+      },
+      {
+        text: this.$t(this.title),
+      },
+    ]
   }
 
   items: any[] = [
