@@ -63,9 +63,9 @@ export default class Page extends Vue {
 
   baseUrl: any = process.env.BASE_URL
 
-  siteName: any = '酉蓮社(旧増上寺報恩蔵)蔵嘉興版大蔵経目録データベース'
+  siteName: any = '酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベース'
   siteDesc: any =
-    '酉蓮社(旧増上寺報恩蔵)蔵嘉興版大蔵経目録データベースへようこそ'
+    '酉蓮社（旧増上寺報恩蔵）蔵嘉興版大蔵経目録データベースへようこそ'
 
   slides: string[] = [process.env.BASE_URL + '/img/経箱画像.png']
 }

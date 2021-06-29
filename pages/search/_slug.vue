@@ -63,16 +63,19 @@
         </div>
 
         <div v-if="filters.length > 0" class="mt-5">
-          <v-chip
-            v-for="(e, key) in filters"
-            :key="key"
-            class="mr-2 my-2"
-            close
-            label
-            @click:close="faceted(e.label, e.value)"
-          >
-            {{ aggs[e.label].label }}: {{ e.value }}
-          </v-chip>
+          <template v-for="(e, key) in filters">
+            <!-- この条件分岐は要検討 -->
+            <v-chip
+              v-if="aggs[e.label]"
+              :key="key"
+              class="mr-2 my-2"
+              close
+              label
+              @click:close="faceted(e.label, e.value)"
+            >
+              {{ aggs[e.label].label }}: {{ e.value }}
+            </v-chip>
+          </template>
 
           <v-chip
             v-if="filters.length > 0"

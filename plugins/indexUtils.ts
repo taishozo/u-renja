@@ -271,12 +271,17 @@ export class IndexUtils {
       const minusValues = obj['-']
 
       const matchFacets = facets[facetField]
+      if (!matchFacets) {
+        continue
+      }
 
       // プラス分
       if (plusValues.length > 0) {
         let plusMatchedIds: string[] = []
         for (const pValue of plusValues) {
-          plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
+          if (matchFacets[pValue]) {
+            plusMatchedIds = plusMatchedIds.concat(matchFacets[pValue])
+          }
         }
         ids = _.intersection(ids, plusMatchedIds)
       }
