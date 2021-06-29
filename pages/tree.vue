@@ -25,7 +25,7 @@
                   <v-checkbox
                     v-model="r"
                     :value="key"
-                    @change=";(h = ''), (k = '')"
+                    @change=";(h = ''), (k = [])"
                   ></v-checkbox>
                 </v-list-item-action>
 
@@ -48,7 +48,7 @@
                     <v-checkbox
                       v-model="h"
                       :value="key"
-                      @change="k = ''"
+                      @change="k = []"
                     ></v-checkbox>
                   </v-list-item-action>
 
@@ -122,7 +122,7 @@ export default class Page extends Vue {
 
   r: string = ''
   h: string = ''
-  k: string = ''
+  k: string[] = []
 
   items: any = {}
 
@@ -143,8 +143,11 @@ export default class Page extends Vue {
       query['main[refinementList][箱]'] = this.h
     }
 
-    if (this.k) {
-      query['main[refinementList][函册次]'] = this.k
+    const k = this.k
+    if (k.length > 0) {
+      for (let i = 0; i < k.length; i++) {
+        query[`main[refinementList][函册次][${i}]`] = k[i]
+      }
     }
 
     this.$router.push(
