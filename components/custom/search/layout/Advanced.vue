@@ -49,7 +49,6 @@
           <td>{{ $utils.formatArrayValue(obj['圖像']) }}</td>
           <td>
             <nuxt-link
-              target="_blank"
               :to="
                 localePath({
                   name: 'item-id',
