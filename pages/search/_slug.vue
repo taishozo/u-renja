@@ -141,10 +141,7 @@
           </v-col>
         </v-row>
 
-        <div class="text-right">
-          bbb
-          <View></View>
-        </div>
+        <ViewSwitch></ViewSwitch>
 
         <div v-show="isPagination" class="text-center mt-10">
           <v-pagination
@@ -380,7 +377,7 @@ import SearchAdvanced from '~/components/search/Advanced.vue'
 import SearchLayoutGraph from '~/components/search/layout/Graph.vue'
 import CustomSearchLayoutTable from '~/components/custom/search/layout/Table.vue'
 import CustomSearchLayoutAdvanced from '~/components/custom/search/layout/Advanced.vue'
-import View from '~/components/custom/search/View.vue'
+import ViewSwitch from '~/components/custom/search/ViewSwitch.vue'
 
 export default {
   components: {
@@ -389,7 +386,7 @@ export default {
     SearchLayoutGraph,
     CustomSearchLayoutTable,
     CustomSearchLayoutAdvanced,
-    View,
+    ViewSwitch,
   },
   data() {
     return {
