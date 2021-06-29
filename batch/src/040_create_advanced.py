@@ -38,6 +38,9 @@ for j in range(1, r_count):
 
     metadata = []
 
+    if pd.isnull(df_item.iloc[j, 0]):
+        continue
+
     for i in map:
         label = map[i]
         value = df_item.iloc[j, i]

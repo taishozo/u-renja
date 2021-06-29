@@ -25,6 +25,19 @@
           color="primary"
           :to="
             localePath({
+              name: 'tree',
+            })
+          "
+        >
+          {{ '所在' }}
+        </v-btn>
+
+        <v-btn
+          class="ma-2"
+          dark
+          color="primary"
+          :to="
+            localePath({
               name: 'search-slug',
             })
           "

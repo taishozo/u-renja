@@ -57,7 +57,7 @@
                   },
                 })
               "
-              >{{ $t('detail') }}
+              >{{ 'more' }}
             </nuxt-link>
           </td>
         </tr>

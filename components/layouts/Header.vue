@@ -84,6 +84,10 @@ export default class Header extends Vue {
       to: this.localePath({ name: 'about' }),
     },
     {
+      label: '所在',
+      to: this.localePath({ name: 'tree' }),
+    },
+    {
       label: '書名目録',
       to: this.localePath({ name: 'search-slug' }),
     },
