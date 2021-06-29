@@ -108,7 +108,7 @@ export default class FullTextSearch extends Vue {
     return (
       this.$utils.formatArrayValue(obj['分類(1)']) +
       ' ' +
-      this.$utils.formatArrayValue(obj['分類(2)']) +
+      (obj['分類(2)'] ? this.$utils.formatArrayValue(obj['分類(2)']) : '') +
       (obj['分類(3)'] ? ' ' + this.$utils.formatArrayValue(obj['分類(3)']) : '')
     )
   }
@@ -124,9 +124,10 @@ export default class FullTextSearch extends Vue {
   }
 
   icons(obj: any) {
+    console.log({ obj })
     const results = []
-    if (obj.Manifest) {
-      const manifests = obj.Manifest
+    if (obj.relatedLink) {
+      const manifests = obj.relatedLink
       for (const m of manifests) {
         const text =
           '<a href="http://www.kanzaki.com/works/2016/pub/image-annotator?u=' +

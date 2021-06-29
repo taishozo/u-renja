@@ -13,6 +13,24 @@ import requests
 with open("../../static/iiif/collection/top.json") as f:
     collection = json.load(f)
 
+with open("../../static/iiif2/collection/top.json") as f:
+    collection2 = json.load(f)
+
+map = {}
+
+manifests2 = collection2["manifests"]
+for m in manifests2:
+    no = ""
+    id = m["@id"]
+
+    for obj in m["metadata"]:
+        if obj["label"] == "Description":
+            no = obj["value"][0].split(" ")[1]
+
+    if no not in map:
+        map[no] = []
+    map[no].append(id)
+
 manifests = collection["manifests"]
 
 actions = []
@@ -22,14 +40,27 @@ for m in manifests:
     fulltext = ""
 
     item = {
-        "objectID" : str(m["label"]),
+        "objectID" : str(m["label"]).zfill(4),
     }
 
     metadata = m["metadata"]
 
     for me in metadata:
-        item[me["label"]] = me["value"]
-        fulltext += ", " + str(me["value"])
+        
+        label = me["label"]
+        value = me["value"]
+
+        if label == "通番":
+            value = int(value)
+        
+        item[label] = value 
+
+        fulltext += ", " + str(value)
+
+    id = item["objectID"]
+
+    if id in map:
+        item["relatedLink"] = map[id]
     
     item["fulltext"] = fulltext
     actions.append(item)
