@@ -167,10 +167,12 @@ env.config = {
         key: '通番',
         more: false,
         hide: true,
+        type: 'number',
       },
     },
-    sort: [{ label: '適合度', value: '_score' }],
-    defaultSort: '_score:desc',
+    // sort: [{ label: '適合度', value: '_score' }],
+    sort: [{ label: '通番', value: '通番' }],
+    defaultSort: '通番:asc',
     layout: [
       {
         label: 'table',
@@ -187,6 +189,8 @@ env.config = {
     ],
     defaultLayout: 'table',
     advanced: [],
+    itemPerPages: [20, 50, 100, 500],
+    defaultItemPerPage: 20,
   },
   advanced: {
     label: '詳細目録',
@@ -258,6 +262,7 @@ env.config = {
         value: {},
         key: '通番',
         more: false,
+        type: 'number',
       },
       '刊記(西暦年)': {
         // sort: 'name:asc',
@@ -274,8 +279,8 @@ env.config = {
         more: false,
       },
     },
-    sort: [{ label: '適合度', value: '_score' }],
-    defaultSort: '_score:desc',
+    sort: [{ label: '通番', value: '通番' }],
+    defaultSort: '通番:asc',
     layout: [
       {
         label: 'table',
@@ -292,6 +297,8 @@ env.config = {
     ],
     defaultLayout: 'table',
     advanced: [],
+    itemPerPages: [20, 50, 100, 500, 1000],
+    defaultItemPerPage: 20,
   },
 }
 

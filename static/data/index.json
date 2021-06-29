@@ -17302,6 +17302,12 @@
         "from image no.(1)": "1",
         "fulltext": ", 經, 小乘經, 阿含部, 066-06, U0674, 679, 1, 5, 佛説四十二章經1卷坿音釋, 後漢迦葉摩騰・竺法蘭譯, 宋眞宗注, 迦葉摩騰, 竺法蘭, 眞宗, 定型, 康煕3年刊, 21.6, 14.2, 5a, 08021, T1794, 底本, 底本, 增上寺報恩藏藏本, 佛説四十二章經1卷, u-renja0679, IIIF, 1, 22",
         "objectID": "0679",
+        "relatedLink": [
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/cd04078bf078dd93d935be60160a36e0/manifest.json",
+                "label": "佛説四十二章經1卷"
+            }
+        ],
         "to image no.(1)": "22",
         "函册": "066-06",
         "分類(1)": "經",
@@ -20755,6 +20761,12 @@
         "from image no.(1)": "1",
         "fulltext": ", 經, 宋元入藏諸大小乘經, 072-07, U0811, 817, 1, 1, 聖觀自在菩薩一百八名經1卷, 宋釋天息災譯, 釋天息災, 定型, 崇禎16年刊, 22.2, 14.1, 7a, 05030, T1054, 底本, 底本, 增上寺報恩藏藏本, 聖觀自在菩薩一百八名經1卷, u-renja0817, IIIF, 1, 9",
         "objectID": "0817",
+        "relatedLink": [
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/50766096cd0b93e1f94dfe811e32ab68/manifest.json",
+                "label": "聖觀自在菩薩一百八名經1卷"
+            }
+        ],
         "to image no.(1)": "9",
         "函册": "072-07",
         "分類(1)": "經",
@@ -28796,8 +28808,14 @@
         "fulltext": ", 律, 小乘律, 098-02, U1132, 1143, 1, 3, 出家授近圓羯磨儀範1卷坿根本説一切有部苾芻習學畧法1卷坿音釋, 元拔合思巴集, 拔合思巴, 定型, 不明年刊, 21, 14, 1a, 08456, T1904, 底本, 底本, 增上寺報恩藏藏本, 8458, T1905, 底本, 底本, 增上寺報恩藏藏本, 出家授近圓羯磨儀範1卷, u-renja1143a, IIIF, 1, 28, 根本説一切有部苾芻習學畧法1卷, u-renja1143b, 1, 14",
         "objectID": "1143",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/4c5435310d4d5760d969904cf94e0d9b/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/0db3f6fe6edaca236f91de30198c8b8e/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/4c5435310d4d5760d969904cf94e0d9b/manifest.json",
+                "label": "出家授近圓羯磨儀範1卷"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/0db3f6fe6edaca236f91de30198c8b8e/manifest.json",
+                "label": "根本説一切有部苾芻習學畧法1卷"
+            }
         ],
         "to image no.(1)": "28",
         "to image no.(2)": "14",
@@ -34235,7 +34253,10 @@
         "fulltext": ", 西土聖賢撰集, 140-06, U1348, 1361, 1, 2, 金剛頂一切如來眞實攝大乘現證大教王經2卷坿音釋, 唐釋不空譯, 釋不空, 定型, 崇禎12年刊, 22, 14.2, 卷上1a, 04309, T0874, 底本, 底本, 增上寺報恩藏藏本, 金剛頂一切如來眞實攝大乘現證大教王經2卷, u-renja1361, IIIF, 1, 47",
         "objectID": "1361",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/bb175048adea7066e3a4d0efaacfb022/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/bb175048adea7066e3a4d0efaacfb022/manifest.json",
+                "label": "金剛頂一切如來眞實攝大乘現證大教王經2卷"
+            }
         ],
         "to image no.(1)": "47",
         "函册": "140-06",
@@ -36404,8 +36425,14 @@
         "fulltext": ", 西土聖賢撰集, 142-06, U1443, 1456, 1, 2, 大方廣佛華嚴經入法界品四十二字觀1卷坿大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷坿音釋, 唐釋不空譯, 釋不空, 定型, 22.5, 14.2, 1a, 04887, T1019, 校本, 校本, 明本, 4891, T1020, 校本, 校本, 明本, 大方廣佛華嚴經入法界品四十二字觀1卷, u-renja1456, IIIF, 1, 8, 大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷, u-renja1456, 8, 11",
         "objectID": "1456",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/dc75778cd674b666bd6d94df921123ca/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/eb86f883bd04ba0f797a36c3585c662e/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/dc75778cd674b666bd6d94df921123ca/manifest.json",
+                "label": "大方廣佛華嚴經入法界品四十二字觀1卷"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/eb86f883bd04ba0f797a36c3585c662e/manifest.json",
+                "label": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷"
+            }
         ],
         "to image no.(1)": "8",
         "to image no.(2)": "11",
@@ -37048,7 +37075,10 @@
         "fulltext": ", 此土著述, 146-07, U1470, 1483, 1, 5, 顯密圓通成佛心要集2卷坿供物利生儀1卷坿音釋, 唐釋道〓（厄＋殳）集, 釋道〓（厄＋殳）, 定型, 崇禎7年刊, 21.8, 14.2, 卷上3a, 08562, T1955, 底本, 底本, 增上寺報恩藏藏本, 顯密圓通成佛心要集2卷坿供物利生儀1卷, u-renja1483, IIIF, 1, 70",
         "objectID": "1483",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/bd266ff88209d6e2c5f7492109723de9/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/bd266ff88209d6e2c5f7492109723de9/manifest.json",
+                "label": "顯密圓通成佛心要集2卷坿供物利生儀1卷"
+            }
         ],
         "to image no.(1)": "70",
         "函册": "146-07",
@@ -37079,7 +37109,10 @@
         "fulltext": ", 此土著述, 146-07, U1471, 1484, 1, 3, 密呪圓因往生集1卷坿音釋, 宋釋智廣・釋慧眞編集, 釋智廣, 釋慧眞, 定型, 萬暦42年刊, 23, 14.2, 3a, 08564, T1956, 底本, 底本, 增上寺報恩藏藏本, 密呪圓因往生集1卷, u-renja1484, IIIF, 1, 28",
         "objectID": "1484",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/4187ca1ba24f5535f48308851825a138/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/4187ca1ba24f5535f48308851825a138/manifest.json",
+                "label": "密呪圓因往生集1卷"
+            }
         ],
         "to image no.(1)": "28",
         "函册": "146-07",
@@ -37766,7 +37799,10 @@
         "fulltext": ", 此土著述, 161-01, U1499, 1512, 1, 2, 説罪要行法1卷, 唐釋義淨撰, 釋義淨, 定型, 21.9, 14.1, 1a, 08454, T1903, 底本, 底本, 增上寺報恩藏藏本, 説罪要行法1卷, u-renja1512, IIIF, 1, 6",
         "objectID": "1512",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2e0eda2795ec1bf8e8b3d789e3768e6d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2e0eda2795ec1bf8e8b3d789e3768e6d/manifest.json",
+                "label": "説罪要行法1卷"
+            }
         ],
         "to image no.(1)": "6",
         "函册": "161-01",
@@ -37796,7 +37832,10 @@
         "fulltext": ", 此土著述, 161-01, U1500, 1513, 1, 1, 受用三水要行法1卷, 唐釋義淨撰, 釋義淨, 定型, 21.8, 14.2, 5b, 08452, T1902, 底本, 底本, 增上寺報恩藏藏本, 受用三水要行法1卷, u-renja1513, IIIF, 1, 4",
         "objectID": "1513",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/9ae73c0d4c9621940c16e492c87cba4a/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/9ae73c0d4c9621940c16e492c87cba4a/manifest.json",
+                "label": "受用三水要行法1卷"
+            }
         ],
         "to image no.(1)": "4",
         "函册": "161-01",
@@ -37826,7 +37865,10 @@
         "fulltext": ", 此土著述, 161-01, U1501, 1514, 1, 1, 護命放生軌儀法1卷坿音釋, 唐釋義淨撰, 釋義淨, 定型, 順治8年刊, 21.9, 14.2, 9b, 08450, T1901, 底本, 底本, 增上寺報恩藏藏本, 護命放生軌儀法1卷, u-renja1514, IIIF, 1, 4",
         "objectID": "1514",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/edc01f3a87168f6840cf6497dbefb575/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/edc01f3a87168f6840cf6497dbefb575/manifest.json",
+                "label": "護命放生軌儀法1卷"
+            }
         ],
         "to image no.(1)": "4",
         "函册": "161-01",
@@ -37857,7 +37899,10 @@
         "fulltext": ", 此土著述, 161-02, 161-03, U1502, 1515, 1, 11, 慈悲道場懺法10卷坿校訛音釋, 梁諸大法師集撰, 左右雙邊 有界11行20字 單白魚尾上黒口下白口 無點, 萬暦13年刊, 21.5, 14.2, 卷一1b, 08468, T1909, 校本, 校本, 增上寺報恩藏藏本, 慈悲道場懺法10卷, u-renja1515, IIIF, 1, 179",
         "objectID": "1515",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/866ea3fd3129a8d207541cf0ad4dbbac/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/866ea3fd3129a8d207541cf0ad4dbbac/manifest.json",
+                "label": "慈悲道場懺法10卷"
+            }
         ],
         "to image no.(1)": "179",
         "函册": "161-02",
@@ -37888,7 +37933,10 @@
         "fulltext": ", 此土著述, 161-04, U1503, 1516, 1, 2, 法華三昧懺儀1卷, 隋釋智顗撰, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 21.8, 14.1, 1a, 08534, T1941, 底本, 底本, 增上寺報恩藏藏本, 法華三昧懺儀1卷, u-renja1516, IIIF, 1, 26",
         "objectID": "1516",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/8580fa957c6fb72890b83e649300726e/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/8580fa957c6fb72890b83e649300726e/manifest.json",
+                "label": "法華三昧懺儀1卷"
+            }
         ],
         "to image no.(1)": "26",
         "函册": "161-04",
@@ -37918,7 +37966,10 @@
         "fulltext": ", 此土著述, 161-04, U1504, 1517, 1, 1, 法華三昧行事運想補助儀1卷坿音釋, 唐釋湛然撰, 釋湛然, 定型, 21.6, 14.3, 24b, 08536, T1942, 底本, 底本, 增上寺報恩藏藏本, 法華三昧行事運想補助儀1卷, u-renja1517, IIIF, 1, 4",
         "objectID": "1517",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/161ea38126c36b338d2455dbc05a78fc/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/161ea38126c36b338d2455dbc05a78fc/manifest.json",
+                "label": "法華三昧行事運想補助儀1卷"
+            }
         ],
         "to image no.(1)": "4",
         "函册": "161-04",
@@ -37949,8 +38000,14 @@
         "fulltext": ", 此土著述, 161-04, U1505, 1518, 1, 2, 金光明懺法補助儀1卷坿略法華三昧補助儀1卷坿音釋, 宋釋遵式集, 釋遵式, 定型, 21.7, 14.1, 1a, 08538, T1943, 底本, 底本, 增上寺報恩藏藏本, 8542, T1945, 底本, 底本, 增上寺報恩藏藏本, 金光明懺法補助儀1卷, u-renja1518a, IIIF, 1, 18, 略法華三昧補助儀1卷, u-renja1518b, 1, 2",
         "objectID": "1518",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/1e81404364e8b94b3479a471f1f9e416/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/68687c3e527dd02d0e472b2eeadaa8ab/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/1e81404364e8b94b3479a471f1f9e416/manifest.json",
+                "label": "金光明懺法補助儀1卷"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/68687c3e527dd02d0e472b2eeadaa8ab/manifest.json",
+                "label": "略法華三昧補助儀1卷"
+            }
         ],
         "to image no.(1)": "18",
         "to image no.(2)": "2",
@@ -37987,7 +38044,10 @@
         "fulltext": ", 此土著述, 161-04, U1506, 1519, 1, 2, 往生淨土懺願儀1卷, 宋釋遵式集, 釋遵式, 定型, 21.7, 14.1, 1a, 08633, T1984, 底本, 底本, 增上寺報恩藏藏本, 往生淨土懺願儀1卷, u-renja1519, IIIF, 1, 17",
         "objectID": "1519",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/0933dba2debc8af4b1e2e0e8e553291e/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/0933dba2debc8af4b1e2e0e8e553291e/manifest.json",
+                "label": "往生淨土懺願儀1卷"
+            }
         ],
         "to image no.(1)": "17",
         "函册": "161-04",
@@ -38017,7 +38077,10 @@
         "fulltext": ", 此土著述, 161-04, U1507, 1520, 1, 1, 往生淨土決疑行願二門1卷, 宋釋遵式集, 釋遵式, 定型, 崇禎11年刊, 22, 14.3, 1a, 08596, T1968, 底本, 底本, 增上寺報恩藏藏本, 往生淨土決疑行願二門1卷, u-renja1520, IIIF, 1, 13",
         "objectID": "1520",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/8a591453098758f28e828af3787ec585/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/8a591453098758f28e828af3787ec585/manifest.json",
+                "label": "往生淨土決疑行願二門1卷"
+            }
         ],
         "to image no.(1)": "13",
         "函册": "161-04",
@@ -38048,7 +38111,10 @@
         "fulltext": ", 此土著述, 161-04, U1508, 1521, 1, 1, 請觀世音菩薩消伏毒害陀羅尼三昧儀1卷, 宋釋遵式集, 釋遵式, 定型, 21.5, 14, 1a, 08550, T1949, 底本, 底本, 增上寺報恩藏藏本, 請觀世音菩薩消伏毒害陀羅尼三昧儀1卷, u-renja1521, IIIF, 1, 19",
         "objectID": "1521",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2eb1920af4ae57dbe3d0cc1a32f790cd/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2eb1920af4ae57dbe3d0cc1a32f790cd/manifest.json",
+                "label": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷"
+            }
         ],
         "to image no.(1)": "19",
         "函册": "161-04",
@@ -38078,7 +38144,10 @@
         "fulltext": ", 此土著述, 161-04, U1509, 1522, 1, 1, 金光明最勝懺儀1卷坿音釋(題ﾉﾐ), 宋釋知禮集, 釋知禮, 定型, 21.6, 14, 19b, 08544, T1946, 底本, 底本, 增上寺報恩藏藏本, 金光明最勝懺儀1卷坿, u-renja1522, IIIF, 1, 8",
         "objectID": "1522",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/d34b27a740bc86d3492162075a4c3542/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/d34b27a740bc86d3492162075a4c3542/manifest.json",
+                "label": "金光明最勝懺儀1卷坿"
+            }
         ],
         "to image no.(1)": "8",
         "函册": "161-04",
@@ -38108,7 +38177,10 @@
         "fulltext": ", 此土著述, 161-04, U1510, 1523, 1, 2, 千手眼大悲心呪行法1卷, 宋釋知禮集, 釋知禮, 定型, 22.1, 14.3, 1a, 08552, T1950, 底本, 底本, 增上寺報恩藏藏本, 千手眼大悲心呪行法1卷, u-renja1523, IIIF, 1, 21",
         "objectID": "1523",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2ec3c268c2151b176d920ef7ecff40fc/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2ec3c268c2151b176d920ef7ecff40fc/manifest.json",
+                "label": "千手眼大悲心呪行法1卷"
+            }
         ],
         "to image no.(1)": "21",
         "函册": "161-04",
@@ -38138,7 +38210,10 @@
         "fulltext": ", 此土著述, 161-04, U1511, 1524, 1, 1, 禮法華經儀式1卷, 宋釋知禮集, 釋知禮, 定型, 22.1, 14.2, 20b, 08540, T1944, 底本, 底本, 增上寺報恩藏藏本, 禮法華經儀式1卷, u-renja1524-1525, IIIF, 1, 3",
         "objectID": "1524",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/52a62901682225f03eca68c84d4bb6fc/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/52a62901682225f03eca68c84d4bb6fc/manifest.json",
+                "label": "禮法華經儀式1卷"
+            }
         ],
         "to image no.(1)": "3",
         "函册": "161-04",
@@ -38168,7 +38243,10 @@
         "fulltext": ", 此土著述, 161-04, U1511, 1525, 1, 1, 禮法華經儀式1卷坿音釋, 宋釋知禮集, 釋知禮, 定型, 21.7, 14.1, 23a, 禮法華經儀式1卷, u-renja1524-1525, IIIF, 3, 5",
         "objectID": "1525",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/9b8d8101b389b5c536b71f33ad39227a/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/9b8d8101b389b5c536b71f33ad39227a/manifest.json",
+                "label": "禮法華經儀式1卷"
+            }
         ],
         "to image no.(1)": "5",
         "函册": "161-04",
@@ -38193,7 +38271,10 @@
         "fulltext": ", 此土著述, 161-04, U1512, 1526, 1, 3, 熾盛光道場念誦儀1卷, 宋釋遵式撰, 釋遵式, 定型, 21.8, 14.1, 2a, 08554, T1951, 底本, 底本, 增上寺報恩藏藏本, 熾盛光道場念誦儀1卷, u-renja1526, IIIF, 1, 18",
         "objectID": "1526",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/0c9f8485475943ff387dc521a2585417/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/0c9f8485475943ff387dc521a2585417/manifest.json",
+                "label": "熾盛光道場念誦儀1卷"
+            }
         ],
         "to image no.(1)": "18",
         "函册": "161-04",
@@ -38223,7 +38304,10 @@
         "fulltext": ", 此土著述, 161-04, U1513, 1527, 1, 2, 釋迦如來涅槃禮讚文1卷坿音釋, 宋釋仁岳撰, 釋仁岳, 定型, 21.5, 14, 2a, 08546, T1947, 底本, 底本, 增上寺報恩藏藏本, 釋迦如來涅槃禮讚文1卷, u-renja1527, IIIF, 1, 11",
         "objectID": "1527",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/c0549c665a1bfbc2356d38cc2b199682/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/c0549c665a1bfbc2356d38cc2b199682/manifest.json",
+                "label": "釋迦如來涅槃禮讚文1卷"
+            }
         ],
         "to image no.(1)": "11",
         "函册": "161-04",
@@ -38253,7 +38337,10 @@
         "fulltext": ", 此土著述, 161-04, U1515, 1528, 1, 2, 天台智者大師齋忌禮讚文1卷坿音釋, 宋釋遵式撰, 釋遵式, 定型, 21.1, 14, 11a, 08548, T1948, 底本, 底本, 增上寺報恩藏藏本, 天台智者大師齋忌禮讚文1卷, u-renja1528, IIIF, 1, 9",
         "objectID": "1528",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/8a1fc1fdc300d38a57da124b92893053/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/8a1fc1fdc300d38a57da124b92893053/manifest.json",
+                "label": "天台智者大師齋忌禮讚文1卷"
+            }
         ],
         "to image no.(1)": "9",
         "函册": "161-04",
@@ -38283,7 +38370,10 @@
         "fulltext": ", 此土著述, 161-04, U1514, 1529, 1, 1, 觀自在菩薩如意輪呪課法1卷, 宋釋仁岳撰, 釋仁岳, 定型, 康煕6年刊, 21, 14, 19a, 08556, T1952, 底本, 底本, 增上寺報恩藏藏本, 觀自在菩薩如意輪呪課法1卷, u-renja1529, IIIF, 1, 11",
         "objectID": "1529",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/79c418c21f2866ed9938cb325bc45802/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/79c418c21f2866ed9938cb325bc45802/manifest.json",
+                "label": "觀自在菩薩如意輪呪課法1卷"
+            }
         ],
         "to image no.(1)": "11",
         "函册": "161-04",
@@ -38314,7 +38404,10 @@
         "fulltext": ", 此土著述, 161-05, U1516, 1530, 1, 5, 慈悲水懺灋3卷坿校譌音釋, 唐釋知玄述, 釋知玄, 定型, 萬暦18年刊, 23.7, 15.1, 卷上5a, 08469, T1910, 底本, 底本, 增上寺報恩藏藏本, 慈悲水懺灋3卷, u-renja1530, IIIF, 1, 50",
         "objectID": "1530",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/28afbe6a9ea63a090aaee0144a63ec78/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/28afbe6a9ea63a090aaee0144a63ec78/manifest.json",
+                "label": "慈悲水懺灋3卷"
+            }
         ],
         "to image no.(1)": "50",
         "函册": "161-05",
@@ -38370,7 +38463,10 @@
         "fulltext": ", 此土著述, 163-01, U1518, 1532, 1, 5, 六祖大師法寶壇經1卷坿附録1卷, 唐釋惠能説, 唐釋法海等集, 釋惠能, 釋法海, 定型, 萬暦37年刊, 22.7, 14.4, 10b, 08700, T2008, 底本, 底本, 增上寺報恩藏藏本, 六祖大師法寶壇經1卷, u-renja1532, IIIF, 1, 76",
         "objectID": "1532",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ee126fad059fe93e5626a6c9e1666b91/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ee126fad059fe93e5626a6c9e1666b91/manifest.json",
+                "label": "六祖大師法寶壇經1卷"
+            }
         ],
         "to image no.(1)": "76",
         "函册": "163-01",
@@ -38421,7 +38517,10 @@
         "fulltext": ", 此土著述, 163-07, 163-08, U1520, 1534, 1, 7, 明覺禪師語録6卷坿音釋, 宋釋重顯説, 宋釋惟蓋等編, 釋重顯, 釋惟蓋, 定型, 崇禎7年刊, 22, 14.2, 卷一1a, 08668, T1996, 底本, 底本, 增上寺報恩藏藏本, 明覺禪師語録6卷, u-renja1534, IIIF, 1, 176",
         "objectID": "1534",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/051641bd700420de103ea2474f264910/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/051641bd700420de103ea2474f264910/manifest.json",
+                "label": "明覺禪師語録6卷"
+            }
         ],
         "to image no.(1)": "176",
         "函册": "163-07",
@@ -38453,7 +38552,10 @@
         "fulltext": ", 此土著述, 163-09, U1521, 1535, 1, 2, 傳法正宗論2卷坿音釋, 宋釋契嵩編, 釋契嵩, 定型, 崇禎6年刊, 22, 14.1, 卷上1a, 08933, T2080, 底本, 底本, 增上寺報恩藏藏本, 傳法正宗論2卷, u-renja1535, IIIF, 1, 41",
         "objectID": "1535",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/bda1cc6628f13f030320d8a2baa59904/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/bda1cc6628f13f030320d8a2baa59904/manifest.json",
+                "label": "傳法正宗論2卷"
+            }
         ],
         "to image no.(1)": "41",
         "函册": "163-09",
@@ -38528,7 +38630,10 @@
         "fulltext": ", 此土著述, 164-04, 164-07, U1524, 1538, 1, 23, 圓悟佛果禪師語録20卷坿校譌音釋, 宋釋克勤説, 宋釋紹隆等編, 釋克勤, 釋紹隆, 定型, 萬暦18・19年刊, 23.9, 15, 卷一6a, 08670, T1997, 底本, 底本, 增上寺報恩藏藏本, 圓悟佛果禪師語録20卷, u-renja1538, IIIF, 1, 385",
         "objectID": "1538",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/1e486908aff588b21b5119010affaeb7/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/1e486908aff588b21b5119010affaeb7/manifest.json",
+                "label": "圓悟佛果禪師語録20卷"
+            }
         ],
         "to image no.(1)": "385",
         "函册": "164-04",
@@ -38580,7 +38685,10 @@
         "fulltext": ", 此土著述, 165-02, U1525, 1540, 1, 1, 大慧普覺禪師宗門武庫1卷, 宋釋道謙編, 釋道謙, 左右雙邊 有界11行20字 單白魚尾上黒口下白口 無點, 21.5, 14.5, 1a, 08675, T1998B, 底本, 底本, 增上寺報恩藏藏本, 大慧普覺禪師宗門武庫1卷, u-renja1540, IIIF, 1, 51",
         "objectID": "1540",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/d73feba07a951a776509c5f3e46dc3b3/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/d73feba07a951a776509c5f3e46dc3b3/manifest.json",
+                "label": "大慧普覺禪師宗門武庫1卷"
+            }
         ],
         "to image no.(1)": "51",
         "函册": "165-02",
@@ -38629,7 +38737,10 @@
         "fulltext": ", 此土著述, 165-03, 165-08, U1525, 1542, 1, 40, 大慧普覺禪師語録30卷坿校訛音釋, 宋釋宗杲説, 宋釋蘊聞上進, 釋宗杲, 釋蘊聞, 左右雙邊 有界11行20字 單白魚尾上黒口下白口 無點, 萬暦13年刊, 20.6, 14.4, 卷一3a, 08672, T1998A, 底本, 底本, 增上寺報恩藏藏本, 大慧普覺禪師語録30卷, u-renja1542, IIIF, 1, 475",
         "objectID": "1542",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/40df446ab011c414c276df3a603197aa/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/40df446ab011c414c276df3a603197aa/manifest.json",
+                "label": "大慧普覺禪師語録30卷"
+            }
         ],
         "to image no.(1)": "475",
         "函册": "165-03",
@@ -38680,7 +38791,10 @@
         "fulltext": ", 此土著述, 167-01, 167-05, U1527, 1544, 1, 21, 妙法蓮華經玄義10卷, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 單邊 有界10行20字 單魚尾白口 無點, 卷十下24a「玄義文句舊板南藏／差甚北藏所差但稍／愈於南此板乃互取／其是而刻之者唯若／于蘇字仍依於南耳／刻板者謹書」, 21.5, 13.6, 卷一上1a, 07844, T1716, 底本, 底本, 增上寺報恩藏藏本, 妙法蓮華經玄義10卷, u-renja1544, IIIF, 1, 490",
         "objectID": "1544",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/59e5d14ba381b5ac5f43fb39c6fd09b0/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/59e5d14ba381b5ac5f43fb39c6fd09b0/manifest.json",
+                "label": "妙法蓮華經玄義10卷"
+            }
         ],
         "to image no.(1)": "490",
         "備考": "卷十下24a「玄義文句舊板南藏／差甚北藏所差但稍／愈於南此板乃互取／其是而刻之者唯若／于蘇字仍依於南耳／刻板者謹書」",
@@ -38712,7 +38826,10 @@
         "fulltext": ", 此土著述, 168-01, 168-11, U1528, 1545, 1, 24, 妙法蓮華經玄義10卷縁起序1卷坿科文2卷, 隋釋智顗説, 唐釋灌頂記, 唐釋湛然釋籤, 釋智顗, 釋灌頂, 釋湛然, 左右雙邊 有界11行20字 單白魚尾小黒口 無點, 萬暦8・9年刊, 不明年刊, 題簽題「妙法蓮華經玄籤」. 版心題「妙玄籤」, 19.7, 12.5, 卷一上1a, 07846, T1717, 底本, 底本, 增上寺報恩藏藏本, 妙法蓮華經玄義10卷縁起序1卷坿科文2卷, u-renja1545, IIIF, 1, 1255",
         "objectID": "1545",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/d8728b87a6608def78973b0d98fbcf81/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/d8728b87a6608def78973b0d98fbcf81/manifest.json",
+                "label": "妙法蓮華經玄義10卷縁起序1卷坿科文2卷"
+            }
         ],
         "to image no.(1)": "1255",
         "備考": "題簽題「妙法蓮華經玄籤」. 版心題「妙玄籤」",
@@ -38745,7 +38862,10 @@
         "fulltext": ", 此土著述, 169-01, 169-05, U1529, 1546, 1, 21, 妙法蓮華經文句10卷, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 單邊 有界10行20字 單魚尾白口 無點, 卷九上23b「密聞壽量南藏曰密／開未暇考定此字心／實有所疑故記諸此／幸考定者正之」, 21.5, 13.6, 卷一上1a, 07848, T1718, 底本, 底本, 增上寺報恩藏藏本, 妙法蓮華經文句10卷, u-renja1546, IIIF, 1, 538",
         "objectID": "1546",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/5974c317ed3b255c7a3dcc6e1f2429fe/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/5974c317ed3b255c7a3dcc6e1f2429fe/manifest.json",
+                "label": "妙法蓮華經文句10卷"
+            }
         ],
         "to image no.(1)": "538",
         "備考": "卷九上23b「密聞壽量南藏曰密／開未暇考定此字心／實有所疑故記諸此／幸考定者正之」",
@@ -38777,7 +38897,10 @@
         "fulltext": ", 此土著述, 170-01, 170-06, U1530, 1547, 1, 31, 法華文句記10卷坿音釋, 唐釋湛然述, 釋湛然, 定型, 康煕4年刊, 21.7, 14.2, 卷一上1a, 07850, T1719, 底本, 底本, 增上寺報恩藏藏本, 法華文句記10卷, u-renja1547, IIIF, 1, 770",
         "objectID": "1547",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/684d3e556e36ded92f46f2b55d71ac5b/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/684d3e556e36ded92f46f2b55d71ac5b/manifest.json",
+                "label": "法華文句記10卷"
+            }
         ],
         "to image no.(1)": "770",
         "函册": "170-01",
@@ -38809,7 +38932,10 @@
         "fulltext": ", 此土著述, 171-01, 171-04, U1531, 1548, 1, 20, 摩訶止觀10卷坿校訛音釋, 隋釋智顗撰, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 22.1, 14.2, 卷一上1a, 08471, T1911, 底本, 底本, 增上寺報恩藏藏本, 摩訶止觀10卷, u-renja1548, IIIF, 1, 514",
         "objectID": "1548",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/7ea0196a4e34517d75626d027cd722c9/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/7ea0196a4e34517d75626d027cd722c9/manifest.json",
+                "label": "摩訶止觀10卷"
+            }
         ],
         "to image no.(1)": "514",
         "函册": "171-01",
@@ -38840,7 +38966,10 @@
         "fulltext": ", 此土著述, 172-01, 173-04, U1532, 1549, 1, 41, 止觀輔行傳弘決10卷坿音釋, 唐釋湛然述, 釋湛然, 定型, 崇禎10-12年刊, 21.6, 14, 卷一(1)1a, 08474, T1912, 底本, 底本, 增上寺報恩藏藏本, 止觀輔行傳弘決10卷, u-renja1549, IIIF, 1, 1118",
         "objectID": "1549",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/36ca414602d5d3f22c42fa5dcdd17585/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/36ca414602d5d3f22c42fa5dcdd17585/manifest.json",
+                "label": "止觀輔行傳弘決10卷"
+            }
         ],
         "to image no.(1)": "1118",
         "函册": "172-01",
@@ -38872,7 +39001,10 @@
         "fulltext": ", 此土著述, 173-05, U1533, 1550, 1, 2, 修習止觀坐禪法要1卷坿音釋, 隋釋智顗述, 釋智顗, 單邊 有界8行17字 單白魚尾白口 句四聲點, 18.7, 11.5, 3a, 08481, T1915, 底本, 底本, 增上寺報恩藏藏本, 修習止觀坐禪法要1卷, u-renja1550-1551, IIIF, 1, 74",
         "objectID": "1550",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/7061a45cd0d08fd2d27675eed00ca554/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/7061a45cd0d08fd2d27675eed00ca554/manifest.json",
+                "label": "修習止觀坐禪法要1卷"
+            }
         ],
         "to image no.(1)": "74",
         "函册": "173-05",
@@ -38902,7 +39034,10 @@
         "fulltext": ", 此土著述, 173-05, U1534, 1551, 1, 2, 止觀義例2卷, 唐釋湛然述, 釋湛然, 左右雙邊 有界11行20字 單白魚尾線黒口 無點, 萬暦10年刊, 19.7, 12.4, 卷上1a, 08477, T1913, 底本, 底本, 增上寺報恩藏藏本, 止觀義例2卷, u-renja1550-1551, IIIF, 74, 116",
         "objectID": "1551",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/44269b81c106cd3951a3552702bbc901/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/44269b81c106cd3951a3552702bbc901/manifest.json",
+                "label": "止觀義例2卷"
+            }
         ],
         "to image no.(1)": "116",
         "函册": "173-05",
@@ -38933,7 +39068,10 @@
         "fulltext": ", 此土著述, 173-06, U1535, 1552, 1, 6, 大乘止觀法門4卷, 陳釋慧思説, 釋慧思, 左右雙邊 有界10行19字 單白魚尾線黒口 無點, 萬暦10年刊, 19.7, 12.5, 卷一1a, 08499, T1924, 底本, 底本, 增上寺報恩藏藏本, 大乘止觀法門4卷, u-renja1552-1553, IIIF, 1, 96",
         "objectID": "1552",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/5ffbffdf10d3afd0a2522cea73a83721/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/5ffbffdf10d3afd0a2522cea73a83721/manifest.json",
+                "label": "大乘止觀法門4卷"
+            }
         ],
         "to image no.(1)": "96",
         "函册": "173-06",
@@ -38964,7 +39102,10 @@
         "fulltext": ", 此土著述, 173-06, U1536, 1553, 1, 2, 諸法無諍三昧法門2卷坿校訛音釋, 陳釋慧思説, 釋慧思, 定型, 萬暦19年刊, 23.7, 15, 卷上1a, 08497, T1923, 底本, 底本, 增上寺報恩藏藏本, 諸法無諍三昧法門2卷, u-renja1552-1553, IIIF, 96, 149",
         "objectID": "1553",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/9b335ff225fef37723ee988f100e6773/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/9b335ff225fef37723ee988f100e6773/manifest.json",
+                "label": "諸法無諍三昧法門2卷"
+            }
         ],
         "to image no.(1)": "149",
         "函册": "173-06",
@@ -38995,7 +39136,10 @@
         "fulltext": ", 此土著述, 174-01, 174-06, U1538, 1554, 1, 34, 大般涅槃經疏33卷坿音釋, 隋釋灌頂撰, 唐釋湛然再治, 釋灌頂, 釋湛然, 定型, 崇禎11-14年刊, 21.8, 14, 卷一1a, 07961, T1767, 底本, 底本, 增上寺報恩藏藏本, 大般涅槃經疏33卷, u-renja1554, IIIF, 1, 735",
         "objectID": "1554",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/dd08568a56b9003e4ade4508ef0ba3c4/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/dd08568a56b9003e4ade4508ef0ba3c4/manifest.json",
+                "label": "大般涅槃經疏33卷"
+            }
         ],
         "to image no.(1)": "735",
         "函册": "174-01",
@@ -39027,7 +39171,10 @@
         "fulltext": ", 此土著述, 174-07, U1537, 1555, 1, 2, 大般涅槃經玄義2卷坿音釋, 隋釋灌頂撰, 釋灌頂, 定型, 崇禎11年刊, 22, 14.1, 卷上1a, 07957, T1765, 底本, 底本, 增上寺報恩藏藏本, 大般涅槃經玄義2卷, u-renja1555-1556, IIIF, 1, 56",
         "objectID": "1555",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/270f23055aefd00a1cc77bc460a22494/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/270f23055aefd00a1cc77bc460a22494/manifest.json",
+                "label": "大般涅槃經玄義2卷"
+            }
         ],
         "to image no.(1)": "56",
         "函册": "174-07",
@@ -39058,7 +39205,10 @@
         "fulltext": ", 此土著述, 174-07, U1540, 1556, 1, 1, 法華經安樂行義1卷, 陳釋慧思説, 釋慧思, 定型, 崇禎14年刊, 22.1, 14.3, 1a, 08503, T1926, 底本, 底本, 增上寺報恩藏藏本, 法華經安樂行義1卷, u-renja1555-1556, IIIF, 56, 76",
         "objectID": "1556",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ee23196d1a02469238a3d905e55a991b/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ee23196d1a02469238a3d905e55a991b/manifest.json",
+                "label": "法華經安樂行義1卷"
+            }
         ],
         "to image no.(1)": "76",
         "函册": "174-07",
@@ -39104,7 +39254,10 @@
         "fulltext": ", 此土著述, 175-01, 175-02, U1542, 1558, 1, 3, 金光明經玄義拾遺記2卷玄義科1卷坿音釋, 宋釋知禮述, 明釋明得録記注於玄義, 釋知禮, 釋明得, 單邊 有界8行17字 単魚尾白口 句四聲點, 單體の金光明經玄義2(大正蔵no.1783底本)なし, 19.6, 11.9, 卷上1a, 07996, T1783, 底本, 底本, 增上寺報恩藏藏本, 7998, T1784, 底本, 底本, 增上寺報恩藏藏本, 金光明經玄義拾遺記2卷玄義科1卷, u-renja1558, IIIF, 1, 295",
         "objectID": "1558",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/bf630ff6de48ca0baafe8af55179a46c/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/bf630ff6de48ca0baafe8af55179a46c/manifest.json",
+                "label": "金光明經玄義拾遺記2卷玄義科1卷"
+            }
         ],
         "to image no.(1)": "295",
         "備考": "單體の金光明經玄義2(大正蔵no.1783底本)なし",
@@ -39140,7 +39293,10 @@
         "fulltext": ", 此土著述, 175-03, U1543, 1559, 1, 1, 金剛般若經疏1卷坿音釋, 隋釋智顗説, 釋智顗, 定型, 天啓7年刊, 22, 14.3, 1a, 07805, T1698, 底本, 底本, 增上寺報恩藏藏本, 金剛般若經疏1卷, u-renja1559-1560, IIIF, 1, 33",
         "objectID": "1559",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/34ed4511b16667378d919e75e2bb5edf/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/34ed4511b16667378d919e75e2bb5edf/manifest.json",
+                "label": "金剛般若經疏1卷"
+            }
         ],
         "to image no.(1)": "33",
         "函册": "175-03",
@@ -39171,7 +39327,10 @@
         "fulltext": ", 此土著述, 175-03, U1544, 1560, 1, 6, 天台四教儀1卷坿科文1卷時教圖1卷, 高麗釋諦觀録, 釋諦觀, 單邊 有界7行17字 單白魚尾上線黒口下白口 句點, 萬暦9年刊, 19.5, 12.6, 1a, 08514, T1931, 底本, 底本, 增上寺報恩藏藏本, 天台四教儀1卷坿科文1卷時教圖1卷, u-renja1559-1560, IIIF, 33, 88",
         "objectID": "1560",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ec7149cebf1a91ff2f170c040d76dbc5/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ec7149cebf1a91ff2f170c040d76dbc5/manifest.json",
+                "label": "天台四教儀1卷坿科文1卷時教圖1卷"
+            }
         ],
         "to image no.(1)": "88",
         "函册": "175-03",
@@ -39202,7 +39361,10 @@
         "fulltext": ", 此土著述, 175-04, 175-11, U1546, 1561, 1, 8, 金光明經文句文句記8卷坿音釋, 宋釋知禮述, 明釋明得會句并記入於經文, 釋知禮, 釋明得, 單邊 有界7行17字 單魚尾白口 句四聲點, 單體の金光明經文句6卷(大正藏no.1785底本)なし, 20.2, 12, 卷一1a, 08000, T1785, 底本, 底本, 增上寺報恩藏藏本, 8004, T1786, 底本, 底本, 增上寺報恩藏藏本, 金光明經文句文句記8卷, u-renja1561, IIIF, 1, 661",
         "objectID": "1561",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/c1bab5ec5d2232276f177a9b4318592b/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/c1bab5ec5d2232276f177a9b4318592b/manifest.json",
+                "label": "金光明經文句文句記8卷"
+            }
         ],
         "to image no.(1)": "661",
         "備考": "單體の金光明經文句6卷(大正藏no.1785底本)なし",
@@ -39238,7 +39400,10 @@
         "fulltext": ", 此土著述, 175-12, U1547, 1562, 1, 2, 菩薩戒義疏2卷坿音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 康煕3年刊, 21.4, 14.2, 卷上1a, 08070, T1811, 底本, 底本, 增上寺報恩藏藏本, 菩薩戒義疏2卷, u-renja1562, IIIF, 1, 68",
         "objectID": "1562",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/5dfce585509f93991227b40812bdf789/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/5dfce585509f93991227b40812bdf789/manifest.json",
+                "label": "菩薩戒義疏2卷"
+            }
         ],
         "to image no.(1)": "68",
         "函册": "175-12",
@@ -39269,7 +39434,10 @@
         "fulltext": ", 此土著述, 176-01, U1548, 1563, 1, 2, 觀音玄義2卷坿校訛音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 萬暦32年刊, 21.8, 14.3, 卷上1a, 07869, T1726, 底本, 底本, 增上寺報恩藏藏本, 觀音玄義2卷, u-renja1563, IIIF, 1, 60",
         "objectID": "1563",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/e7bc56b7705e4f6f382ef3d746b1760c/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/e7bc56b7705e4f6f382ef3d746b1760c/manifest.json",
+                "label": "觀音玄義2卷"
+            }
         ],
         "to image no.(1)": "60",
         "函册": "176-01",
@@ -39300,7 +39468,10 @@
         "fulltext": ", 此土著述, 176-02, U1549, 1564, 1, 4, 觀音玄義記4卷坿校訛音釋, 宋釋知禮述, 釋知禮, 定型, 萬暦32・33年刊, 22.3, 14.3, 卷一1a, 07871, T1727, 底本, 底本, 增上寺報恩藏藏本, 觀音玄義記4卷, u-renja1564, IIIF, 1, 114",
         "objectID": "1564",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/f9be2515b375961995cede74af736168/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/f9be2515b375961995cede74af736168/manifest.json",
+                "label": "觀音玄義記4卷"
+            }
         ],
         "to image no.(1)": "114",
         "函册": "176-02",
@@ -39331,7 +39502,10 @@
         "fulltext": ", 此土著述, 176-03, U1550, 1565, 1, 2, 觀音義疏2卷坿校訛音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 22.4, 14.3, 卷上1a, 07873, T1728, 底本, 底本, 增上寺報恩藏藏本, 觀音義疏2卷, u-renja1565, IIIF, 1, 59",
         "objectID": "1565",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/80c4910820741661e4fc15fafd20990e/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/80c4910820741661e4fc15fafd20990e/manifest.json",
+                "label": "觀音義疏2卷"
+            }
         ],
         "to image no.(1)": "59",
         "函册": "176-03",
@@ -39361,7 +39535,10 @@
         "fulltext": ", 此土著述, 176-04, U1551, 1566, 1, 4, 觀音義疏記4卷坿校訛音釋, 宋釋知禮述, 釋知禮, 定型, 萬暦33年刊, 22.5, 14.3, 卷一1a, 07875, T1729, 底本, 底本, 增上寺報恩藏藏本, 觀音義疏記4卷, u-renja1566, IIIF, 1, 97",
         "objectID": "1566",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/0382c13f14265dc4df6f8965e7803bf1/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/0382c13f14265dc4df6f8965e7803bf1/manifest.json",
+                "label": "觀音義疏記4卷"
+            }
         ],
         "to image no.(1)": "97",
         "函册": "176-04",
@@ -39392,7 +39569,10 @@
         "fulltext": ", 此土著述, 176-05, U1552, 1567, 1, 1, 佛説觀無量壽佛經疏1卷坿音釋, 隋釋智顗説, 釋智顗, 定型, 22.1, 14.2, 1a, 07923, T1750, 底本, 底本, 增上寺報恩藏藏本, 佛説觀無量壽佛經疏1卷, u-renja1567-1568, IIIF, 1, 33",
         "objectID": "1567",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/6bf759be17ae070b6f1519694e3d6d28/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/6bf759be17ae070b6f1519694e3d6d28/manifest.json",
+                "label": "佛説觀無量壽佛經疏1卷"
+            }
         ],
         "to image no.(1)": "33",
         "函册": "176-05",
@@ -39422,7 +39602,10 @@
         "fulltext": ", 此土著述, 176-05, 176-06, (176-06闕), U1553, 1568, 1, 4, 觀無量壽佛經疏妙宗鈔6卷坿音釋 闕卷4-6, 宋釋知禮述, 釋知禮, 定型, 21.8, 14.3, 卷一1a, 07925, T1751, 底本, 底本, 增上寺報恩藏藏本, 觀無量壽佛經疏妙宗鈔6卷, u-renja1567-1568, IIIF, 33, 111",
         "objectID": "1568",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/b89bbafc5b73a4c4236ce9316059f532/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/b89bbafc5b73a4c4236ce9316059f532/manifest.json",
+                "label": "觀無量壽佛經疏妙宗鈔6卷"
+            }
         ],
         "to image no.(1)": "111",
         "函册": "176-05",
@@ -39474,7 +39657,10 @@
         "fulltext": ", 此土著述, 176-07, U1555, 1570, 1, 1, 請觀音經疏1卷坿音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 21.2, 14.2, 1a, 08037, T1800, 底本, 底本, 增上寺報恩藏藏本, 請觀音經疏1卷, u-renja1570-1571, IIIF, 1, 36",
         "objectID": "1570",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/853a1449ad94693607706ca71bbb7cec/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/853a1449ad94693607706ca71bbb7cec/manifest.json",
+                "label": "請觀音經疏1卷"
+            }
         ],
         "to image no.(1)": "36",
         "函册": "176-07",
@@ -39504,7 +39690,10 @@
         "fulltext": ", 此土著述, 176-07, U1556, 1571, 1, 5, 請觀音經疏闡義鈔4卷坿音釋, 宋釋智圓述, 釋智圓, 定型, 康煕3年刊, 21.4, 14.1, 卷一1b, 08039, T1801, 底本, 底本, 增上寺報恩藏藏本, 請觀音經疏闡義鈔4卷, u-renja1570-1571, IIIF, 36, 149",
         "objectID": "1571",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/162ef71643a5113283c22489b5870407/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/162ef71643a5113283c22489b5870407/manifest.json",
+                "label": "請觀音經疏闡義鈔4卷"
+            }
         ],
         "to image no.(1)": "149",
         "函册": "176-07",
@@ -39535,7 +39724,10 @@
         "fulltext": ", 此土著述, 176-08, U1557, 1572, 1, 2, 釋摩訶般若波羅蜜經覺意三昧1卷坿音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 萬暦35年刊, 23.6, 15, 2a, 08495, T1922, 底本, 底本, 增上寺報恩藏藏本, 釋摩訶般若波羅蜜經覺意三昧1卷, u-renja1572-1573, IIIF, 1, 28",
         "objectID": "1572",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/6852caff8e519f4936bb5060b7278600/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/6852caff8e519f4936bb5060b7278600/manifest.json",
+                "label": "釋摩訶般若波羅蜜經覺意三昧1卷"
+            }
         ],
         "to image no.(1)": "28",
         "函册": "176-08",
@@ -39566,7 +39758,10 @@
         "fulltext": ", 此土著述, 176-08, U1558, 1573, 1, 4, 四念處4卷坿校譌音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 萬暦19年刊, 23.5, 14.7, 卷一1a, 08487, T1918, 底本, 底本, 增上寺報恩藏藏本, 四念處4卷, u-renja1572-1573, IIIF, 28, 121",
         "objectID": "1573",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/f074aada538ba90ff3642659ce5ffd98/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/f074aada538ba90ff3642659ce5ffd98/manifest.json",
+                "label": "四念處4卷"
+            }
         ],
         "to image no.(1)": "121",
         "函册": "176-08",
@@ -39597,7 +39792,10 @@
         "fulltext": ", 此土著述, 176-09, U1559, 1574, 1, 6, 仁王護國般若經疏5卷坿音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 崇禎15年刊, 22, 14.1, 卷一3a, 07819, T1705, 底本, 底本, 增上寺報恩藏藏本, 仁王護國般若經疏5卷, u-renja1574, IIIF, 1, 120",
         "objectID": "1574",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/6c6f59365d5f7063461be350dd007a23/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/6c6f59365d5f7063461be350dd007a23/manifest.json",
+                "label": "仁王護國般若經疏5卷"
+            }
         ],
         "to image no.(1)": "120",
         "函册": "176-09",
@@ -39628,7 +39826,10 @@
         "fulltext": ", 此土著述, 176-10, U1560, 1575, 1, 5, 佛説仁王護國般若波羅蜜經疏神寶記4卷坿[校譌]音釋, 宋釋善月述, 釋善月, 定型, 崇禎15年刊, 21.9, 14.2, 卷一2a, 07822, T1706, 底本, 底本, 增上寺報恩藏藏本, 佛説仁王護國般若波羅蜜經疏神寶記4卷, u-renja1575-1576, IIIF, 1, 108",
         "objectID": "1575",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/da9dce14d0fa0104f65cab9993c0fd1d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/da9dce14d0fa0104f65cab9993c0fd1d/manifest.json",
+                "label": "佛説仁王護國般若波羅蜜經疏神寶記4卷"
+            }
         ],
         "to image no.(1)": "108",
         "函册": "176-10",
@@ -39659,7 +39860,10 @@
         "fulltext": ", 此土著述, 176-10, U1561, 1576, 1, 1, 天台八教大意1卷坿音釋, 隋釋灌頂撰, 釋灌頂, 定型, 順治18年刊, 21.5, 14, 1a, 08512, T1930, 底本, 底本, 增上寺報恩藏藏本, 天台八教大意1卷, u-renja1575-1576, IIIF, 108, 127",
         "objectID": "1576",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/302cee8100039d245d245f32ba72e1c9/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/302cee8100039d245d245f32ba72e1c9/manifest.json",
+                "label": "天台八教大意1卷"
+            }
         ],
         "to image no.(1)": "127",
         "函册": "176-10",
@@ -39690,7 +39894,10 @@
         "fulltext": ", 此土著述, 177-01, U1562, 1577, 1, 6, 四教義6卷坿音釋, 隋釋智顗撰, 釋智顗, 定型, 順治18年刊, 22, 13.9, 卷一1a, 08510, T1929, 校本, 校本, 增上寺報恩藏藏本, 四教義6卷, u-renja1577, IIIF, 1, 164",
         "objectID": "1577",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/30268fa3f77a84583eb83afe0faa0df7/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/30268fa3f77a84583eb83afe0faa0df7/manifest.json",
+                "label": "四教義6卷"
+            }
         ],
         "to image no.(1)": "164",
         "函册": "177-01",
@@ -39721,7 +39928,10 @@
         "fulltext": ", 此土著述, 177-02, U1563, 1578, 1, 7, 國淸百録4卷坿校譌音釋, 隋釋智寂等録, 唐釋灌頂纂集, 釋智寂, 釋灌頂, 定型, 萬暦18年刊, 22.6, 15.2, 卷一8b, 08520, T1934, 底本, 底本, 增上寺報恩藏藏本, 國淸百録4卷, u-renja1578, IIIF, 1, 132",
         "objectID": "1578",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/56aca2420bd7910bddbf5abdb9ad5055/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/56aca2420bd7910bddbf5abdb9ad5055/manifest.json",
+                "label": "國淸百録4卷"
+            }
         ],
         "to image no.(1)": "132",
         "函册": "177-02",
@@ -39752,7 +39962,10 @@
         "fulltext": ", 此土著述, 177-03, 177-05, U1564, 1579, 1, 13, 釋禪波羅蜜次第法門10卷坿校譌音釋, 隋釋智顗説, 隋釋法愼記, 唐釋灌頂再治, 釋智顗, 釋法愼, 釋灌頂, 定型, 萬暦18年刊, 23.9, 15.1, 卷一上3b, 08483, T1916, 底本, 底本, 增上寺報恩藏藏本, 釋禪波羅蜜次第法門10卷, u-renja1579, IIIF, 1, 286",
         "objectID": "1579",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/25f50b06eae59e256edb126079929325/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/25f50b06eae59e256edb126079929325/manifest.json",
+                "label": "釋禪波羅蜜次第法門10卷"
+            }
         ],
         "to image no.(1)": "286",
         "函册": "177-03",
@@ -39784,7 +39997,10 @@
         "fulltext": ", 此土著述, 177-06, 177-07, U1565, 1580, 1, 8, 法界次第初門3卷坿校訛音釋, 隋釋智顗撰, 釋智顗, 定型, 萬暦19年刊, 23.1, 15.2, 卷上上5a, 08501, T1925, 底本, 底本, 增上寺報恩藏藏本, 法界次第初門3卷, u-renja1580, IIIF, 1, 156",
         "objectID": "1580",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/c8c637a361b69ea5c3b0224b44c856bd/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/c8c637a361b69ea5c3b0224b44c856bd/manifest.json",
+                "label": "法界次第初門3卷"
+            }
         ],
         "to image no.(1)": "156",
         "函册": "177-06",
@@ -39816,7 +40032,10 @@
         "fulltext": ", 此土著述, 177-07, U1566, 1581, 1, 2, 方等三昧行法1卷坿音釋, 隋釋智顗説, 唐釋灌頂記, 釋智顗, 釋灌頂, 定型, 順治18年刊, 21.8, 14, 1a, 08532, T1940, 底本, 底本, 增上寺報恩藏藏本, 方等三昧行法1卷, u-renja1581-1582, IIIF, 1, 25",
         "objectID": "1581",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/717fd438c119202ec1e2ea52d436d2f3/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/717fd438c119202ec1e2ea52d436d2f3/manifest.json",
+                "label": "方等三昧行法1卷"
+            }
         ],
         "to image no.(1)": "25",
         "函册": "177-07",
@@ -39847,7 +40066,10 @@
         "fulltext": ", 此土著述, 177-07, U1567, 1582, 1, 3, 淨土十疑論1卷坿音釋, 隋釋智顗説, 釋智顗, 定型, 康煕3年刊, 21.8, 14.2, 3a, 08582, T1961, 底本, 底本, 增上寺報恩藏藏本, 淨土十疑論1卷, u-renja1581-1582, IIIF, 25, 45",
         "objectID": "1582",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/fd2a757952c780dd2f6fb5506f37c773/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/fd2a757952c780dd2f6fb5506f37c773/manifest.json",
+                "label": "淨土十疑論1卷"
+            }
         ],
         "to image no.(1)": "45",
         "函册": "177-07",
@@ -39878,7 +40100,10 @@
         "fulltext": ", 此土著述, 177-08, U1568, 1583, 1, 5, 觀心論疏5卷坿音釋, 隋釋灌頂撰, 釋灌頂, 定型, 康煕3年刊, 21.8, 14.2, 卷一1a, 08493, T1921, 底本, 底本, 增上寺報恩藏藏本, 觀心論疏5卷, u-renja1583, IIIF, 1, 130",
         "objectID": "1583",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/49512fd8bfca3c69e53606b0b2aec1d8/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/49512fd8bfca3c69e53606b0b2aec1d8/manifest.json",
+                "label": "觀心論疏5卷"
+            }
         ],
         "to image no.(1)": "130",
         "函册": "177-08",
@@ -40029,9 +40254,18 @@
         "fulltext": ", 此土著述, 177-10, U1578, 1590, 1, 4, 禪宗永嘉集1卷坿永嘉證道歌1卷坿音釋, 唐釋玄覺撰, 釋玄覺, 單邊 有界8行17字 單白魚尾白口 句點, 萬暦21年刊, 20.5, 12, 5a, 08713, T2013, 底本, 底本, 增上寺報恩藏藏本, 8715, T2014, 底本, 底本, 增上寺報恩藏藏本, 無相大師行状1卷, u-renja1590, IIIF, 1, 4, 禪宗永嘉集1卷, u-renja1590, 4, 49, 永嘉證道歌1卷, u-renja1590, 49, 58",
         "objectID": "1590",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/5188f81390839ec61d4572eac0a6e0db/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/6560736978d294c7accf48ac3f7b4840/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/2e8d09dcc28bf3eb46d9a1c5c0d3ba36/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/5188f81390839ec61d4572eac0a6e0db/manifest.json",
+                "label": "無相大師行状1卷"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/6560736978d294c7accf48ac3f7b4840/manifest.json",
+                "label": "禪宗永嘉集1卷"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2e8d09dcc28bf3eb46d9a1c5c0d3ba36/manifest.json",
+                "label": "永嘉證道歌1卷"
+            }
         ],
         "to image no.(1)": "4",
         "to image no.(2)": "49",
@@ -40072,7 +40306,10 @@
         "fulltext": ", 此土著述, 177-11, U1575, 1591, 1, 3, 十不二門指要鈔2卷坿音釋, 宋釋知禮述, 釋知禮, 定型, 康煕3年刊, 21.5, 14, 卷上3a, 08507, T1928, 底本, 底本, 增上寺報恩藏藏本, 十不二門指要鈔2卷, u-renja1591-1595, IIIF, 1, 60",
         "objectID": "1591",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2805aea90ace288b6628ca5e096353d7/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2805aea90ace288b6628ca5e096353d7/manifest.json",
+                "label": "十不二門指要鈔2卷"
+            }
         ],
         "to image no.(1)": "60",
         "函册": "177-11",
@@ -40103,7 +40340,10 @@
         "fulltext": ", 此土著述, 177-11, U1576, 1592, 1, 2, 金剛錍1卷坿科文坿音釋, 唐釋湛然述, 釋湛然, 定型, 順治18年刊, 22.2, 13.9, 1b, 08516, T1932, 底本, 底本, 增上寺報恩藏藏本, 金剛錍1卷坿科文, u-renja1591-1595, IIIF, 60, 98",
         "objectID": "1592",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/fbf4483f52287af0bd20a2b027f272da/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/fbf4483f52287af0bd20a2b027f272da/manifest.json",
+                "label": "金剛錍1卷坿科文"
+            }
         ],
         "to image no.(1)": "98",
         "函册": "177-11",
@@ -40134,7 +40374,10 @@
         "fulltext": ", 此土著述, 177-11, U1577, 1593, 1, 1, 法智遺編觀心二百問1卷坿音釋, 宋釋知禮撰, 宋釋繼忠集, 釋知禮, 釋繼忠, 定型, 甲辰刊, 21.7, 14, 1a, 08522, T1935, 底本, 底本, 增上寺報恩藏藏本, 法智遺編觀心二百問1卷, u-renja1591-1595, IIIF, 98, 123",
         "objectID": "1593",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ea6384ffb0a03b4330a9c3a517cd2089/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ea6384ffb0a03b4330a9c3a517cd2089/manifest.json",
+                "label": "法智遺編觀心二百問1卷"
+            }
         ],
         "to image no.(1)": "123",
         "函册": "177-11",
@@ -40165,7 +40408,10 @@
         "fulltext": ", 此土著述, 177-11, U1579, 1594, 1, 1, 天台傳佛心印記1卷, 元釋懷則述, 釋懷則, 定型, 21.5, 14.1, 1a, 08528, T1938, 底本, 底本, 增上寺報恩藏藏本, 天台傳佛心印記1卷, u-renja1591-1595, IIIF, 123, 133",
         "objectID": "1594",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ea051e7ec2bd963700a9bd2b6cacb4be/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ea051e7ec2bd963700a9bd2b6cacb4be/manifest.json",
+                "label": "天台傳佛心印記1卷"
+            }
         ],
         "to image no.(1)": "133",
         "函册": "177-11",
@@ -40195,7 +40441,10 @@
         "fulltext": ", 此土著述, 177-11, U1580, 1595, 1, 2, 淨土境觀要門1卷坿一心三觀1卷坿音釋, 元釋懷則述, 釋懷則, 定型, 康煕3年刊, 21.6, 14.3, 11a, 08604, T1971, 底本, 底本, 增上寺報恩藏藏本, 淨土境觀要門1卷坿一心三觀1卷, u-renja1591-1595, IIIF, 133, 142",
         "objectID": "1595",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/78ae67285d6068b3f7c01045274c2f93/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/78ae67285d6068b3f7c01045274c2f93/manifest.json",
+                "label": "淨土境觀要門1卷坿一心三觀1卷"
+            }
         ],
         "to image no.(1)": "142",
         "函册": "177-11",
@@ -40246,7 +40495,10 @@
         "fulltext": ", 此土著述, 179-01, 180-06, U1582, 1597, 1, 60, 大方廣佛華嚴經疏60卷坿音釋, 唐釋澄觀述, 釋澄觀, 定型, 崇禎2-5年刊, 22.3, 14.3, 卷一1a, 07891, T1735, 底本, 底本, 增上寺報恩藏藏本, 大方廣佛華嚴經疏60卷, u-renja1597, IIIF, 1, 1679",
         "objectID": "1597",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/fbed7fcb5c154e2e4af3caebd734baea/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/fbed7fcb5c154e2e4af3caebd734baea/manifest.json",
+                "label": "大方廣佛華嚴經疏60卷"
+            }
         ],
         "to image no.(1)": "1679",
         "函册": "179-01",
@@ -40278,7 +40530,10 @@
         "fulltext": ", 此土著述, 181-01, 183-06, U1583, 1598, 1, 91, 大方廣佛華嚴經隨疏演義鈔90卷坿音釋, 唐釋澄觀述, 釋澄觀, 定型, 崇禎2-5年刊, 22.3, 14.2, 卷一2a, 07893, T1736, 底本, 底本, 增上寺報恩藏藏本, 大方廣佛華嚴經隨疏演義鈔90卷, u-renja1598, IIIF, 1, 2547",
         "objectID": "1598",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ff946bb14ee70fdf3303cb3f87d9b096/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ff946bb14ee70fdf3303cb3f87d9b096/manifest.json",
+                "label": "大方廣佛華嚴經隨疏演義鈔90卷"
+            }
         ],
         "to image no.(1)": "2547",
         "函册": "181-01",
@@ -40310,7 +40565,10 @@
         "fulltext": ", 此土著述, 184-01, U1584, 1599, 1, 4, 華嚴一乘教義分齊章4卷坿音釋, 唐釋法藏述, 釋法藏, 定型, 康煕2・3年刊, 表紙-卷一16丁大破, 17-26丁上部破損, 21.3, 14.3, 卷上三9a, 08371, T1866, 底本, 底本, 增上寺報恩藏藏本, 華嚴一乘教義分齊章4卷, u-renja1599, IIIF, 1, 1",
         "objectID": "1599",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/da59212b9060096472bf00a60ade80b1/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/da59212b9060096472bf00a60ade80b1/manifest.json",
+                "label": "華嚴一乘教義分齊章4卷"
+            }
         ],
         "to image no.(1)": "1",
         "備考": "表紙-卷一16丁大破, 17-26丁上部破損",
@@ -40342,7 +40600,10 @@
         "fulltext": ", 此土著述, 184-02, U1585, 1600, 1, 2, 華嚴經明法品内立三寶章2卷坿音釋, 唐釋法藏述, 釋法藏, 定型, 康煕2年刊, 21.4, 14.2, 卷上1a, 08390, T1874, 底本, 底本, 增上寺報恩藏藏本, 華嚴經明法品内立三寶章2卷, u-renja1600-1603, IIIF, 1, 68",
         "objectID": "1600",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/90815a058c16d3b4cc0784689959303d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/90815a058c16d3b4cc0784689959303d/manifest.json",
+                "label": "華嚴經明法品内立三寶章2卷"
+            }
         ],
         "to image no.(1)": "68",
         "函册": "184-02",
@@ -40373,7 +40634,10 @@
         "fulltext": ", 此土著述, 184-02, U1586, 1601, 1, 2, 修華嚴奧旨妄盡還源觀1卷, 唐釋法藏述, 釋法藏, 定型, 萬暦34年刊, 23.3, 14.8, 1a, 08394, T1876, 底本, 底本, 增上寺報恩藏藏本, 修華嚴奧旨妄盡還源觀1卷, u-renja1600-1603, IIIF, 68, 70",
         "objectID": "1601",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/1f5bb52e9ae13b4af69a97fb6cce7c58/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/1f5bb52e9ae13b4af69a97fb6cce7c58/manifest.json",
+                "label": "修華嚴奧旨妄盡還源觀1卷"
+            }
         ],
         "to image no.(1)": "70",
         "函册": "184-02",
@@ -40404,7 +40668,10 @@
         "fulltext": ", 此土著述, 184-02, U1587, 1602, 1, 3, 原人論1卷坿校譌, 唐釋宗密述, 釋宗密, 定型, 萬暦23年刊, 23, 14.8, 3a, 08417, T1886, 底本, 底本, 增上寺報恩藏藏本, 原人論1卷, u-renja1600-1603, IIIF, 70, 83",
         "objectID": "1602",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/fc9248dd3aee25fff2aef2e6e674ce86/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/fc9248dd3aee25fff2aef2e6e674ce86/manifest.json",
+                "label": "原人論1卷"
+            }
         ],
         "to image no.(1)": "83",
         "函册": "184-02",
@@ -40435,7 +40702,10 @@
         "fulltext": ", 此土著述, 184-02, U1588, 1603, 1, 1, 華嚴經旨歸1卷坿音釋, 唐釋法藏述, 釋法藏, 定型, 康煕3年刊, 21.4, 14.1, 1a, 08383, T1871, 底本, 底本, 增上寺報恩藏藏本, 華嚴經旨歸1卷, u-renja1600-1603, IIIF, 83, 110",
         "objectID": "1603",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/c30d0dae81f1afc6fcd55cf8705cf455/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/c30d0dae81f1afc6fcd55cf8705cf455/manifest.json",
+                "label": "華嚴經旨歸1卷"
+            }
         ],
         "to image no.(1)": "110",
         "函册": "184-02",
@@ -40466,7 +40736,10 @@
         "fulltext": ", 此土著述, 184-03, U1589, 1604, 1, 2, 注華嚴法界觀門1卷, 唐釋宗密注, 釋宗密, 定型, 22.1, 14.3, 1a, 08412, T1884, 底本, 底本, 增上寺報恩藏藏本, 注華嚴法界觀門1卷, u-renja1604-1605, IIIF, 1, 27",
         "objectID": "1604",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/9060c6058aadea9e71bd0ecd72ffd52f/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/9060c6058aadea9e71bd0ecd72ffd52f/manifest.json",
+                "label": "注華嚴法界觀門1卷"
+            }
         ],
         "to image no.(1)": "27",
         "函册": "184-03",
@@ -40496,7 +40769,10 @@
         "fulltext": ", 此土著述, 184-03, U1590, 1605, 1, 3, 佛遺教經論疏節要1卷, 宋釋智圓疏, 宋釋淨源節要, 釋智圓, 釋淨源, 定型, 萬暦40年刊, 23.1, 15, 2a, 08093, T1820, 底本, 底本, 增上寺報恩藏藏本, 佛遺教經論疏節要1卷, u-renja1604-1605, IIIF, 27, 92",
         "objectID": "1605",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/8cec4c92ef9823e16f3c1f88e6547fb3/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/8cec4c92ef9823e16f3c1f88e6547fb3/manifest.json",
+                "label": "佛遺教經論疏節要1卷"
+            }
         ],
         "to image no.(1)": "92",
         "函册": "184-03",
@@ -40527,7 +40803,10 @@
         "fulltext": ", 此土著述, 184-04, U1591, 1606, 1, 2, 華嚴法界玄鏡2卷坿音釋, 唐釋澄觀述, 釋澄觀, 定型, 22.2, 14.2, 卷上1a, 08410, T1883, 底本, 底本, 增上寺報恩藏藏本, 華嚴法界玄鏡2卷, u-renja1606-1608, IIIF, 1, 42",
         "objectID": "1606",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/abb9a890e5c84f9ec434a6f22e433e67/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/abb9a890e5c84f9ec434a6f22e433e67/manifest.json",
+                "label": "華嚴法界玄鏡2卷"
+            }
         ],
         "to image no.(1)": "42",
         "函册": "184-04",
@@ -40557,7 +40836,10 @@
         "fulltext": ", 此土著述, 184-04, U1592, 1607, 1, 1, 般若波羅蜜多心經略疏1卷坿音釋, 唐釋法藏述, 釋法藏, 定型, 順治18年刊, 21.6, 13.9, 1a, 07835, T1712, 底本, 底本, 增上寺報恩藏藏本, 般若波羅蜜多心經略疏1卷, u-renja1606-1608, IIIF, 42, 55",
         "objectID": "1607",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/0849f8f86c08d8d59d5999ce3be2a07c/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/0849f8f86c08d8d59d5999ce3be2a07c/manifest.json",
+                "label": "般若波羅蜜多心經略疏1卷"
+            }
         ],
         "to image no.(1)": "55",
         "函册": "184-04",
@@ -40588,7 +40870,10 @@
         "fulltext": ", 此土著述, 184-04, U1593, 1608, 1, 2, 般若心經略疏連珠記2卷坿音釋, 唐釋法藏述, 宋釋師會述記, 釋法藏, 釋師會, 定型, 順治18年刊, 21.9, 14, 卷上1a, 07837, T1713, 底本, 底本, 增上寺報恩藏藏本, 般若心經略疏連珠記2卷, u-renja1606-1608, IIIF, 55, 108",
         "objectID": "1608",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/24fe9f015470e01761d7ac67909406df/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/24fe9f015470e01761d7ac67909406df/manifest.json",
+                "label": "般若心經略疏連珠記2卷"
+            }
         ],
         "to image no.(1)": "108",
         "函册": "184-04",
@@ -40619,7 +40904,10 @@
         "fulltext": ", 此土著述, 184-05, U1594, 1609, 1, 5, 佛説盂蘭盆經2卷, 唐釋宗密述, 釋宗密, 定型, 崇禎17年刊, 22, 14.3, 卷上1a, 佛説盂蘭盆經22.3×14.2cm(1a), 08017, T1792, 底本, 底本, 增上寺報恩藏藏本, 佛説盂蘭盆經2卷, u-renja1609-1611, IIIF, 1, 36",
         "objectID": "1609",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/3e6037d861fa3c6c23ff056395eb4a38/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/3e6037d861fa3c6c23ff056395eb4a38/manifest.json",
+                "label": "佛説盂蘭盆經2卷"
+            }
         ],
         "to image no.(1)": "36",
         "函册": "184-05",
@@ -40651,7 +40939,10 @@
         "fulltext": ", 此土著述, 184-05, U1595, 1610, 1, 1, 金師子章雲間類解1卷坿音釋, 唐釋法藏述, 釋法藏, 定型, 萬暦20年刊, 24.2, 15.2, 1a, 08405, T1880, 底本, 底本, 增上寺報恩藏藏本, 金師子章雲間類解1卷, u-renja1609-1611, IIIF, 36, 55",
         "objectID": "1610",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/9f5212b52211dff7e3b02bfe69c6f3cb/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/9f5212b52211dff7e3b02bfe69c6f3cb/manifest.json",
+                "label": "金師子章雲間類解1卷"
+            }
         ],
         "to image no.(1)": "55",
         "函册": "184-05",
@@ -40682,7 +40973,10 @@
         "fulltext": ", 此土著述, 184-05, U1596, 1611, 1, 1, 佛説阿彌陀經疏1卷坿校譌音釋, 唐釋元曉述, 釋元曉, 定型, 萬暦20年刊, 24.1, 15.2, 1a, 07944, T1759, 底本, 底本, 增上寺報恩藏藏本, 佛説阿彌陀經疏1卷, u-renja1609-1611, IIIF, 55, 66",
         "objectID": "1611",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2ca39f61ed6afbb596f742e3d66250d2/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2ca39f61ed6afbb596f742e3d66250d2/manifest.json",
+                "label": "佛説阿彌陀經疏1卷"
+            }
         ],
         "to image no.(1)": "66",
         "函册": "184-05",
@@ -40907,7 +41201,10 @@
         "fulltext": ", 此土著述, 187-05, 187-06, U1607, 1621, 1, 11, 楞伽阿跋多羅寶經註解4卷, 明釋宗泐・釋如玘同注, 釋宗泐, 釋如玘, 定型, 崇禎5年刊, 22.4, 14.2, 卷一上3b, 08011, T1789, 底本, 底本, 增上寺報恩藏藏本, 楞伽阿跋多羅寶經註解4卷, u-renja1621, IIIF, 1, 225",
         "objectID": "1621",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/c8f764ff2818e3c531604797570f33b3/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/c8f764ff2818e3c531604797570f33b3/manifest.json",
+                "label": "楞伽阿跋多羅寶經註解4卷"
+            }
         ],
         "to image no.(1)": "225",
         "函册": "187-05",
@@ -40939,7 +41236,10 @@
         "fulltext": ", 此土著述, 187-07, U1608, 1622, 1, 3, 般若波羅蜜多心經註解1卷, 明釋宗泐・釋如玘同注, 釋宗泐, 釋如玘, 定型, 22.1, 14.3, 1a, 07839, T1714, 底本, 底本, 增上寺報恩藏藏本, 般若波羅蜜多心經註解1卷, u-renja1622-1623, IIIF, 1, 8",
         "objectID": "1622",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/3dafed5dc111efa58df51702e18c2bde/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/3dafed5dc111efa58df51702e18c2bde/manifest.json",
+                "label": "般若波羅蜜多心經註解1卷"
+            }
         ],
         "to image no.(1)": "8",
         "函册": "187-07",
@@ -40969,7 +41269,10 @@
         "fulltext": ", 此土著述, 187-07, U1609, 1623, 1, 2, 金剛般若波羅蜜經註解1卷, 明釋宗泐・釋如玘同注, 釋宗泐, 釋如玘, 定型, 崇禎5年刊, 21.8, 14.3, 1a, 07815, T1703, 底本, 底本, 增上寺藏本, 金剛般若波羅蜜經註解1卷, u-renja1622-1623, IIIF, 8, 38",
         "objectID": "1623",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/04ede552de0f4947b50592853a22842c/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/04ede552de0f4947b50592853a22842c/manifest.json",
+                "label": "金剛般若波羅蜜經註解1卷"
+            }
         ],
         "to image no.(1)": "38",
         "函册": "187-07",
@@ -41219,7 +41522,10 @@
         "fulltext": ", 大明續入藏諸集, 196-02, 196-05, U1620, 1635, 1, 20, 起信論疏筆削記20卷坿音切, 宋釋子璿録, 釋子璿, 定型, 萬暦19年刊, 23.5, 15, 卷一1a, 08332, T1848, 底本, 底本, 增上寺報恩藏藏本, 起信論疏筆削記20卷, u-renja1635, IIIF, 1, 420",
         "objectID": "1635",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/5c5873cfbdcc294394d4b8827b4a2c7d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/5c5873cfbdcc294394d4b8827b4a2c7d/manifest.json",
+                "label": "起信論疏筆削記20卷"
+            }
         ],
         "to image no.(1)": "420",
         "函册": "196-02",
@@ -41251,7 +41557,10 @@
         "fulltext": ", 大明續入藏諸集, 196-06, 196-08, U1621, 1636, 1, 3, 肇論新疏3卷, 元釋文才述, 釋文才, 左右雙邊 有界10行20字 單白魚尾上黒口下白口 無點, 不明年刊, 21, 13.7, 卷上1a, 08357, T1860, 底本, 底本, 增上寺報恩藏藏本, 肇論新疏3卷, u-renja1636, IIIF, 1, 187",
         "objectID": "1636",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/1e2143ca24cdd44ea34f2d409bc85dcb/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/1e2143ca24cdd44ea34f2d409bc85dcb/manifest.json",
+                "label": "肇論新疏3卷"
+            }
         ],
         "to image no.(1)": "187",
         "函册": "196-06",
@@ -41322,7 +41631,10 @@
         "fulltext": ", 大明續入藏諸集, 197-06, U1623, 1639, 1, 6, 大方廣圓覺修多羅了義經略疏註2卷, 唐釋宗密述, 釋宗密, 定型, 22.6, 14.2, 卷上(1)1a, 08023, T1795, 底本, 底本, 增上寺報恩藏藏本, 大方廣圓覺修多羅了義經略疏註2卷, u-renja1639, IIIF, 1, 121",
         "objectID": "1639",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/e3c6ea854599d0f9bdcf9379dcbb081a/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/e3c6ea854599d0f9bdcf9379dcbb081a/manifest.json",
+                "label": "大方廣圓覺修多羅了義經略疏註2卷"
+            }
         ],
         "to image no.(1)": "121",
         "函册": "197-06",
@@ -41352,7 +41664,10 @@
         "fulltext": ", 大明續入藏諸集, 198-01, U1624, 1640, 1, 4, 金剛般若經疏論纂要2卷坿音釋坿釋金剛經纂要疏分三1卷, 唐釋宗密述, 宋釋子璿治定, 釋宗密, 釋子璿, 定型, 崇禎9・10年刊, 22.3, 14.1, 卷上1a, 07811, T1701, 底本, 底本, 增上寺報恩藏藏本, 金剛般若經疏論纂要2卷, u-renja1640-1641, IIIF, 1, 66",
         "objectID": "1640",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/1514b8fda6dee951e2c076e11bf168a3/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/1514b8fda6dee951e2c076e11bf168a3/manifest.json",
+                "label": "金剛般若經疏論纂要2卷"
+            }
         ],
         "to image no.(1)": "66",
         "函册": "198-01",
@@ -41383,7 +41698,10 @@
         "fulltext": ", 大明續入藏諸集, 198-01, 198-02, U1625, 1641, 1, 7, 金剛經纂要刊定記7卷坿音釋, 宋釋子璿録, 釋子璿, 定型, 崇禎9・10年刊, 22, 14.1, 卷一1a, 07813, T1702, 底本, 底本, 增上寺報恩藏藏本, 金剛經纂要刊定記7卷, u-renja1640-1641, IIIF, 66, 287",
         "objectID": "1641",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/97d9bceff189191bb2fa150caebb613d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/97d9bceff189191bb2fa150caebb613d/manifest.json",
+                "label": "金剛經纂要刊定記7卷"
+            }
         ],
         "to image no.(1)": "287",
         "函册": "198-01",
@@ -41520,7 +41838,10 @@
         "fulltext": ", 大明續入藏諸集, 200-01, 200-10, U1631, 1647, 1, 30, 佛祖歴代通載22卷目録1卷, 元釋念常集, 釋念常, 左右雙邊 有界10行20字 單魚尾白口（まま線黒口あり） 首書, 隆慶5, 萬暦2-4年刊, 不明年刊, 18.6, 12.3, 卷一1a, 08790, T2036, 底本, 底本, 增上寺報恩藏藏本, 佛祖歴代通載22卷目録1卷, u-renja1647, IIIF, 1, 957",
         "objectID": "1647",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/477e6508fdca4c25acdc0be2615c3d2c/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/477e6508fdca4c25acdc0be2615c3d2c/manifest.json",
+                "label": "佛祖歴代通載22卷目録1卷"
+            }
         ],
         "to image no.(1)": "957",
         "函册": "200-01",
@@ -41639,7 +41960,10 @@
         "fulltext": ", 大明續入藏諸集, 204-01, 204-02, (204-01闕), U1636, 1652, 1, 5, 勅脩百丈淸規8卷坿音釋 闕卷1-4, 唐釋懷海撰, 元釋法輝重編, 釋懷海, 釋法輝, 定型, 22.5, 14.1, 卷五1a, 08740, T2025, 底本, 底本, 增上寺報恩藏藏本, 勅脩百丈淸規8卷, u-renja1652, IIIF, 1, 91",
         "objectID": "1652",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/dbbd2e040a42c2e76fb2d485908a5b55/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/dbbd2e040a42c2e76fb2d485908a5b55/manifest.json",
+                "label": "勅脩百丈淸規8卷"
+            }
         ],
         "to image no.(1)": "91",
         "函册": "204-01",
@@ -41742,7 +42066,10 @@
         "fulltext": ", 大明續入藏諸集, 205-01, U1641, 1656, 1, 8, 禪源諸詮集都序2卷, 唐釋宗密述, 釋宗密, 定型, 萬暦35年刊, 23.3, 15, 卷上(1)8a, 08717, T2015, 底本, 底本, 增上寺報恩藏藏本, 禪源諸詮集都序2卷, u-renja1656-1658, IIIF, 1, 61",
         "objectID": "1656",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/966eee8b088c15ab27b03c8fff7116ce/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/966eee8b088c15ab27b03c8fff7116ce/manifest.json",
+                "label": "禪源諸詮集都序2卷"
+            }
         ],
         "to image no.(1)": "61",
         "函册": "205-01",
@@ -41773,7 +42100,10 @@
         "fulltext": ", 大明續入藏諸集, 205-01, U----, 1657, 1, 3, 八識規矩補註2卷坿音切, 明釋普泰補注, 釋普泰, 定型, 萬暦18年刊, 23.5, 15.2, 卷上2a, 08369, T1865, 底本, 底本, 增上寺報恩藏藏本, 八識規矩補註2卷, u-renja1656-1658, IIIF, 62, 99",
         "objectID": "1657",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2fc24172ba689400646b60edde585b8d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2fc24172ba689400646b60edde585b8d/manifest.json",
+                "label": "八識規矩補註2卷"
+            }
         ],
         "to image no.(1)": "99",
         "函册": "205-01",
@@ -41804,7 +42134,10 @@
         "fulltext": ", 大明續入藏諸集, 205-01, U1640, 1658, 1, 4, 大乘百法明門論2卷坿科1卷, 天親菩薩造, 唐釋玄奘譯, 唐釋窺基註解, 明釋普泰增修, 天親菩薩, 釋玄奘, 釋窺基, 釋普泰, 定型, 萬暦18年刊, 23.7, 15.2, 卷上1a, 08308, T1836, 底本, 底本, 增上寺報恩藏藏本, 大乘百法明門論2卷坿科1卷, u-renja1656-1658, IIIF, 99, 129",
         "objectID": "1658",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/bc508c640a6702a2bf27c02453ae8b6d/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/bc508c640a6702a2bf27c02453ae8b6d/manifest.json",
+                "label": "大乘百法明門論2卷坿科1卷"
+            }
         ],
         "to image no.(1)": "129",
         "函册": "205-01",
@@ -41899,7 +42232,10 @@
         "fulltext": ", 大明續入藏諸集, 205-03, 205-04, U1645, 1662, 1, 11, 廬山蓮宗寶鑑10卷坿音釋, 元釋普度集, 釋普度, 定型, 崇禎16・17年刊, 21.7, 14.1, 卷一1a, 08609, T1973, 校本, 校本, 增上寺報恩藏藏本, 廬山蓮宗寶鑑10卷, u-renja1662, IIIF, 1, 194",
         "objectID": "1662",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/ff2c6ec83284bd32c53351c5d6eba617/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/ff2c6ec83284bd32c53351c5d6eba617/manifest.json",
+                "label": "廬山蓮宗寶鑑10卷"
+            }
         ],
         "to image no.(1)": "194",
         "函册": "205-03",
@@ -41931,7 +42267,10 @@
         "fulltext": ", 大明續入藏諸集, 205-05, U1646, 1663, 1, 1, 永明智覺禪師唯心訣1卷, 宋釋延壽述, 釋延壽, 定型, 23.2, 14.9, 1a, 08724, T2018, 底本, 底本, 增上寺報恩藏藏本, 永明智覺禪師唯心訣1卷, u-renja1663-1668, IIIF, 1, 15",
         "objectID": "1663",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/1c13ac369691cffa545abf67d991a2f2/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/1c13ac369691cffa545abf67d991a2f2/manifest.json",
+                "label": "永明智覺禪師唯心訣1卷"
+            }
         ],
         "to image no.(1)": "15",
         "函册": "205-05",
@@ -41961,7 +42300,10 @@
         "fulltext": ", 大明續入藏諸集, 205-05, U1646, 1664, 1, 1, 定慧相資歌1卷, 宋釋延壽述, 釋延壽, 定型, 23.3, 15, 13a, 08724, T2018, 底本, 底本, 增上寺報恩藏藏本, 定慧相資歌1卷, u-renja1663-1668, IIIF, 15, 17",
         "objectID": "1664",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/6bd5ea07e5141a211ff648a9a21686e6/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/6bd5ea07e5141a211ff648a9a21686e6/manifest.json",
+                "label": "定慧相資歌1卷"
+            }
         ],
         "to image no.(1)": "17",
         "函册": "205-05",
@@ -41991,7 +42333,10 @@
         "fulltext": ", 大明續入藏諸集, 205-05, U1646, 1665, 1, 1, 警世1卷, 宋釋延壽述, 釋延壽, 定型, 23.2, 14.9, 15a, 08724, T2018, 底本, 底本, 增上寺報恩藏藏本, 警世1卷, u-renja1663-1668, IIIF, 17, 19",
         "objectID": "1665",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/a91ff816b7aac769059e6f828c645f95/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/a91ff816b7aac769059e6f828c645f95/manifest.json",
+                "label": "警世1卷"
+            }
         ],
         "to image no.(1)": "19",
         "函册": "205-05",
@@ -42021,7 +42366,10 @@
         "fulltext": ", 大明續入藏諸集, 205-05, U1646, 1666, 1, 1, 宗鏡録序1卷坿音釋, 宋釋延壽述, 釋延壽, 定型, 萬暦37年刊, 23.5, 15, 17a, 宗鏡録序1卷, u-renja1663-1668, IIIF, 19, 26",
         "objectID": "1666",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/2ab03da7a9749110fd2415625f1c4601/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/2ab03da7a9749110fd2415625f1c4601/manifest.json",
+                "label": "宗鏡録序1卷"
+            }
         ],
         "to image no.(1)": "26",
         "函册": "205-05",
@@ -42047,7 +42395,10 @@
         "fulltext": ", 大明續入藏諸集, 205-05, U1647, 1667, 1, 1, 禪宗決疑集1卷坿音釋, 元釋智徹述, 釋智徹, 定型, 萬暦36年刊, 22.9, 15, 1a, 08732, T2021, 底本, 底本, 增上寺報恩藏藏本, 禪宗決疑集1卷, u-renja1663-1668, IIIF, 26, 52",
         "objectID": "1667",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/f849ef1bfce7818164b2fcf9ba63b038/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/f849ef1bfce7818164b2fcf9ba63b038/manifest.json",
+                "label": "禪宗決疑集1卷"
+            }
         ],
         "to image no.(1)": "52",
         "函册": "205-05",
@@ -42079,8 +42430,14 @@
         "fulltext": ", 大明續入藏諸集, 205-05, U1648, 1668, 1, 3, 黄檗山斷際禪師傳心法要1卷黄檗山斷際禪師宛陵録1卷, 唐釋希運説, 唐釋裴休集, 釋希運, 釋裴休, 單邊 有界8行17字 單魚尾白口 句四聲點, 不明年刊, 18.8, 11.3, 1a, 08709, T2012A, 底本, 底本, 增上寺報恩藏藏本, 8711, T2012B, 底本, 底本, 增上寺報恩藏藏本, 黄檗山斷際禪師傳心法要1卷, u-renja1663-1668, IIIF, 52, 78, 黄檗山斷際禪師宛陵録1卷, u-renja1663-1668, 78, 97",
         "objectID": "1668",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/86ff53dd86251352843b514eb29b4608/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/9b2d53db9b1b64a66fca9f1207656658/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/86ff53dd86251352843b514eb29b4608/manifest.json",
+                "label": "黄檗山斷際禪師傳心法要1卷"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/9b2d53db9b1b64a66fca9f1207656658/manifest.json",
+                "label": "黄檗山斷際禪師宛陵録1卷"
+            }
         ],
         "to image no.(1)": "78",
         "to image no.(2)": "97",
@@ -42138,7 +42495,10 @@
         "fulltext": ", 大明續入藏諸集, 205-07, U1650, 1670, 1, 3, 華嚴七字經題法界觀三十門頌2卷, 宋釋本嵩述頌, 元釋琮湛集解, 釋本嵩, 釋琮湛, 定型, 康煕3年刊, 21.7, 14.1, 卷上3a, 08415, T1885, 底本, 底本, 增上寺報恩藏藏本, 華嚴七字經題法界觀三十門頌2卷, u-renja1670, IIIF, 1, 74",
         "objectID": "1670",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/c8ce1dad9891afa00a59e60a2a273acf/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/c8ce1dad9891afa00a59e60a2a273acf/manifest.json",
+                "label": "華嚴七字經題法界觀三十門頌2卷"
+            }
         ],
         "to image no.(1)": "74",
         "函册": "205-07",
@@ -42188,7 +42548,10 @@
         "fulltext": ", 北藏缺南藏函號附, 206-01, 206-07, U1652, 1672, 1, 72, 續傳燈録36卷, 明釋居頂編, 釋居頂, 定型, 崇禎8・9年刊, 22.1, 14.1, 卷一1a, 08927, T2077, 底本, 底本, 增上寺報恩藏藏本, 續傳燈録36卷, u-renja1672, IIIF, 1, 962",
         "objectID": "1672",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/a3a55efcb22e2a2c3b438feab7a790cd/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/a3a55efcb22e2a2c3b438feab7a790cd/manifest.json",
+                "label": "續傳燈録36卷"
+            }
         ],
         "to image no.(1)": "962",
         "函册": "206-01",
@@ -42223,10 +42586,22 @@
         "fulltext": ", 北藏缺南藏函號附, 207-01, 208-05, U1653, 1673, 1, 49, 古尊宿語録48卷, 宋賾藏主集, 賾藏主, 定型, 萬暦41-45年刊, 23.3, 14.8, 卷一1a, 08636, T1985, 校本, 校本, 增上寺報恩藏藏本（古尊宿語錄之内）, 8649, T1988, 校本, 校本, 增上寺報恩藏藏本（古尊宿語錄之内）, 8662, T1994A, 底本, 底本, 增上寺報恩藏藏本（古尊宿語錄之内）, 8666, T1995, 底本, 底本, 增上寺報恩藏藏本（古尊宿語錄之内）, 古尊宿語録48卷　(卷4-5), u-renja1673(4-5), IIIF, 1, 47, 古尊宿語録48卷　(卷15-18), u-renja1673(15-22), 1, 121, 古尊宿語録48卷　(卷19), u-renja1673(15-22), 121, 144, 古尊宿語録48卷　(卷20-22), u-renja1673(15-22), 144, 225",
         "objectID": "1673",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/70b38407c8576d341b41f570e216d444/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/0533b5eb65e23c5602e26076b2ffda90/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/4d1e1e326401993307284872e34843e5/manifest.json",
-            "https://taishozo.github.io/u-renja/iiif2/7ebf96111e4c22363ef9dc9b591ac1cd/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/70b38407c8576d341b41f570e216d444/manifest.json",
+                "label": "古尊宿語録48卷　(卷4-5)"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/0533b5eb65e23c5602e26076b2ffda90/manifest.json",
+                "label": "古尊宿語録48卷　(卷15-18)"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/4d1e1e326401993307284872e34843e5/manifest.json",
+                "label": "古尊宿語録48卷　(卷19)"
+            },
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/7ebf96111e4c22363ef9dc9b591ac1cd/manifest.json",
+                "label": "古尊宿語録48卷　(卷20-22)"
+            }
         ],
         "to image no.(1)": "47",
         "to image no.(2)": "121",
@@ -42300,7 +42675,10 @@
         "fulltext": ", 北藏缺南藏函號附, 210-01, 210-10, U1655, 1675, 1, 60, 佛祖統紀54卷坿音釋, 宋釋志磐撰, 釋志磐, 雙邊 有界10行20字 單魚尾上白口下小黒口 無點, 20.8, 14.3, 卷一1a, 08788, T2035, 底本, 底本, 增上寺報恩藏藏本, 佛祖統紀54卷, u-renja1675, IIIF, 1, 1201",
         "objectID": "1675",
         "relatedLink": [
-            "https://taishozo.github.io/u-renja/iiif2/b2ede148fae7e6c98bdd315a1a6b3260/manifest.json"
+            {
+                "id": "https://taishozo.github.io/u-renja/iiif2/b2ede148fae7e6c98bdd315a1a6b3260/manifest.json",
+                "label": "佛祖統紀54卷"
+            }
         ],
         "to image no.(1)": "1201",
         "函册": "210-01",

@@ -59,8 +59,30 @@
 
           <td>
             {{ $utils.formatArrayValue(obj['經典名稱・卷數']) }}
-
-            <span v-html="icons(obj)" />
+            <template v-if="obj.relatedLink && obj.relatedLink.length > 0">
+              <span
+                v-for="(item2, key2) in obj.relatedLink"
+                :key="key2"
+                class="mx-1"
+              >
+                <v-tooltip bottom>
+                  <template v-slot:activator="{ on }">
+                    <span v-on="on">
+                      <a
+                        :href="`http://www.kanzaki.com/works/2016/pub/image-annotator?u=${item2.id}`"
+                        target="_blank"
+                      >
+                        <img
+                          width="30px"
+                          src="https://pbs.twimg.com/profile_images/596366309601845248/2uaPY5NH.png"
+                        />
+                      </a>
+                    </span>
+                  </template>
+                  <span>{{ item2.label }}の画像を開く</span>
+                </v-tooltip>
+              </span>
+            </template>
           </td>
           <td>
             {{ $utils.formatArrayValue(obj['譯著者']) }}
@@ -123,8 +145,8 @@ export default class FullTextSearch extends Vue {
     )
   }
 
+  /*
   icons(obj: any) {
-    console.log({ obj })
     const results = []
     if (obj.relatedLink) {
       const manifests = obj.relatedLink
@@ -136,8 +158,9 @@ export default class FullTextSearch extends Vue {
         results.push(text)
       }
     }
-    return results.join('  ')
+    return results // .join('  ')
   }
+  */
 
   size(obj: any) {
     return (

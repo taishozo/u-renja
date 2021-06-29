@@ -110,11 +110,7 @@
               hide-details
               outlined
               rounded
-              :items="[
-                { text: '20件', value: 20 },
-                { text: '50件', value: 50 },
-                { text: '100件', value: 100 },
-              ]"
+              :items="itemPerPages"
               dense
               @change="changeHitsPerPage()"
             ></v-select>
@@ -392,9 +388,9 @@ export default {
     return {
       slug: this.$route.params.slug,
       page: 1,
-      // sort: process.env.defaultSort,
+      sort: '',
       layout_: '', // process.env.defaultLayout,
-      size: 20,
+      size: -1,
       total: 0,
       items: [],
       ids: [],
@@ -452,15 +448,32 @@ export default {
       },
       set() {},
     },
+    /*
     sort: {
       get() {
         return this.config.defaultSort
       },
       set() {},
     },
+    */
     sortList: {
       get() {
         return this.config.sort
+      },
+      set() {
+        // this.sort = value value
+      },
+    },
+    itemPerPages: {
+      get() {
+        const items = []
+        for (const value of this.config.itemPerPages) {
+          items.push({
+            text: value + ' ' + this.$t('results'),
+            value,
+          })
+        }
+        return items
       },
       set() {
         // this.sort = value value
@@ -594,11 +607,11 @@ export default {
       this.page = page
 
       // hitsPerPage
-      const size = Number(query.size) || this.size
+      const size = Number(query.size) || this.config.defaultItemPerPage
       this.size = size
 
       // sort
-      const sort = query.sort || this.sort
+      const sort = query.sort || this.config.defaultSort
       this.sort = sort
 
       // レイアウト
@@ -608,7 +621,7 @@ export default {
       } else if (localStorage.getItem('layout')) {
         layout = localStorage.getItem('layout')
       } else {
-        layout = this.layout_
+        layout = this.config.defaultLayout
       }
       // const layout = query['layout'] || this.layout_
       this.layout_ = layout
@@ -653,7 +666,8 @@ export default {
         this.facets,
         this.sort,
         freq,
-        query
+        query,
+        this.config
       )
 
       this.ids = sortedIds

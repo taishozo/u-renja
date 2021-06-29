@@ -306,7 +306,14 @@ export class IndexUtils {
     return { ids, freq }
   }
 
-  sort(ids: string[], facets: any, sort: string, freq: any, query: any) {
+  sort(
+    ids: string[],
+    facets: any,
+    sort: string,
+    freq: any,
+    query: any,
+    config: any
+  ) {
     const q = query['main[query]'] || ''
 
     const spl = sort.split(':')
@@ -343,17 +350,36 @@ export class IndexUtils {
       // 項目でソート
       const sortObj = facets[sortValue]
 
-      const keys = Object.keys(sortObj)
+      let keys: any = Object.keys(sortObj)
 
-      // 速度の問題で、キーの数が多すぎる場合には、idsでソートする
+      // 数字の場合
+      if (config.aggs[sortValue].type === 'number') {
+        const numberedKeys = []
+        for (const key of keys) {
+          numberedKeys.push(Number(key))
+        }
+        keys = numberedKeys
+      }
+
+      // 速度の問題で、キーの数が多すぎる場合には、idsでソートする：現状、無効化
       if (keys.length === 0) {
         // keys.length > 100 && false
         ids = ids.sort()
       } else {
         if (sortOrder === 'desc') {
-          keys.reverse()
+          // keys.reverse()
+          keys.sort(function (a: any, b: any) {
+            if (a > b) return -1
+            if (a < b) return 1
+            return 0
+          })
         } else {
-          keys.sort()
+          // keys.sort()
+          keys.sort(function (a: any, b: any) {
+            if (a < b) return -1
+            if (a > b) return 1
+            return 0
+          })
         }
 
         let sortIds: string[] = []

@@ -10,26 +10,37 @@ from PIL import Image
 import yaml
 import requests
 
+def getManifests():
+
+    with open("../../static/iiif2/collection/top.json") as f:
+        collection2 = json.load(f)
+
+    map = {}
+
+    manifests2 = collection2["manifests"]
+    for m in manifests2:
+        no = ""
+        id = m["@id"]
+
+        for obj in m["metadata"]:
+            if obj["label"] == "Description":
+                no = obj["value"][0].split(" ")[1]
+
+        no = int(no)
+
+        if no not in map:
+            map[no] = []
+        map[no].append({
+            "id": id,
+            "label": m["label"]
+        })
+
+    return map
+
+map = getManifests()
+
 with open("../../static/iiif/collection/top.json") as f:
     collection = json.load(f)
-
-with open("../../static/iiif2/collection/top.json") as f:
-    collection2 = json.load(f)
-
-map = {}
-
-manifests2 = collection2["manifests"]
-for m in manifests2:
-    no = ""
-    id = m["@id"]
-
-    for obj in m["metadata"]:
-        if obj["label"] == "Description":
-            no = obj["value"][0].split(" ")[1]
-
-    if no not in map:
-        map[no] = []
-    map[no].append(id)
 
 manifests = collection["manifests"]
 
@@ -58,6 +69,8 @@ for m in manifests:
         fulltext += ", " + str(value)
 
     id = item["objectID"]
+
+    id = int(id)
 
     if id in map:
         item["relatedLink"] = map[id]
