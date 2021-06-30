@@ -27,7 +27,7 @@
       </template>
 
       <template v-else>
-        <v-row class="mt-2" dense>
+        <v-row class="mt-2" dense justify="center" align-content="center">
           <v-col cols="12" sm="10">
             <FullTextSearch
               background-color="grey lighten-3"
@@ -129,6 +129,7 @@
           </v-col>
 
           <v-col cols="12" md="3" class="text-right">
+            <span>表示スタイル</span>
             <v-btn
               v-for="(option, key) in layouts"
               :key="key"

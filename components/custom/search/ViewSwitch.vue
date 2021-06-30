@@ -11,12 +11,13 @@
           rounded
           :items="items"
           dense
+          label="切り替え"
           @change="changeValue()"
         ></v-select>
       </v-col>
     </v-row>
 
-    <v-snackbar v-model="dialog" :timeout="1000" :vertical="true">
+    <v-snackbar v-model="dialog" :timeout="2000" :vertical="true">
       検索結果が多すぎます。検索結果を絞り込んでください。
 
       <template v-slot:action="{ attrs }">
