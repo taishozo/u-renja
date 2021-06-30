@@ -10,6 +10,19 @@ from PIL import Image
 import yaml
 import requests
 
+with open("data/itaiji.json") as f:
+    dd = json.load(f)
+
+
+def itaiji(data):
+    for key in dd:
+        for v in dd[key]:
+            data = data.replace(v, key)
+
+    return data
+
+#####
+
 with open("../../static/iiif/collection/advanced.json") as f:
     collection = json.load(f)
 
@@ -32,6 +45,9 @@ for m in manifests:
         if value != "":
             item[me["label"]] = value
             fulltext += ", " + value
+
+    # 変換
+    fulltext = itaiji(fulltext)
     
     item["fulltext"] = fulltext
     actions.append(item)
