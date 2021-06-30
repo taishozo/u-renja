@@ -11,7 +11,14 @@ export default {
     if (param === undefined) {
       // return redirect('/')
     }
-    const redirectPath = '/' + param.replace(base, '')
+    let redirectPath = '/' + param.replace(base, '')
+
+    for (const key in query) {
+      if (key !== 'p') {
+        redirectPath += '&' + key + '=' + query[key]
+      }
+    }
+
     console.log({ redirectPath })
     // return redirect(redirectPath)
   },
