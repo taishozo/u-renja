@@ -5,11 +5,11 @@
 <script>
 export default {
   layout: 'blank',
-  fetch({ base, /* redirect, */ query }) {
+  fetch({ base, redirect, query }) {
     console.log({ query })
     const param = query.p
     if (param === undefined) {
-      // return redirect('/')
+      return redirect('/')
     }
     let redirectPath = '/' + param.replace(base, '')
 
@@ -18,9 +18,7 @@ export default {
         redirectPath += '&' + key + '=' + query[key]
       }
     }
-
-    console.log({ redirectPath })
-    // return redirect(redirectPath)
+    return redirect(redirectPath)
   },
 }
 </script>

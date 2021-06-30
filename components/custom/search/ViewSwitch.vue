@@ -15,11 +15,21 @@
         ></v-select>
       </v-col>
     </v-row>
+
+    <v-snackbar v-model="dialog" :timeout="1000" :vertical="true">
+      検索結果が多すぎます。検索結果を絞り込んでください。
+
+      <template v-slot:action="{ attrs }">
+        <v-btn color="blue" text v-bind="attrs" @click="dialog = false">
+          Close
+        </v-btn>
+      </template>
+    </v-snackbar>
   </div>
 </template>
 
 <script lang="ts">
-import { Prop, Vue, Component, Watch } from 'nuxt-property-decorator'
+import { Prop, Vue, Component } from 'nuxt-property-decorator'
 
 import ResultOption from '~/components/display/ResultOption.vue'
 
@@ -34,25 +44,15 @@ export default class FullTextSearch extends Vue {
   @Prop({})
   aggs!: any
 
-  @Watch('facets', { deep: true })
-  watchV() {
-    this.init()
-  }
-
-  init() {
-    const facets = this.aggs
-    console.log({ facets })
-  }
-
   mounted() {
     let slug = this.$route.params.slug
     if (!slug) {
       slug = 'default'
     }
     this.item = slug
-
-    this.init()
   }
+
+  dialog: boolean = false
 
   items: any = [
     {
@@ -81,9 +81,14 @@ export default class FullTextSearch extends Vue {
     } else {
       const values = this.aggs['通番'].value
 
+      if (values.length > 50) {
+        this.dialog = true
+        return
+      }
+
       const query: any = {}
       for (let i = 0; i < values.length; i++) {
-        query[`main[refinementList][通番][${i}]`] = values[i]
+        query[`main[refinementList][通番][${i}]`] = values[i][0]
       }
 
       this.$router.push(
