@@ -713,20 +713,12 @@ export default {
       let values = []
       for (const queryField in query) {
         if (queryField.includes('[refinementList][' + field + ']')) {
-          values.push(query[queryField])
-          delete query[queryField]
-        }
-      }
+          if (type !== 'all') {
+            // ここが重要
+            values.push(query[queryField])
+          }
 
-      if (type === 'all') {
-        const x = new Set(values)
-        const y = new Set(selectedValues)
-        const intersection = Array.from(new Set([...x].filter((e) => y.has(e)))) // 2, 3
-        if (
-          values.length === intersection.length &&
-          selectedValues.length === intersection.length
-        ) {
-          return
+          delete query[queryField]
         }
       }
 
