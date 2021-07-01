@@ -331,5 +331,15 @@
     "refine": "Refine",
     "show all": "Show All",
     "results" : "results",
-    "dataset": "Dataset"
+    "dataset": "Dataset",
+    "open": "Open",
+    "checked": "Checked",
+    "selected": "Selected",
+    "所在": "所在",
+    "書名目録": "書名目録",
+    "詳細目録": "詳細目録",
+
+    "Category" : "Category",
+    "Dataset" : "Dataset",
+    "reset": "Reset"
   }

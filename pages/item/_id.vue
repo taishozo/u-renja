@@ -10,10 +10,12 @@
         width="100%"
         class="my-2"
       >
-        <tr v-for="(obj, index) in apiResult" :key="index">
-          <th>{{ obj.label }}</th>
-          <td>{{ obj.value }}</td>
-        </tr>
+        <template v-for="(obj, index) in apiResult">
+          <tr v-if="obj.label !== '卷末附録_facet'" :key="index">
+            <th>{{ obj.label }}</th>
+            <td>{{ $utils.formatArrayValue(obj.value, ' ') }}</td>
+          </tr>
+        </template>
       </table>
     </v-container>
   </div>

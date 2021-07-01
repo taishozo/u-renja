@@ -2,7 +2,7 @@
   <div>
     <BMenu :items="bh"></BMenu>
     <v-container class="my-5">
-      <h2 class="mb-5">データセット</h2>
+      <h2 class="mb-5">{{ title }}</h2>
 
       <v-simple-table>
         <template v-slot:default>

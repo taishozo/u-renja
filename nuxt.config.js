@@ -223,6 +223,13 @@ env.config = {
         key: '函(通番)',
         more: false,
       },
+      函册次: {
+        // sort: 'name:asc',
+        label: '函册次',
+        value: {},
+        key: '函册次',
+        more: false,
+      },
       '分類(1)': {
         // sort: 'name:asc',
         label: '分類(1)',
@@ -244,13 +251,7 @@ env.config = {
         key: '分類(3)',
         more: false,
       },
-      函册次: {
-        // sort: 'name:asc',
-        label: '函册次',
-        value: {},
-        key: '函册次',
-        more: false,
-      },
+
       經番: {
         // sort: 'name:asc',
         label: '經番',

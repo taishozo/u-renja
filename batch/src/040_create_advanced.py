@@ -41,6 +41,8 @@ for j in range(1, r_count):
     if pd.isnull(df_item.iloc[j, 0]):
         continue
 
+    facets = []
+
     for i in map:
         label = map[i]
         value = df_item.iloc[j, i]
@@ -50,7 +52,13 @@ for j in range(1, r_count):
             value = str(value).strip()
 
             if label == "卷末附録(1)" or label == "卷末附録(2)" or label == "卷末附録(3)" or label == "卷末附録(4)":
-                label = "卷末附録_facet"
+                if label == "卷末附録(1)":
+                    metadata.append({
+                        "label": "卷末附録_facet",
+                        "value" : facets
+                    })
+                # label = "卷末附録_facet"
+                facets.append(value)
         else:
             value = ""
             
@@ -66,7 +74,7 @@ for j in range(1, r_count):
                 "label": "画像有無",
                 "value" : "画像なし"
             })
-        '''
+        '''    
 
     id = str(j).zfill(6)
 

@@ -164,11 +164,11 @@ export default class FullTextSearch extends Vue {
 
   size(obj: any) {
     return (
-      this.$utils.formatArrayValue(obj['寸法(縦）']) +
+      (this.$utils.formatArrayValue(obj['寸法(縦）']) || '') +
       '×' +
-      this.$utils.formatArrayValue(obj['寸法(横)']) +
+      (this.$utils.formatArrayValue(obj['寸法(横)']) || '') +
       '(' +
-      this.$utils.formatArrayValue(obj['寸法（計測箇所）']) +
+      (this.$utils.formatArrayValue(obj['寸法（計測箇所）']) || '') +
       ')'
     )
   }

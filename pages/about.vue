@@ -2,7 +2,7 @@
   <div>
     <BMenu :items="bh"></BMenu>
     <v-container class="my-5">
-      <h2 class="mb-5">{{ $t('about_') }}</h2>
+      <h2 class="mb-5">{{ title }}</h2>
 
       <ul class="my-5">
         <li v-for="(item, key) in menu" :key="key" class="mb-2">
@@ -44,7 +44,7 @@ export default class Page extends Vue {
         exact: true,
       },
       {
-        text: this.$t(this.title),
+        text: this.title,
       },
     ]
   }

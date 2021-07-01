@@ -18,7 +18,8 @@
     </v-row>
 
     <v-snackbar v-model="dialog" :timeout="2000" :vertical="true">
-      検索結果が多すぎます。検索結果を絞り込んでください。
+      通番の種類が
+      {{ thres }} 件以下になるように、検索結果を絞り込んでください。
 
       <template v-slot:action="{ attrs }">
         <v-btn color="blue" text v-bind="attrs" @click="dialog = false">
@@ -70,6 +71,8 @@ export default class FullTextSearch extends Vue {
     },
   ]
 
+  thres: number = 50
+
   changeValue() {
     const item = this.item
 
@@ -82,7 +85,7 @@ export default class FullTextSearch extends Vue {
     } else {
       const values = this.aggs['通番'].value
 
-      if (values.length > 50) {
+      if (values.length > this.thres) {
         this.dialog = true
         return
       }

@@ -42,9 +42,15 @@ for m in manifests:
 
     for me in metadata:
         value = me["value"]
+        label = me["label"]
         if value != "":
-            item[me["label"]] = value
-            fulltext += ", " + value
+            if isinstance(value, str):
+                if label not in item:
+                    item[label] = []
+                item[label].append(value)
+                fulltext += ", " + value
+            else:
+                item[label] = value
 
     # 変換
     fulltext = itaiji(fulltext)

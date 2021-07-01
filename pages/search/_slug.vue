@@ -706,6 +706,10 @@ export default {
     faceted(field, selectedValues) {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
+      if (typeof selectedValues === 'string') {
+        selectedValues = [selectedValues]
+      }
+
       let values = []
       for (const queryField in query) {
         if (queryField.includes('[refinementList][' + field + ']')) {
@@ -714,20 +718,18 @@ export default {
         }
       }
 
-      if (typeof selectedValues === 'string') {
-        selectedValues = [selectedValues]
-      }
-
-      for (const value of selectedValues) {
-        if (values.includes(value)) {
-          values = values.filter((n) => n !== value)
-        } else {
-          values.push(value)
+      if (selectedValues.length !== 0) {
+        for (const value of selectedValues) {
+          if (values.includes(value)) {
+            values = values.filter((n) => n !== value)
+          } else {
+            values.push(value)
+          }
         }
-      }
 
-      for (let i = 0; i < values.length; i++) {
-        query['main[refinementList][' + field + '][' + i + ']'] = values[i]
+        for (let i = 0; i < values.length; i++) {
+          query['main[refinementList][' + field + '][' + i + ']'] = values[i]
+        }
       }
 
       query['main[page]'] = 1
@@ -814,9 +816,23 @@ export default {
     },
 
     showAll(aggList) {
-      // this.selectedField = aggList.label
+      const values = []
+      for (const f of this.filters) {
+        if (f.label === aggList.key) {
+          values.push(f.value)
+        }
+      }
       this.selectedAgg = aggList
-      this.selected = []
+      const selected = []
+      for (const e of aggList.value) {
+        if (values.includes(e[0])) {
+          selected.push({
+            label: e[0],
+            value: e[1],
+          })
+        }
+      }
+      this.selected = selected
       this.isShowAll = true
 
       const items = []

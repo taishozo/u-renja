@@ -43,7 +43,7 @@
           <td>{{ $utils.formatArrayValue(obj['卷次等']) }}</td>
           <td>{{ $utils.formatArrayValue(obj['丁數']) }}</td>
           <td>
-            {{ $utils.formatArrayValue(obj['卷末附録_facet']) }}
+            {{ $utils.formatArrayValue(obj['卷末附録_facet'], ' ') }}
           </td>
           <td>{{ $utils.formatArrayValue(obj['刊記']) }}</td>
           <td>{{ $utils.formatArrayValue(obj['圖像']) }}</td>

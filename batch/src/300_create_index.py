@@ -76,8 +76,11 @@ for m in manifests:
 
         if label == "通番":
             value = int(value)
+
+        if label not in item:
+            item[label] = []
         
-        item[label] = value 
+        item[label].append(value)
 
         fulltext += ", " + str(value)
 
