@@ -360,7 +360,7 @@
             color="primary"
             @click="
               isShowAll = false
-              faceted(selectedAgg.key, getLabels(selected))
+              faceted(selectedAgg.key, getLabels(selected), 'all')
             "
           >
             {{ $t('refine') }}
@@ -703,7 +703,7 @@ export default {
       this.items = items
     },
 
-    faceted(field, selectedValues) {
+    faceted(field, selectedValues, type = 'default') {
       const query = JSON.parse(JSON.stringify(this.$route.query))
 
       if (typeof selectedValues === 'string') {
@@ -721,7 +721,12 @@ export default {
       if (selectedValues.length !== 0) {
         for (const value of selectedValues) {
           if (values.includes(value)) {
-            values = values.filter((n) => n !== value)
+            if (type === 'all') {
+              // allはそのまま
+            } else {
+              // 通常は除外
+              values = values.filter((n) => n !== value)
+            }
           } else {
             values.push(value)
           }

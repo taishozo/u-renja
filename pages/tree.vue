@@ -36,7 +36,22 @@
             <v-card-title class="text-h5 text-center grey lighten-2">
               所在・連
             </v-card-title>
-            <div class="pa-5">{{ $t('checked') }}: {{ rs.join(', ') }}</div>
+            <div class="pa-5">
+              <v-chip label class="mr-2" small>{{ $t('checked') }}</v-chip>
+              {{ rs.join(', ') }}
+            </div>
+
+            <v-divider />
+            <div class="text-center">
+              <v-btn class="ma-2" @click="checkAll(items, 'rs')">{{
+                $t('check all')
+              }}</v-btn
+              ><v-btn class="ma-2" @click="clearAll(items, 'rs')">{{
+                $t('clear')
+              }}</v-btn>
+            </div>
+            <v-divider />
+
             <v-list-item v-for="(item, key) in items" :key="key">
               <template>
                 <v-list-item-action>
@@ -67,9 +82,22 @@
             <v-card-title class="text-h5 text-center grey lighten-2">
               所在・箱
             </v-card-title>
-            <div class="pa-5">{{ $t('checked') }}: {{ hs.join(', ') }}</div>
+            <div class="pa-5">
+              <v-chip label class="mr-2" small>{{ $t('checked') }}</v-chip>
+              {{ hs.join(', ') }}
+            </div>
             <template v-if="r !== ''">
               <template>
+                <v-divider />
+                <div class="text-center">
+                  <v-btn class="ma-2" @click="checkAll(items[r], 'hs')">{{
+                    $t('check all')
+                  }}</v-btn
+                  ><v-btn class="ma-2" @click="clearAll(items[r], 'hs')">{{
+                    $t('clear')
+                  }}</v-btn>
+                </div>
+                <v-divider />
                 <v-list-item
                   v-for="(item, key) in bbb(items[r])"
                   :key="`${item}-${key}`"
@@ -104,8 +132,22 @@
             <v-card-title class="text-h5 text-center grey lighten-2">
               所在・函
             </v-card-title>
-            <div class="pa-5">{{ $t('checked') }}: {{ k.join(', ') }}</div>
+            <div class="pa-5">
+              <v-chip label class="mr-2" small>{{ $t('checked') }}</v-chip>
+              {{ k.join(', ') }}
+            </div>
+
             <template v-if="r !== '' && h !== ''">
+              <v-divider />
+              <div class="text-center">
+                <v-btn class="ma-2" @click="checkAll(items[r][h], 'k')">{{
+                  $t('check all')
+                }}</v-btn
+                ><v-btn class="ma-2" @click="clearAll(items[r][h], 'k')">{{
+                  $t('clear')
+                }}</v-btn>
+              </div>
+              <v-divider />
               <v-list-item
                 v-for="(item, key) in items[r][h]"
                 :key="`${item}-${key}`"
@@ -176,6 +218,75 @@ export default class Page extends Vue {
     let index: any = await axios.get(process.env.BASE_URL + '/data/tree.json')
     index = index.data
     this.items = index
+
+    if (Object.prototype.hasOwnProperty.call(sessionStorage, 'search-params')) {
+      const params = JSON.parse(
+        (sessionStorage as any).getItem('search-params')
+      )
+      this.rs = params.rs
+      this.hs = params.hs
+      this.k = params.k
+    }
+  }
+
+  checkAll(arr: any, type: string) {
+    let values: any = []
+    switch (type) {
+      case 'rs':
+        values = this.rs
+        break
+      case 'hs':
+        values = this.hs
+        break
+      case 'k':
+        values = this.k
+        break
+    }
+    const keys = type === 'k' ? arr : Object.keys(arr)
+    const x = new Set(keys)
+    const y = new Set(values)
+    const union: any = new Set([...x, ...y])
+    switch (type) {
+      case 'rs':
+        this.rs = Array.from(union)
+        break
+      case 'hs':
+        this.hs = Array.from(union)
+        break
+      case 'k':
+        this.k = Array.from(union)
+        break
+    }
+  }
+
+  clearAll(arr: any, type: string) {
+    let values: any = []
+    switch (type) {
+      case 'rs':
+        values = this.rs
+        break
+      case 'hs':
+        values = this.hs
+        break
+      case 'k':
+        values = this.k
+        break
+    }
+    const keys = type === 'k' ? arr : Object.keys(arr)
+    const x = new Set(values)
+    const y = new Set(keys)
+    const difference: any = new Set([...x].filter((e) => !y.has(e)))
+    switch (type) {
+      case 'rs':
+        this.rs = Array.from(difference)
+        break
+      case 'hs':
+        this.hs = Array.from(difference)
+        break
+      case 'k':
+        this.k = Array.from(difference)
+        break
+    }
   }
 
   bbb(data: any) {
@@ -234,6 +345,14 @@ export default class Page extends Vue {
         query[`main[refinementList][函册次][${i}]`] = k[i]
       }
     }
+
+    const map: any = {
+      rs,
+      hs,
+      k,
+    }
+
+    sessionStorage.setItem('search-params', JSON.stringify(map)) // 👈 sessionStorageへ保存 ・・・ ②
 
     this.$router.push(
       this.localePath({
