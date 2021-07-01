@@ -83,7 +83,7 @@
             class="mr-2 my-2"
             @click="init()"
           >
-            {{ $t('Clear all') }}
+            {{ $t('clear') }}
           </v-chip>
         </div>
 
@@ -718,15 +718,24 @@ export default {
         }
       }
 
+      if (type === 'all') {
+        const x = new Set(values)
+        const y = new Set(selectedValues)
+        const intersection = Array.from(new Set([...x].filter((e) => y.has(e)))) // 2, 3
+        if (
+          values.length === intersection.length &&
+          selectedValues.length === intersection.length
+        ) {
+          return
+        }
+      }
+
+      // リストに違いがなければ
+
       if (selectedValues.length !== 0) {
         for (const value of selectedValues) {
           if (values.includes(value)) {
-            if (type === 'all') {
-              // allはそのまま
-            } else {
-              // 通常は除外
-              values = values.filter((n) => n !== value)
-            }
+            values = values.filter((n) => n !== value)
           } else {
             values.push(value)
           }
