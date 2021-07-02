@@ -31,7 +31,7 @@
       </div>
 
       <v-row>
-        <v-col cols="4">
+        <v-col cols="12" sm="4">
           <v-card outlined flat>
             <v-card-title class="text-h5 text-center grey lighten-2">
               所在・連
@@ -77,7 +77,7 @@
             </v-list-item>
           </v-card>
         </v-col>
-        <v-col cols="4">
+        <v-col cols="12" sm="4">
           <v-card outlined flat>
             <v-card-title class="text-h5 text-center grey lighten-2">
               所在・箱
@@ -127,7 +127,7 @@
             </template>
           </v-card>
         </v-col>
-        <v-col cols="4">
+        <v-col cols="12" sm="4">
           <v-card outlined flat>
             <v-card-title class="text-h5 text-center grey lighten-2">
               所在・函
