@@ -327,12 +327,7 @@
             }"
             show-select
           >
-            <template v-if="false" v-slot:top>
-              <v-switch
-                v-model="singleSelect"
-                label="Single select"
-                class="pa-3"
-              ></v-switch>
+            <template v-slot:top>
               <v-text-field
                 v-model="facetSearch"
                 background-color="grey lighten-3"
