@@ -342,5 +342,6 @@
     "Category" : "Category",
     "Dataset" : "Dataset",
     "reset": "Reset",
-    "check all": "Check All"
+    "check all": "Check All",
+    "none" : "None"
   }

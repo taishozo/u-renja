@@ -59,6 +59,8 @@ manifests = collection["manifests"]
 
 actions = []
 
+
+
 for m in manifests:
 
     fulltext = ""
@@ -96,6 +98,17 @@ for m in manifests:
     
     item["fulltext"] = fulltext
     actions.append(item)
+
+keys = []
+for item in actions:
+    for label in item:
+        if label not in keys:
+            keys.append(label)
+
+for item in actions:
+    for key in keys:
+        if key not in item:
+            item[key] = [""]
 
 f2 = open("../../static/data/index.json", 'w')
 json.dump(actions, f2, ensure_ascii=False, indent=4,

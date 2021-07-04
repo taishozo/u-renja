@@ -19,9 +19,9 @@ map = {}
 
 for obj in collection:
     print(obj["objectID"])
-    r = obj["連"]
-    h = obj["箱"]
-    k = obj["函册次"]
+    r = obj["連"][0]
+    h = obj["箱"][0]
+    k = obj["函册次"][0]
 
     if r not in map:
         map[r] = {}
@@ -35,15 +35,6 @@ for obj in collection:
 
     if k not in tmp:
         tmp.append(k)
-
-    '''
-    if r not in tree:
-        item = {
-            "label" : r,
-            "children" : []
-        }
-        tree.append(item)
-    '''
 
 
 f2 = open("../../static/data/tree.json", 'w')

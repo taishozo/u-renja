@@ -95,9 +95,9 @@ for j in range(1, r_count):
 
             if label == "画像フォルダ名(1)":
 
-                image_flg = "画像なし"
+                image_flg = ""
                 if value != "":
-                    image_flg = "IIIF"
+                    image_flg = "あり"
 
                 metadata.append({
                     "label": "画像有無",
@@ -112,7 +112,7 @@ for j in range(1, r_count):
         elif label == "画像フォルダ名(1)":
             metadata.append({
                 "label": "画像有無",
-                "value" : "画像なし"
+                "value" : ""
             })
 
     id = str(id).zfill(6)

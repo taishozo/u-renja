@@ -73,7 +73,7 @@
               label
               @click:close="faceted(e.label, e.value)"
             >
-              {{ aggs[e.label].label }}: {{ e.value }}
+              {{ aggs[e.label].label }}: <c-render :value="e.value" />
             </v-chip>
           </template>
 
@@ -86,6 +86,8 @@
             {{ $t('clear') }}
           </v-chip>
         </div>
+
+        <ViewSwitch class="mt-5" :aggs="aggs"></ViewSwitch>
 
         <v-row class="mt-5" dense>
           <v-col cols="12" md="4">
@@ -142,9 +144,7 @@
           </v-col>
         </v-row>
 
-        <ViewSwitch :aggs="aggs"></ViewSwitch>
-
-        <div v-show="isPagination" class="text-center mt-10">
+        <div v-show="isPagination" v-if="false" class="text-center mt-10">
           <v-pagination
             v-model="page"
             :length="length"
@@ -197,7 +197,7 @@
               <v-expansion-panels
                 v-if="!aggList.hide"
                 :key="aggField"
-                :value="0"
+                :value="isEachFacetOpen(aggField, aggList) ? 0 : 1"
                 flat
                 class="mb-4"
               >
@@ -233,7 +233,8 @@
                             <template v-else>
                               <v-icon> mdi-checkbox-blank-outline </v-icon>
                             </template>
-                            {{ e[0] }}
+
+                            <c-render :value="e[0]"></c-render>
                           </v-col>
                           <v-col cols="3">
                             {{ e[1] }}
@@ -268,8 +269,9 @@
                           ><v-icon color="primary">
                             mdi-checkbox-blank
                           </v-icon>
-                          {{ e.substring(1) }}</v-col
-                        >
+
+                          <c-render :value="e.substring(1)"></c-render
+                        ></v-col>
                       </v-row>
                       <v-divider :key="'d2-' + key" />
                     </template>
@@ -343,6 +345,15 @@
                 class="mx-4 my-5"
               ></v-text-field>
             </template>
+
+            <template v-slot:item.label="{ item }">
+              <template v-if="item.label === ''">
+                <span style="color: #4caf50;">{{ $t('none') }}</span>
+              </template>
+              <template v-else>
+                {{ item.label }}
+              </template>
+            </template>
           </v-data-table>
         </v-card-text>
         <v-divider></v-divider>
@@ -375,6 +386,8 @@ import CustomSearchLayoutTable from '~/components/custom/search/layout/Table.vue
 import CustomSearchLayoutAdvanced from '~/components/custom/search/layout/Advanced.vue'
 import ViewSwitch from '~/components/custom/search/ViewSwitch.vue'
 
+import CRender from '~/components/common/view/CRender.vue'
+
 export default {
   components: {
     FullTextSearch,
@@ -383,6 +396,7 @@ export default {
     CustomSearchLayoutTable,
     CustomSearchLayoutAdvanced,
     ViewSwitch,
+    CRender,
   },
   data() {
     return {
@@ -421,6 +435,8 @@ export default {
       metadataList: process.env.list,
 
       // sortList: process.env.sort,
+
+      isFacetOpenList: [],
     }
   },
 
@@ -852,6 +868,47 @@ export default {
         labels.push(item.label)
       }
       return labels
+    },
+
+    isEachFacetOpen(aggField, aggList) {
+      let filtersFlag = false
+      for (const obj of this.filters) {
+        if (obj.label === aggField) {
+          filtersFlag = true
+          break
+        }
+      }
+
+      /*
+
+      //
+      const key = 'each_facet_open_' + this.baseUrl
+      let map = {}
+      if (Object.prototype.hasOwnProperty.call(sessionStorage, key)) {
+        map = JSON.parse(sessionStorage.getItem(key))
+      }
+
+      */
+
+      //
+
+      return (
+        aggList.open || this.getMinusValues(aggField).length > 0 || filtersFlag
+        // || map[aggField]
+      )
+    },
+
+    saveEachFacetOpen(aggField, value) {
+      const key = 'each_facet_open_' + this.baseUrl
+
+      let map = {}
+      if (Object.prototype.hasOwnProperty.call(sessionStorage, key)) {
+        map = JSON.parse(sessionStorage.getItem(key))
+      }
+
+      map[aggField] = !value
+
+      sessionStorage.setItem(key, JSON.stringify(map))
     },
   },
 

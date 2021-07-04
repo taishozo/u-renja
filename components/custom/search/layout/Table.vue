@@ -60,28 +60,26 @@
           <td>
             {{ $utils.formatArrayValue(obj['經典名稱・卷數']) }}
             <template v-if="obj.relatedLink && obj.relatedLink.length > 0">
-              <span
-                v-for="(item2, key2) in obj.relatedLink"
-                :key="key2"
-                class="mx-1"
-              >
-                <v-tooltip bottom>
-                  <template v-slot:activator="{ on }">
-                    <span v-on="on">
-                      <a
-                        :href="`http://www.kanzaki.com/works/2016/pub/image-annotator?u=${item2.id}`"
-                        target="_blank"
-                      >
-                        <img
-                          width="30px"
-                          src="https://pbs.twimg.com/profile_images/596366309601845248/2uaPY5NH.png"
-                        />
-                      </a>
-                    </span>
-                  </template>
-                  <span>{{ item2.label }}の画像を開く</span>
-                </v-tooltip>
-              </span>
+              <template v-for="(item2, key2) in obj.relatedLink">
+                <span v-if="item2" :key="key2" class="mx-1">
+                  <v-tooltip bottom>
+                    <template v-slot:activator="{ on }">
+                      <span v-on="on">
+                        <a
+                          :href="`http://www.kanzaki.com/works/2016/pub/image-annotator?u=${item2.id}`"
+                          target="_blank"
+                        >
+                          <img
+                            width="30px"
+                            src="https://pbs.twimg.com/profile_images/596366309601845248/2uaPY5NH.png"
+                          />
+                        </a>
+                      </span>
+                    </template>
+                    <span>{{ item2.label }}の画像を開く</span>
+                  </v-tooltip>
+                </span>
+              </template>
             </template>
           </td>
           <td>
@@ -179,14 +177,16 @@ export default class FullTextSearch extends Vue {
     for (let i = 1; i < 5; i++) {
       const label = i === 1 ? '大正藏經典番號' : '大正藏經典番号'
 
-      if (!obj[label + '(' + i + ')']) {
+      const value = obj[label + '(' + i + ')']
+
+      if (!value || !this.$utils.formatArrayValue(value)) {
         continue
       }
       results.push(
         '<a href="https://taishozo.github.io/db/search?main[query]=' +
-          this.$utils.formatArrayValue(obj[label + '(' + i + ')']) +
+          this.$utils.formatArrayValue(value) +
           '" target="_blank">' +
-          this.$utils.formatArrayValue(obj[label + '(' + i + ')']) +
+          this.$utils.formatArrayValue(value) +
           this.$utils.formatArrayValue(obj['大正藏採録種別(' + i + ')']) +
           '(' +
           this.$utils.formatArrayValue(

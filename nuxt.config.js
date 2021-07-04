@@ -105,6 +105,7 @@ env.config = {
         value: {},
         key: '分類(1)',
         more: false,
+        open: false, // true,
       },
       '分類(2)': {
         // sort: 'name:asc',
