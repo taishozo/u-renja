@@ -162,6 +162,7 @@ env.config = {
         value: {},
         key: '画像有無',
         more: false,
+        open: true,
       },
       通番: {
         // sort: 'name:asc',
